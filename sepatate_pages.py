@@ -4,6 +4,8 @@ import os
 
 from pypdf import PdfReader, PdfWriter
 
+from find_chars import clean_text
+
 RAW_PATH = "dataset/raw"
 CLEAN_PATH = "dataset/clean"
 page_total: int = 0
@@ -28,13 +30,11 @@ def parse_pdf(file: str):
             writer.write(f)
 
         text = page.extract_text()
-        clean_text = text.encode("utf-8", errors="ignore").decode("utf-8")
-        clean_text = "".join(c for c in clean_text if ord(c) < 0xFFFF)
         page_data = {
             "file_name": page_file,
             "book_name": file,
             "page": page_num,
-            "text": clean_text,
+            "text": clean_text(text),
         }
 
         json_arr.append(page_data)
