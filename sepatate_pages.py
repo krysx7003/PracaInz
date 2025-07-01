@@ -2,7 +2,8 @@
 import json
 import os
 
-from pypdf import PdfReader, PdfWriter
+from pdf2image import convert_from_path
+from pypdf import PdfReader
 
 from find_chars import clean_text
 
@@ -18,17 +19,9 @@ def parse_pdf(file: str):
     reader = PdfReader(path)
     size = len(reader.pages)
     print(f"File {file} has: {size} pages")
+
     for page_num, page in enumerate(reader.pages[1:], start=1):
-
-        page_file = f"page{page_total}.pdf"
-        page_total += 1
-        page_path = os.path.join(CLEAN_PATH, page_file)
-
-        writer = PdfWriter()
-        writer.add_page(page)
-        with open(page_path, "wb") as f:
-            writer.write(f)
-
+        page_file = f"page{page_total}.jpg"
         text = page.extract_text()
         page_data = {
             "file_name": page_file,
@@ -38,6 +31,15 @@ def parse_pdf(file: str):
         }
 
         json_arr.append(page_data)
+
+    images = convert_from_path(path)
+    for i,image in enumerate(images):
+        page_file = f"page{page_total}.jpg"
+        page_total += 1
+        page_path = os.path.join(CLEAN_PATH, page_file)
+        image.save(page_path,'JPEG')
+
+
 
 
 def open_from_raw():
