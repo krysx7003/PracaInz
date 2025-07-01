@@ -33,13 +33,11 @@ def parse_pdf(file: str):
         json_arr.append(page_data)
 
     images = convert_from_path(path)
-    for i,image in enumerate(images):
+    for i, image in enumerate(images):
         page_file = f"page{page_total}.jpg"
         page_total += 1
         page_path = os.path.join(CLEAN_PATH, page_file)
-        image.save(page_path,'JPEG')
-
-
+        image.save(page_path, "JPEG")
 
 
 def open_from_raw():
