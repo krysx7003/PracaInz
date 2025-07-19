@@ -1,23 +1,15 @@
-# from IPython.display import display
-# from transformers import TrOCRProcessor, VisionEncoderDecoderModel
-#
-# processor = TrOCRProcessor.from_pretrained("microsoft/trocr-base-handwritten")
-# model = VisionEncoderDecoderModel.from_pretrained("microsoft/trocr-base-handwritten")
-#
-# def show_image(pathStr):
-#   img = Image.open(pathStr).convert("RGB")
-#   display(img)
-#   return img
-#
-# def ocr_image(src_img):
-#   pixel_values = processor(images=src_img, return_tensors="pt").pixel_values
-#   generated_ids = model.generate(pixel_values)
-#   return processor.batch_decode(generated_ids, skip_special_tokens=True)[0]
-#   
-#
-# image = show_image("/home/napnap/Downloads/page1-1.png")
-# print(ocr_image(image))
+import easyocr
+import keras_ocr
 import pytesseract
 from PIL import Image
 
-print(pytesseract.image_to_string(Image.open("/home/napnap/Downloads/page1-1.png")))
+path = "/home/napnap/Downloads/page1-1.jpg"
+image = Image.open(path)
+print(pytesseract.get_languages(config=""))
+print(pytesseract.image_to_string(image, lang="pol"))
+
+reader = easyocr.Reader(["pl"])
+print(reader.readtext(image, detail=0))
+
+pipeline = keras_ocr.pipeline.Pipeline()
+prediction_groups = pipeline.recognize(keras_ocr.tools.read(path))
