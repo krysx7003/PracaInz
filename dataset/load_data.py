@@ -1,16 +1,14 @@
-# pylint: disable=missing-module-docstring,missing-function-docstring
 import json
 import os
 
 import requests
-
-from book_json import BookJson
+from book_json import Book
 
 AMOUNT = 15
 TIMEOUT_MAX = 1
 AUTHOR = "adam-mickiewicz"
-RAW_PATH = "dataset/raw"
-CACHE_PATH = "dataset/.cache"
+RAW_PATH = "./raw"
+CACHE_PATH = "./.cache"
 CACHE = True
 OVERIDE = False
 
@@ -19,10 +17,10 @@ def is_cached(path: str) -> bool:
     return os.path.exists(path)
 
 
-def open_json(path: str) -> None | list[BookJson]:
+def open_json(path: str) -> None | list[Book]:
     with open(path, encoding="utf-8") as file:
         data = json.load(file)
-        return [BookJson(**book_data) for book_data in data]
+        return [Book(**book_data) for book_data in data]
 
 
 def save_json(path: str, response: requests.Response):
@@ -31,7 +29,7 @@ def save_json(path: str, response: requests.Response):
         json.dump(data, file, indent=2, ensure_ascii=False)
 
 
-def get_book_list() -> None | list[BookJson]:
+def get_book_list() -> None | list[Book]:
     url = f"https://wolnelektury.pl/api/authors/{AUTHOR}/books/"
     path = os.path.join(CACHE_PATH, f"{AUTHOR}.json")
     if is_cached(path) and CACHE:
@@ -51,14 +49,14 @@ def get_book_list() -> None | list[BookJson]:
             print(f"Sqving file {AUTHOR}.json")
             save_json(path, response)
 
-        return [BookJson(**book) for book in books_data]
+        return [Book(**book) for book in books_data]
 
     except requests.exceptions.RequestException as e:
         print("Error: ", e)
         return None
 
 
-def extract_name(book: BookJson):
+def extract_name(book: Book):
     url_frags = book.url.split("/")
     name = ""
     if url_frags:
@@ -104,7 +102,7 @@ def scrape(pdf_url: str, name: str):
         print("Error: ", e)
 
 
-def main():
+def load_data():
     json_arr = get_book_list()
     if json_arr:
         for i in range(0, AMOUNT):
@@ -123,5 +121,3 @@ def main():
         print(f"Error: The author {AUTHOR} has no books")
 
 
-if __name__ == "__main__":
-    main()

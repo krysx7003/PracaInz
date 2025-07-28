@@ -1,14 +1,12 @@
-# pylint: disable=missing-module-docstring,missing-function-docstring
 import json
 import os
 
+from find_chars import clean_text
 from pdf2image import convert_from_path
 from pypdf import PdfReader
 
-from find_chars import clean_text
-
-RAW_PATH = "dataset/raw"
-CLEAN_PATH = "dataset/clean"
+RAW_PATH = "./raw"
+CLEAN_PATH = "./clean"
 page_total: int = 0
 json_arr: list[dict[str, object]] = []
 
@@ -50,5 +48,3 @@ def open_from_raw():
         json.dump(json_arr, f, indent=2, ensure_ascii=True)
 
 
-if __name__ == "__main__":
-    open_from_raw()

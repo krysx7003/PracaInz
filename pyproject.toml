@@ -1,0 +1,17 @@
+[tool.pyright]
+typeCheckingMode = "basic"
+reportUnusedCallResult = "none"
+reportAny = "none"
+analyzeUnannotatedFunctions = "basic"
+reportUnknownArgumentType = "none"
+reportUnknownLambdaType = "none"
+reportUnknownMemberType = "none"
+reportUnknownVariableType = "none"
+reportOperatorIssue = "none"
+reportMissingTypeStubs = "none"
+venvPath = "."
+venv = "venv"
+
+[tool.black]
+
+[tool.isort]

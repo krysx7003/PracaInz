@@ -2,16 +2,13 @@
 
 ## TODO
 
-1. [x] API wolne lektury
+1. [x] Zrozumieć API wolne lektury
 2. [x] Znaleźć czionki użyte w tych pdfach
-3. [x] <https://github.com/fnp/librarian/blob/main/src/librarian> ttfy z tego gita
-4. [x] Z text\_data.json wywalić wyszystko co nie jest glifem
-5. [x] Wypisać unikalne glify
-6. [x] Ręcznie zmapować
-7. [ ] Dodać ocr
-8. [ ] Znaleźć wytrenowany model TrOcr
-9. [ ] Uruchomić Tesseracta po polsku
-10. [ ] Wybrać metody porównania
+3. [x] Wypisać unikalne glify
+4. [x] Ręcznie zmapować
+5. [x] Dodać ocr
+6. [x] Uruchomić modele po polsku
+7. [x] Wybrać metody porównania
 
 ## Opis
 

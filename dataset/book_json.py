@@ -2,7 +2,7 @@ from dataclasses import dataclass
 
 
 @dataclass
-class BookJson:
+class Book:
     kind: str
     full_sort_key: str
     title: str

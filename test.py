@@ -1,15 +1,14 @@
-import easyocr
-import keras_ocr
-import pytesseract
-from PIL import Image
+from OCR import Ocr, Ocr_name
 
-path = "/home/napnap/Downloads/page1-1.jpg"
-image = Image.open(path)
-print(pytesseract.get_languages(config=""))
-print(pytesseract.image_to_string(image, lang="pol"))
+image_name = "page1.jpg"
 
-reader = easyocr.Reader(["pl"])
-print(reader.readtext(image, detail=0))
+ocrs = {
+        Ocr(Ocr_name.TESSERACT),
+        Ocr(Ocr_name.EASY),
+        Ocr(Ocr_name.DOCTR)
+}
 
-pipeline = keras_ocr.pipeline.Pipeline()
-prediction_groups = pipeline.recognize(keras_ocr.tools.read(path))
+for ocr in ocrs:
+    ocr.recognize_image(image_name)
+    ocr.get_text()
+
