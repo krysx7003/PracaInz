@@ -119,5 +119,3 @@ def load_data():
                 print(f"File {name}.pdf already exists, skipping download")
     else:
         print(f"Error: The author {AUTHOR} has no books")
-
-

@@ -12,6 +12,15 @@ reportMissingTypeStubs = "none"
 venvPath = "."
 venv = "venv"
 
-[tool.black]
+[tool.ruff]
+line-length = 100
 
-[tool.isort]
+[tool.ruff.lint]
+extend-select = [
+  "UP",
+  "DOC",
+  "D",
+]
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"

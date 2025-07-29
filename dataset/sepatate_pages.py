@@ -31,7 +31,7 @@ def parse_pdf(file: str):
         json_arr.append(page_data)
 
     images = convert_from_path(path)
-    for i, image in enumerate(images):
+    for image in enumerate(images):
         page_file = f"page{page_total}.jpg"
         page_total += 1
         page_path = os.path.join(CLEAN_PATH, page_file)
@@ -46,5 +46,3 @@ def open_from_raw():
     path = os.path.join(CLEAN_PATH, "text_data.json")
     with open(path, "w") as f:
         json.dump(json_arr, f, indent=2, ensure_ascii=True)
-
-

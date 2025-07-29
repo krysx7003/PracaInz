@@ -12,6 +12,8 @@
 
 ## Opis
 
+<https://towardsdatascience.com/evaluating-ocr-output-quality-with-character-error-rate-cer-and-word-error-rate-wer-853175297510>
+
 ### Tytuł pracy w orginalnym języku
 
 Implementacja metod optyczengo rozpoznawania znaków.

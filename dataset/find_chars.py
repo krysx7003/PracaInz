@@ -2,9 +2,7 @@ import re
 
 
 def clean_text(text: str):
-    pattern = re.compile(
-        r"(\\u[0-9a-fA-F]{4})|[\ue000-\uf8ff]|([^\x00-\x7FążźćńółęśĄŻŹĆŃÓŁĘŚ])"
-    )
+    pattern = re.compile(r"(\\u[0-9a-fA-F]{4})|[\ue000-\uf8ff]|([^\x00-\x7FążźćńółęśĄŻŹĆŃÓŁĘŚ])")
 
     glyphs_to_code = {
         "\u0105": "ą",
