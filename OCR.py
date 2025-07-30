@@ -9,7 +9,13 @@ from doctr.io import DocumentFile
 from doctr.models import ocr_predictor
 from PIL import Image
 
+from utils.path import is_valid
+
 IMAGE_PATH = "./dataset"
+
+EASY_RES = "./easy_result.csv"
+DOCTR_RES = "./doctr_result.csv"
+TES_RES = "./tesseract_result.csv"
 
 
 class Ocr_name(StrEnum):
@@ -47,30 +53,25 @@ class Ocr:
         else:
             raise Exception(f"The ocr: {name} is not supported")
 
+        if self.name == Ocr_name.TESSERACT:
+            self.result_file = TES_RES
+
         if self.name == Ocr_name.EASY:
+            self.result_file = EASY_RES
             self.reader = easyocr.Reader(["pl"])
 
         if self.name == Ocr_name.DOCTR:
+            self.result_file = DOCTR_RES
             self.model = ocr_predictor(pretrained=True)
 
-    def is_valid(self, path: str, file_type: str = "jpg"):
-        """Checks if file on the {path} exists, is a file and is of type {file_type}.
+    def append_csv(self, line: str):
+        """Appends {line} to self.result_file.
 
         Args:
-            path (str): Path of the file to check.
-            file_type (str): File type of file. Needs to work with doctr.io.DocumentFile and PIL.Image. By default "jpg".
-
-        Returns:
-            Boolean: True if all conditions are met, otherwise False.
+            line (str): Csv formatted line.
         """
-        if not os.path.exists(path):
-            return False
-        if not os.path.isfile(path):
-            return False
-        if not path.endswith(file_type):
-            return False
-
-        return True
+        with open(self.result_file, "a") as f:
+            f.write(line + "\n")
 
     def recognize_image(self, image_name: str, input_dir: str = "clean"):
         """Uses one of the supported ocr models (specified by var self.name) to read content of the file.
@@ -83,7 +84,7 @@ class Ocr:
             Exception:  If ./datset/{input_dir}/{image_name} is invalid.
         """
         image_path = os.path.join(IMAGE_PATH, input_dir, image_name)
-        if not self.is_valid(image_path):
+        if not is_valid(image_path):
             raise Exception(f"The path: {image_path} is invalid")
 
         if self.name == Ocr_name.TESSERACT:
