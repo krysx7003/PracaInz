@@ -1,7 +1,17 @@
+"""(module) find_chars."""
+
 import re
 
 
 def clean_text(text: str):
+    """Finds and replaces wrongly mapped chars.
+
+    Args:
+        text (str): Text read from pdf file using font JunicodeWL-Regular.
+
+    Returns:
+        str: Text in which invalid characters were replaced by closest known match. If char is invalid and there is no match it will be printed out.
+    """
     pattern = re.compile(r"(\\u[0-9a-fA-F]{4})|[\ue000-\uf8ff]|([^\x00-\x7FążźćńółęśĄŻŹĆŃÓŁĘŚ])")
 
     glyphs_to_code = {

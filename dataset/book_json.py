@@ -1,8 +1,12 @@
+"""(module) book_json."""
+
 from dataclasses import dataclass
 
 
 @dataclass
 class Book:
+    """Data class for request deserialization."""
+
     kind: str
     full_sort_key: str
     title: str
