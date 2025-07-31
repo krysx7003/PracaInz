@@ -9,6 +9,9 @@
 5. [x] Dodać ocr
 6. [x] Uruchomić modele po polsku
 7. [x] Wybrać metody porównania
+8. [ ] Naprawć skrypt testowy
+9. [ ] Znaleźć zbiory używane w podobnych pracach
+10. [ ] Założyć overleafa
 
 ## Opis
 
