@@ -53,7 +53,8 @@ def split_pdf(input_path: str):
         input_path (str): Valid path the file is at,
     """
     images = convert_from_path(input_path)
-    for page_num, image in enumerate(images[1:]):
+    images = images[1:]
+    for page_num, image in enumerate(images, start=1):
         page_file = f"page{page_num}_{book_id}.jpg"
         page_path = os.path.join(CLEAN_DIR, page_file)
         image.save(page_path, "JPEG")
