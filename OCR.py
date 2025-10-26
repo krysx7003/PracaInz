@@ -7,15 +7,19 @@ import easyocr
 import pytesseract
 from doctr.io import DocumentFile
 from doctr.models import ocr_predictor
+from paddleocr import PaddleOCR
 from PIL import Image
 
 from utils.path import is_valid
 
 IMAGE_PATH = "./dataset"
 
-EASY_RES = "./easy_result.csv"
-DOCTR_RES = "./doctr_result.csv"
-TES_RES = "./tesseract_result.csv"
+EASY_RES = "./results/easy_result.csv"
+DOCTR_RES = "./results/doctr_result.csv"
+TES_RES = "./results/tesseract_result.csv"
+PADDLE_RES = "./results/paddle_res.csv"
+
+HEADER = "name,{cer_res},{wer_res}\n"
 
 
 class Ocr_name(StrEnum):
@@ -24,6 +28,7 @@ class Ocr_name(StrEnum):
     TESSERACT = "pytesseract"
     EASY = "easyocr"
     DOCTR = "doctr"
+    PADDLE = "paddle"
 
 
 class Ocr:
@@ -38,6 +43,7 @@ class Ocr:
         easy_text (list[str]): Raw output of easyocr.
     """
 
+    result_file: str
     plain_text: str
     text: str
     name: str
@@ -62,7 +68,21 @@ class Ocr:
 
         if self.name == Ocr_name.DOCTR:
             self.result_file = DOCTR_RES
-            self.model = ocr_predictor(pretrained=True)
+            self.model = ocr_predictor(
+                det_arch="db_resnet50", reco_arch="crnn_vgg16_bn", pretrained=True
+            )
+
+        if self.name == Ocr_name.PADDLE:
+            self.result_file = PADDLE_RES
+            self.paddle = PaddleOCR(
+                lang="pl",
+                use_doc_orientation_classify=False,
+                use_doc_unwarping=False,
+                use_textline_orientation=False,
+            )
+
+        with open(self.result_file, "w") as f:
+            f.write(HEADER)
 
     def append_csv(self, line: str):
         """Appends {line} to self.result_file.
@@ -84,6 +104,8 @@ class Ocr:
             Exception:  If ./datset/{input_dir}/{image_name} is invalid.
         """
         image_path = os.path.join(IMAGE_PATH, input_dir, image_name)
+        # image_name
+
         if not is_valid(image_path):
             raise Exception(f"The path: {image_path} is invalid")
 
@@ -92,13 +114,14 @@ class Ocr:
             self.plain_text = pytesseract.image_to_string(image, lang="pol")
 
         if self.name == Ocr_name.EASY:
-            image = Image.open(image_path)
-            self.easy_text = self.reader.readtext(image, detail=0)
+            self.easy_text = self.reader.readtext(image_path, paragraph=False)
 
         if self.name == Ocr_name.DOCTR:
             img = DocumentFile.from_images(image_path)
-            result = self.model(img)
-            self.plain_text = result.render()
+            self.result = self.model(img)
+
+        if self.name == Ocr_name.PADDLE:
+            self.result = self.paddle.predict(input=image_path)
 
     def format_text(self):
         """Formats Ocr.plain_text to remove stanza breaks."""
@@ -108,11 +131,41 @@ class Ocr:
             self.text = "".join(text_arr)
 
         if self.name == Ocr_name.EASY:
-            text_arr = [line + "\n" for line in self.easy_text]
-            self.text = "".join(text_arr)
+            sorted_results = sorted(self.easy_text, key=lambda x: x[0][0][1])
+
+            lines = []
+            current_line = []
+            current_y = None
+            y_threshold = 20
+
+            for bbox, text, confidence in sorted_results:
+                y_pos = bbox[0][1]
+
+                if current_y is None:
+                    current_y = y_pos
+                    current_line.append(text)
+                elif abs(y_pos - current_y) <= y_threshold:
+                    current_line.append(text)
+                else:
+                    lines.append(" ".join(current_line))
+                    current_line = [text]
+                    current_y = y_pos
+
+            if current_line:
+                lines.append(" ".join(current_line))
+
+            self.text = "\n".join(lines)
 
         if self.name == Ocr_name.DOCTR:
-            self.text = self.plain_text
+            self.text = self.result.render()
+
+        if self.name == Ocr_name.PADDLE:
+            text_lines = []
+            for res in self.result:
+                if "rec_texts" in res:
+                    text_lines.extend(res["rec_texts"])
+
+            self.text = "\n".join(text_lines)
 
     def get_text(self) -> str:
         """.
@@ -122,3 +175,7 @@ class Ocr:
         """
         self.format_text()
         return self.text
+
+    def get_name(self) -> str:
+        """ """
+        return self.name
