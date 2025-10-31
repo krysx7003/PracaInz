@@ -85,7 +85,7 @@ def extract_name(book: Book) -> str:
     return name
 
 
-def get_pdf_url(name: str) -> None | str:
+def get_text_url(name: str) -> None | str:
     """Makes a request using wolnelektur api.
 
     Args:
@@ -93,7 +93,7 @@ def get_pdf_url(name: str) -> None | str:
 
     Result:
         None: If request failed.
-        str: Url of {name}.pdf
+        str: Url of {name}.epub
     """
     url = f"https://wolnelektury.pl/api/books/{name}"
     try:
@@ -105,7 +105,7 @@ def get_pdf_url(name: str) -> None | str:
             return None
 
         if (data := response.json()) and isinstance(data, dict):
-            return data.get("pdf")
+            return data.get("epub")
 
         return None
 
@@ -114,24 +114,40 @@ def get_pdf_url(name: str) -> None | str:
         return None
 
 
-def scrape(pdf_url: str, name: str):
-    """Get pdf document from wolnelektur and save it to RAW_DIR.
+def scrape(epub_url: str, name: str):
+    """Get epub document from wolnelektur and save it to RAW_DIR.
 
     Args:
-        pdf_url (str): Url pointing to documnet url.
+        epub_url (str): Url pointing to documnet url.
         name (str): Name of the book.
     """
-    print("Downloading url: ", pdf_url)
+    print("Downloading url: ", epub_url)
     try:
-        print(f"Getting: {pdf_url}")
-        response = requests.get(pdf_url, timeout=TIMEOUT_MAX)
+        print(f"Getting: {epub_url}")
+        response = requests.get(epub_url, timeout=TIMEOUT_MAX)
 
         if response.status_code != 200:
             print("Error: ", response.status_code)
 
-        path = os.path.join(RAW_DIR, f"{name}.pdf")
+        path = os.path.join(RAW_DIR, f"{name}.epub")
+
+        total_size = int(response.headers.get("content-length", 0))
+        print(f"Downloading {total_size} bytes...")
+
         with open(path, "wb") as file:
-            file.write(response.content)
+            if total_size == 0:
+                file.write(response.content)
+            else:
+                downloaded = 0
+                for chunk in response.iter_content(chunk_size=8192):
+                    if chunk:
+                        file.write(chunk)
+                        downloaded += len(chunk)
+                        if total_size > 0:
+                            progress = (downloaded / total_size) * 100
+                            print(f"Progress: {progress:.1f}%", end="\r")
+
+        print(f"\nSuccessfully saved: {path}")
 
     except requests.exceptions.RequestException as e:
         print("Error: ", e)
@@ -159,9 +175,9 @@ def load_data(use_cache: bool = True, purge: bool = False):
         for i in range(0, AMOUNT):
             name = extract_name(json_arr[i])
 
-            path = os.path.join(RAW_DIR, f"{name}.pdf")
-            if not use_cache or not is_valid(path, "pdf"):
-                url = get_pdf_url(name)
+            path = os.path.join(RAW_DIR, f"{name}.epub")
+            if not use_cache or not is_valid(path, "epub"):
+                url = get_text_url(name)
                 if url:
                     scrape(url, name)
                 else:
