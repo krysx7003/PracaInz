@@ -1,0 +1,26 @@
+{
+    "file": "a01-007u.png",
+    "reference_text": "Sentence Database A01-007\nSince 1958, 13 Labour life Peers and Peeresses have been created. Most Labour sen-\ntiment would still favour the abolition of the House of Lords, but while it remains\nLabour has to have an adequate number of members. THE two rival African Nation-\nalist Parties of Northern Rhodesia have agreed to get together to face the challenge\nfrom Sir Roy Welensky, the Federal Premier.\nSince 1958, 13 Labour life Peers\nand Peeresses have been created. Most Labour\nsentiment would still favour the abolition\nof the House of Lords, but while it remains\nLabour has to have an adequate number\nof members. THE two rival African\nNationalist Parties of Northern Rhodesia\nhave agreed to get together to face\nthe challenge from Sir Roy Welensky,\nthe Federal Premier.\nName:\n",
+    "results": [
+        {
+            "name": "paddle",
+            "text": "SentenceDatabase\nA01-007\nSince1958,13Labour lifePeersandPeeresses have been created.Most Labour sen-\ntiment wouldstillfavourtheabolitionoftheHouseofLords,but whileitremains\nLabour hasto have anadequatenumberofmembers. THE tworival African Nation-\nalist PartiesofNorthernRhodesiahaveagreedtogettogethertofacethechallenge\nfromSirRoyWelensky,theFederalPremier.\nife\nSiuce\n1a58\n13\nLalbanwr\npee aua\nMost\nLabawr\nPeeresses\nhawe\nbeen\ncuealed.\naboliticn\nwaulol\noh'u\nfaoaw\nsentiment\nme\nof\nMe\naf\nLords,\nBut\nwhile\nMause\n\u8ba9\nuemais\nnuule\nhave an ddequale\nLabawr\nhas\n20\ntwo nival\nAfican\na\nmembes. TuE\nNationalis Paties of\nNor ten Rhodesia\nto face\nhaue\nto get\ntogetue\nagueeol\nRoy\nwelushy,\nfram\nSir\nme\nchauenge\n\nte\nPuenies.\nFedesal\nName:",
+            "time": 54.02683734893799
+        },
+        {
+            "name": "easyocr",
+            "text": "A01-007 Sentence Database\nSince 1958, 13 Labour life Peers and Peeresses have been created: Most Labour sen-\ntiment would still favour the abolition of the House of Lords, but while it remains\nLabour has to have an adequate number of members. THE two rival African Nation-\ntogether to face the challenge alist Parties of Northern Rhodesia have agreed to get\nWelensky; the Federal Premier. Roy from Sir\n4( Aase\nLaluc Siuce_ peox 43 auC\nLalbccr Cuealea Ao ( Frqxosae )\nbeqsl lanq_\naloli Kc JexKue_~ fabou jaula Ae _ 3k'u\nWliir uqluala # o8 But Ae _ Loral~) @8\nHauee\nsuul) adequale _\nLaQaus  Jo haur _ LCLA 0u\nTHE iaica^ Voa( +wo\naq ceAQxs\nPoukea Thoaloo@ NJor Lqy 08 Mxabona; &\nfaca _ Joarlar) luq _ +o 4o\naqueq04 a1\nWcle_nzkd / roy\nchalle_~&r _ S  fva Ae _\nPurues _ Lur _ ~Feoloza (\nName:",
+            "time": 1.5931358337402344
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-007\nSince 1958, 13 Labour life Peers and Peeresses have been created. Most Labour sen-\ntiment would still favour the abolition of the House of Lords, but while it remains\nLabour has to have an adequate number of members. THE two rival African Nation-\nalist Parties of Northern Rhodesia have agreed to get together to face the challenge\nfrom Sir Roy Welensky, the Federal Premier.\nGincn ASE, 1B La\u00aeaur Le Peas arch\n\u201cFeoese2so Uave bean cucake. Most Latour\nmols Wal akie Droour Me aboli hou\nof Me Houee af Leds, Bak WU ib wus\nlabours has do hav\u00ae on actequabe  uuuhe)\nol waters. THE two vival bhiccs\nNottomali & \u201cPores of Nar bon Rhoadoan\nlave, agur2cos to eek toggle. to foaea_\nMa chameuge. from Sir \u201cRoy Wolrusky\nue Feoteral \u201cPugin,\nName:\n",
+            "time": 1.3078856468200684
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-007\nSince 1958, 13 Labour life Peers and Peeresses have been created. Most Labour sen-\ntiment would still favour the abolition of the House of Lords, but while it remains\nLabour has to have an adequate number of members. THE two rival African Nation-\nalist Parties of Northern Rhodesia have agreed to get together to face the challenge\nfrom Sir Roy Welensky, the Federal Premier.\nSiuca\nAg58, 13 Labaur ufe reos auch\nPeesses lawR beon Cuealeol. Most Labour\nseubimewt waulol sh'u Saoaur pue abouhcu\nof he House of Lorcrs, Out while it seuais\nhcus do\nnuule\nLabaur\nhaue au adequale\ndf ueuless. THE\ntwo voal Ahicou\nNationali is Pouhes of Norhuou Rhoaesia\nhaue aguesor to get togelues to faca\nme chaueuge frou Sir Roy welenshy,\ntue Feoesal Pucuiies.\nName:",
+            "time": 1.9255504608154297
+        }
+    ]
+}

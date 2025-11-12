@@ -1,0 +1,26 @@
+{
+    "file": "i036.tiff",
+    "reference_text": "THE LUSITANIA'S LAST VOYAGE\n\nplosions made by the mixing of the cold water of the sea with the steam of the boilers. I saw an interesting statement in one of the papers, purporting to have come from Captain Turner, in which he stated that the small amount of suction was probably due to the fact that the bow of the boat was already resting on the bottom when the stern went down. This seems quite feasible, as she sank in about 60 fathoms (360 feet) of water and she was 755 feet long.\nThe sea was wonderfully smooth, and it seemed to me that if one could keep clear of the wreck and pick up a lifeboat, that it could be manned and that we could go back and get many survivors. I was able to work this out quite as I planned.\nAs I waited for the final plunge something caught me on the top of my head and slipped down to my shoulders, pressing me under the water; I couldn\u2019t imagine what it was,\n ( 20 )\n",
+    "results": [
+        {
+            "name": "pytesseract",
+            "text": "THE LUSITANIA'S LAST VOYAGE\nplosions made by the mixing of the cold water\nof the sea with the steam of the boilers. I\nsaw an interesting statement in one of the\npapers, purporting to have come from Cap-\ntain Turner, in which he stated that the small\namount of suction was probably due to the\nfact that the bow of the boat was already\nresting on the bottom when the stern went\ndown. \"This seems quite feasible, as she sank\nin about 60 fathoms (360 feet) of water and\nshe was 755 feet long.\n'The sea was wonderfully smooth, and it\nseemed to me that ii one could keep clear of\nthe wreck and pick up a lifeboat, that it\neould be manned and that we could go\nback and get many survivors. I was able to\nwork this out quite as I planned.\nAs I waited for the final plunge something\ncaught me on the top of my head and slipped\ndown to my shoulders, pressing me under\nthe water; I couldn't imagine what it was,\n(80)\n",
+            "time": 0.6834180355072021
+        },
+        {
+            "name": "easyocr",
+            "text": "THE LUSITANIAS LAST VOYAGE\nplosions made by the mixing of the cold water\nof the sea with the steam of the boilers. I\ninteresting statement in one of the\nsaw an\nCap- papers, purporting to have come from\ntain Turner, in which he stated that the small\nprobably due to the amount of suction Fas\nalready fact that the bow of the boat Fas\nresting the bottom when the stern went on\ndonn. This seems feasible; as she sank quite\nin about 60 fathoms (360 feet) of water and\nshe was 755 feet long.\nwonderfully smooth, and The it sea Fas\nkeep seemed to me that if one could clear of\nlifeboat, that mreck and' the it pick up 9\ncould that could be and manned go we\nback and get many survivors. was able to I\nplanned. work this out as I quite\nAs I waited for the final plunge something\nme on the top of my head and slipped caught\nmy shoulders,  pressing down under to me\nI couldn't imagine what it was, the  water;\n20 )",
+            "time": 1.0989201068878174
+        },
+        {
+            "name": "paddle",
+            "text": "THE\nLUSITANIA'S\nLAST\nVOYAGE\n-\no\nplosions\nmade\nby\nthe\nmixing\nof\nthe\ncold\nwater\nof\nthe\nwith\nthe\nsteam\nof\nthe\nsea\nboilers.\n=\ninteresting\nin\nof\nstatement\none\nthe\nsaw\nan\npurporting\nto\nhave\npapers,\ncome\nfrom\nCap-\ntain\nTurner,\nin\nwhich\nhe\nstated\nthat\nthe\nsmall\namount\nof\nsuction\nprobably\ndue\nto\nthe\nwas\nfact\nthat\nthe\nbow\nof\nthe\nboat\nwas\nalready\nresting\nthe\nbottom\nwhen\nthe\non\nstern\nwent\ndown.\nThis\nquite\nfeasible,\nas\nshe sank\nseems\nin\nabout\n60\nfathoms\n(360\nfeet)\nof\nwater and\nshe\nwas\n755\nfeet\nlong.\nThe sea\nwas\nwonderfully\nsmooth, and it\nseemed to r\nme\nthat\nif\none\ncould keep clear of\nthe\nwreck\nand\npick\nlifeboat, that it\nup\na\ncould\nbe\nmanned\nand\nthat\nwe\ncould\ngo\nback\nand\nget\nmany\nsurvivors.\nI\nwas able to\nwork\nthis\nout\nquite\nas\n\u251c\nplanned.\nAs\nH\nwaited\nfor\nthe\nfinal\nplunge\nsomething\ncaught\nme\nthe\ntop\nof\nmy\nhead\nand\nslipped\non\ndown\nto\nshoulders,\nmy\npressing\nunder\nme\nthe\nwater;\n\ncouldn\n\u2019t\nimagine\nwhat\nit\nwas,\n-\n20 )",
+            "time": 19.17853307723999
+        },
+        {
+            "name": "doctr",
+            "text": "THE LUSITANIA'S LAST VOYAGE\nplosions made by the mixing of the cold water\nof the sea with the steam of the boilers. I\nsaw an interesting statement in one of the\npapers, purporting to have come from Cap-\ntain Turner, in which he stated that the small\namount of suction was probably due to the\nfact that the bow of the boat was already\nresting on the bottom when the stern went\ndown. This seems quite feasible, as she sank\nin about 60 fathoms (360 feet) of water and\nshe was 755 feet long.\nThe sea was wonderfully smooth, and it\nseemed to me that if one could keep clear of\nthe wreck and pick up a lifeboat, that it\ncould be manned and that we could go\nback and get many survivors. I \u00e0 was able to\nwork this out quite as I planned.\nAs I waited for the final plunge something\ncaught me on the top of my head and slipped\ndown to my shoulders, pressing me under\nthe water; I couldn't imagine what it was,\n(20 )",
+            "time": 3.044750213623047
+        }
+    ]
+}

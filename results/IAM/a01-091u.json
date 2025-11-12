@@ -1,0 +1,26 @@
+{
+    "file": "a01-091u.png",
+    "reference_text": "Sentence Database A01-091\nThe result of the vote was not in doubt. For the Tories were massed in answer to their\nwhips to defeat a censure motion on the Government for \u201dundermining the Health\nService\u201d and placing heavy burdens on those least able to bear them. Mr. Brown\ndeclared that the policy under censure was monstrous. It had offended many people\nfar beyond the ranks of Labour supporters.\nThe result of the vote was not in doubt. For the Tories were massed in answer to their\nwhips to defeat a censure motion on the Government for \u201dundermining the Health\nService\u201d and placing heavy burdens on those least able to bear them. Mr. Brown\ndeclared that the policy under censure was monstrous. It had offended many people\nfar beyond the ranks of Labour supporters.\nName:\n",
+    "results": [
+        {
+            "name": "paddle",
+            "text": "SentenceDatabase\nA01-091\nThe result of the vote wasnot in doubt.Forthe Tories were massed inanswer to their\nwhips to defeat a censure motion on the Government for undermining the Health\nService\u201d andplacing heavy burdensonthoseleast abletobear them. Mr. Brown\ndeclaredthat thepolicy under censure wasmonstrous.It hadoffendedmany people\nfarbeyondtheranksofLabour supporters.\nTe\nnesult os the oote woas not ar daubt.\n\nToo\nthe Tories\nwere\nm\nanswe to\nmaosea\ntev\ndefeat\nceusue malicn\nwhips\n1\na\nhhe\nfor\numdemiing\nhue\nGooenmeut\ncon\nplacing\nneaoy\nSeoice\nad\nbudeno\nmealt\nten.\nable to bear\nhr.\ntucoe\nleast\nom\nthat\nhue\npolicy\nBrowu\nmde\ndeclaued\nmoushous. lt had\naffended\nceuswe waus\nfar\nme vank os\nbeyand\npeople\nw\nLabaw\nsuppartes.\nName:",
+            "time": 54.394925355911255
+        },
+        {
+            "name": "easyocr",
+            "text": "A01-091 Sentence Database\nThe result of the vote was not in doubt. For the Tories were massed in answer to their\n'undermining the Health censure motion the Government for 9) whips to defeat\non a\nService\" and placing heavy burdens those least able to bear them. Mr . Brown on\nmonstrous. It had offended many declared that the policy under censure people was\nfar beyond the ranks of Labour supporters.\ndaull naau _le_ Te 0} uol Llr_\nio M\nAue_ Tov o Tcc\nLo Cluaesos Luaaaeol Wesr_ L\nmolel oleCeat CQu SLr _ Ae   lo\nWl:rs\n3a Llr _ cdesa for Gouesu weul\nLe _\n0 4\nLraoc Plac-a Qwdoa?\nKealA Seo i CQ _ a0\nablq_ 4o hr AoLL Bec5 lea04 Lucse _\nOm\nPolicy Lual oleclanea\nZBvowu aq) Lae _\nolte-od kad iousholla . IF\nCquswr Lalo\nol Fer vecu h be3Cc^ Le_\nProplr_ Mo\nppoyLr LaQa \n34\nName:",
+            "time": 1.6312637329101562
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-091\nThe result of the vote was not in doubt. For the Tories were massed in answer to their\nwhips to defeat a censure motion on the Government for \u201dundermining the Health\nService\u201d and placing heavy burdens on those least able to bear them. Mr. Brown\ndeclared that the policy under censure was monstrous. It had offended many people\nfar beyond the ranks of Labour supporters.\nThe acount af He cole woo uch ~~ daub.\nTor He Vorvinn werk woe We causes to\nBers Whrias bo arfeak aq c2us0t_ van teen\ncm bea Govotmugub for  wid@uuung bee\nUoethh \u201cSaanine anc placdiag beavg Uuwodems\ncm bacon, Uta abla. to Geer Mew. far.\nBron oie clmureKR bral bua policy ~otQd\nCA UPR Ware wmouslousd. Lh had offecta kd\nMACUL, peo pla_ Pors\u2014 DRL orn oh lik anal ee\nLo\u00aeasw supporleo.\nName:\n",
+            "time": 1.4227244853973389
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-091\nThe result of the vote was not in doubt. For the Tories were massed in answer to their\nwhips to defeat a censure motion on the Government for \"undermining the Health\nService\" and placing heavy burdens on those least able to bear them. Mr. Brown\ndeclared that the policy under censure was monstrous. It had offended many people\nfar beyond the ranks of Labour supporters.\nThe reoult of the oole soas uot ua dault.\nTor tue Tories wee La asseal ua cusues to\nHueir whips do oefeat a ceusud mohien\nca hue\nGouesu ugut for sudesuining Lue\nHealn Sesoice auo placing heaog bwolons\ncm Lucse leaot able to beas Hem, hr.\nBvown oleclaned Luat hue policy moles\ncensure waus monshous. Ih had offeroed\npeople far beyouch ue vauk ob\nmauy\nLabaur supporles.\nName:",
+            "time": 1.9987869262695312
+        }
+    ]
+}

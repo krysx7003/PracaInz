@@ -1,0 +1,26 @@
+{
+    "file": "a01-107u.png",
+    "reference_text": "Sentence Database A01-107\n\u201d We believe that a comprehensive medical service, free to the patient at the point of\nneed and with one standard for all sick people, is good and attainable. \u201dWe remain\nfor it. But the Tories never were.\u201d Interrupted by angry Tories, Mr. Brown retorted:\n\u201dThe jackals bay when there is nothing better they can do.\u201d\n\u201d We believe that a comprehensive medical service, free to the patient at the point of\nneed and with one standard for all sick people, is good and attainable. \u201dWe remain\nfor it. But the Tories never were.\u201d Interrupted by angry Tories, Mr. Brown retorted:\n\u201dThe jackals bay when there is nothing better they can do.\u201d\nName:\n",
+    "results": [
+        {
+            "name": "paddle",
+            "text": "SentenceDatabase\nA01-107\n\"We believe that a comprehensive medical service, free to the patient at the point of\nneedandwithone standardforallsickpeople,is goodandattainable.Weremain\nfor it.Butthe Tories never were.\u201d Interruptedby angry Tories,Mr. Brown retorted:\n\"The jackals bay whenthere is nothing better they can do.\nmedical\nwa\nBeieve\nmuat\ncamnpuehensive\na\nM\n at the poiut\nsvice,\nfea\n10\nu2\npaient\n+\n1\na\nane ohandavol\nfar au\nneed\naud\nwi\n4\nA\naood and\natainabe.\nsich\naeople\nTares\nfar it.But\nme\nnemain\nwa\nTories,\nm\nhlesrupled\nbuy angry\nwese.\nucves\nMr. Brown\nbay\nnetorted:,The jachals\nnohing\na\nbele\ntey\ncan do.\nwhen\nMee\n8\nName:",
+            "time": 55.56832408905029
+        },
+        {
+            "name": "easyocr",
+            "text": "A01-107 Sentence Database\ncomprehensive medical service, free to the patient at the point of We believe that a 55\nstandard for all sick people, is 99 and attainable. We remain need and with good one\nfor it. But the Tories never were.\" Interrupted by angry Tories, Mr: Brown retorted:\nwhen there is nothing better they can do. bay \"The jackals\nqallca ( Ceu Dus laxeur_ @Losr\nLual Loq_\na #s_ L PCiu ee Aea 40 bruico_\npe;\n1\nfer 3lev ccua^ cl 65 < 4 0$\nOlu ar _ Lqol\naai4a0lo ` 4eoa aa Ack Aroplr _\nTer 2>\nAes ~Ba L _ i. Keaxolc\nWa\nandvr Terviee\nQ  M Luesruplr @\nKLuQ) Lrjr_\nbcsA Tke_iack clo nelo rtec : Baow  \nMr .\n^\n~oLuii-a Llor belle) do\n1 CC Luese _ he^\n~\nName:",
+            "time": 1.5114037990570068
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-107\n\u201d We believe that a comprehensive medical service, free to the patient at the point of\nneed and with one standard for all sick people, is good and attainable. \u201dWe remain\nfor it. But the Tories never were.\u201d Interrupted by angry Tories, Mr. Brown retorted:\n\u201dThe jackals bay when there is nothing better they can do.\u201d\nWe Setaose Mik a Cou pushananv\u00ae weoctical\neesvica Pea to M2 powate ae Ha_ Pru\noS URQOWN. OWN ask cue. asherdayr Par ald\nack @Zopr_, Ww AeeK anid athainabte.\n. Mee. weer Bee +. Balke bin \u201cVere s\nmeses wese .\"  bresrupleR By a Qryg Terres,\nMee. \u201cBrrwn neborterd: , Tha jackals bay\nw hey Lnesre_ \u2014_ nolwrs a RogMAL_5 brow COn~~ aa\nName:\n",
+            "time": 1.1872191429138184
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-107\n\"We believe that a comprehensive medical service, free to the patient at the point of\nneed and with one standard for all sick people, is good and attainable. \"We remain\nfor it. But the Tories never were. \" Interrupted by angry Tories, Mr. Brown retorted:\n\"The jackals bay when there is nothing better they can do.\"\nWe Oelese tual 3 coupratansive mealical\nsevice, Aea to hus parient at Ha pciut\nos ueooh auch wit aue sheudayan fer al\nsich people\n- eyooal auua altainable.\nwa nemain fer it.Bat lua Teries\nucue) wese.\" hulesrupled lory angou Torvies,\nMr. Biown nelortedin - The jachals bay\nwhen luese io uoluing beles Hey caun do.\"\nName:",
+            "time": 1.749516248703003
+        }
+    ]
+}

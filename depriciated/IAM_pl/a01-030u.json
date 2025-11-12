@@ -1,0 +1,21 @@
+{
+    "file": "a01-030u.png",
+    "results": [
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-030\nNorthern Rhodesia is a member of the Federation. Mr. Macleod was not at the\nweek-end meeting. But he told M Ps yesterday: \"I have no knowledge of secret\nnegotiations.\" He said Britain had an obligation to consult the Federal Government.\nBut the final decision remained with the British Government. Mr. James Callaghan,\nLabour's Colonial spokesman, said Sir Roy had no right to delay progress in the talks\nby refusing to sit round the conference table.\nNerbuon Rhocleaia 6 a meube of tue ledeali deu,\nMr. hacleod was nab al ta weoh-euoh\nBub he holo\nMP,\nI\nmeching.\ngeoeday: a\nhave uo lowledge of secnet nagohiations.\"\nHe saial Bnisain hach au abligalen to ccusult\nLua Teoeal Gouemeut. But Lua Anal\naecision nemained wihe Me Bnlish Gooouwow\nMr. Joues Cauaguau, Labow's Colcuial\nPpohas mau, saia Sir Roy had uo right to\ndelay puobuees m Me talks bus setuaing\nto sid vounc Lhe coufoeuce toole.\nName:"
+        },
+        {
+            "name": "easyocr",
+            "text": "A01-030 Sentence Database\nof the Federation. Macleod not the Northern Rhodesia is member Mr. at was a\nknowledge of secret week-end meeting. Ps yesterday: \"I have But he told M\nno\nnegotiations. He said Britain had an obligation to consult the Federal Government.\nJames Callaghan, But the final decision remained with the British Government. Mr.\nhad no right to delay progress in the talks Labour's Colonial spokesman, said Sir Roy\nby refusing to sit round the conference table\n~edojalc (k Jue  Rhocealc Maeuuq) Ncvlueu\n@\nUa _ hac Ueoa IQQa hx 9l Qua Aal\nWas ~\nwook 'S; MT > beolucas :\nBus Kola 42\nneqok'ak'cuo of Recmed\nanow) ledar kaue _ Uo\nsaio 'Bvlci4 aBligakc ccusu 4o\nkao He\nOu\nRu A:nal ~Jraoml Lus _ Lus Gouqju Mnelul\n~But,4 dQcia:cu il1 Mrllclled Li Gouou Lquj\nColcual Cauagua Labou Joue , Mr .\n5\n~oys\nKgw saio Si haa 30oho,ucu 6o Lo\ne\u0142uca Lo _ aelay bu\nfalls Pvo &003 Lu\nLaole , LLe _ CculqeuQQ  vouua 318- +o\nName:"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-030\nNorthern Rhodesia is a member of the Federation. Mr. Macleod was not at the\nweek-end meeting. But he told M Ps yesterday: \u201dI have no knowledge of secret\nnegotiations.\u201d He said Britain had an obligation to consult the Federal Government.\nBut the final decision remained with the British Government. Mr. James Callaghan,\nLabour\u201ds Colonial spokesman, said Sir Roy had no right to delay progress in the talks\nby refusing to sit round the conference table.\nNorblubu RVUoU\u0141aa te a mazbo st \u0142u \u20acdooMm,\nkr, haclcoh Wwaa uok al blu w\u0119ch -euh\nmaobna, But la kola MP poc DAa\u0104: \u201eJ\nKadod_ wo Lkmowiedgc_ o\u015b azowak m\u0105chahana,\nNe aaa hala dak ax o0Qlqdau t\u0142o caoul\nna Flo AGuimuauk, Bek ma. fumk\ndadcoiu u\u0142nmiowucd \u201ej\u00f3e Ma Bnltsh Gooouuak\nMe. Jomea Cab\u0105qiuu , Labow a Colcmiai\npsk mom, zaa Se A kad u0 mgik to\nd\u0141ioO4 PVO gul m Moe_ \u0142alka by g\u0142uam o\n\u0142o ab voumh bLue_ culpbemaq  totDia_,\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA01-030\n3\nNorthern Rhodesia is a member of the Federation. Mr. Macleod was not at the\nweek-end meeting. But he told M Ps yesterday: \"I have no knowledge of secret\nnegotiations.\" He said Britain had an obligation to consult the Federal Government.\nBut the final decision remained with the British Government. Mr. James Callaghan,\nLabour's Colonial spokesman, said Sir Roy had no right to delay progress in the talks\nby refusing to sit round the conference table.\nNartnen Phocegics is a menbes of the Fderatian.\nAr. Aac leod wao nat al the weeh-eno\nmeeting.\nBud\nMT\nhe hola\ngeobeday: a1\nhave no hnowledge os secuet\nnegohahicaus.\"\nHe saia Britain\nabligatian to cauoult\nhacl\nau\nBut Mhe final\ntha\nteaeal\nGouer ment.\nwih\nMe Brhish Govouuent.\naecision\nveuaiued\nlaba's\nColcniat\nMo. Janes\nCauaghan,\nRay\nSuo\nhad no right to\noheman,saia\nbis retusing\nMe talhs\ndelay\npro gueos\nLn\nto sid vound\nthe\nccufeence\ntaole.\nName:"
+        }
+    ]
+}

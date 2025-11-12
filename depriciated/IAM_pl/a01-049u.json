@@ -1,0 +1,21 @@
+{
+    "file": "a01-049u.png",
+    "results": [
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-049\nSenator Allen Ellender, of Louisiana, sparked off the opposition by telling a television\naudience it was \"current Washington gossip\" that Weaver once had Communist affilia-\ntions. The Senate Banking Committee, which is headed by another Southern Senator\nWillis Robertson, of Virginia met today in closed session to discuss Weaver's ap-\npointment. Senator Robertson later disclosed he had sent a letter to Mr. Kennedy\nsaying he had received several complaints about Weaver's loyalty.\nSenahor Auen Euendo od louisiana,\n)\nspohed off Lue aposition by Leuiug A\ni\ncurveut\nlelevisien auaience\nwas a\ntuat\nWeave once hacl\nWiastigton Somoip\"\nThe Sanat\nComuunis aiciabias.\nBeuling\nCommites, wuicn io hoadec bo anolue)\n-\nSoubresn Sender\nwiuieur Rolobson, of\nUirginia- uat toolass iu closec seosicuto\nWeaues's appciutmant. Seuaos\ndiocues\nRobotson latos aisclosect he hacl seut a lelle\nhe uach necived\nto Mr. Keunaoly paying\nName:"
+        },
+        {
+            "name": "easyocr",
+            "text": "A0l-049 Sentence Database\nSenator Allen Ellender, of Louisiana, sparked off the opposition by telling a television\nWashington gossip\" that Weaver once had Communist affilia- audience it was current 99\ntions. The Senate Banking Committee, which is headed by another Southern Senator\ntoday in closed session to discuss Weaver's ap- Willis Robertson, of Virginia met\npointment. Senator Robertson later disclosed he had sent Kennedy a letter to Mr.\nsaying he had received several complaints about Weaver's loyalty.\nSeuakor 04 louisi aa {Uecoo) Aue\nLeuuicg bY\nG0+  spcv hea Ppo~'Ho @ Lue\n11 Cuveul auci & CQ _ leleuisacc\nLae 4\nLaol  lJcaue) 3030' Lis Hal OCo\nWulas Lov\nlcs BBu 7Le \nSaucule _ aHliua F'aca _\nCcuucumi a\nauoLue > 68 Wlic\nGusilke_ 1 Loades\nlxlieus ~Ro8oacn 04\nSecalc< Scuu)uosu\n1o \u20ac Mas] \nclcoea 30081 4-Oolcun Urgiuca\n2\nSeualcy appcuul uaeuk_\nWqaues ' 3 aiscues\nlo Le kao aisclcsea\n2eul @olossu latos 0\nuea ue_Cai Le 2ag~9 uao\nVecccaouyj +0 Ar ,\nName:"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-049\nSenator Allen Ellender, of Louisiana, sparked off the opposition by telling a television\naudience it was \"current Washington gossip\u201d that Weaver once had Communist affilia-\ntions. The Senate Banking Committee, which is headed by another Southern Senator\n- Willis Robertson, of Virginia - met today in closed session to discuss Weaver's ap-\npointment. Senator Robertson later disclosed he had sent a letter to Mr. Kennedy\nsaying he had received several complaints about Weaver's loyalty.\n\u015acuakoc Nu ElVUuukD , o\u015b. louuuana,\nspwk\u0119\u00f3d oj lua qgoporhou by kuu\u0105 a\nle biateu aucdiena_ | Wawa u cuvw Qu\nWiuwii\u0105tow qozsie ba\u0142 Wea ac kas\nCana h alo\u017caka.o. Pha Sao Ballu\nGmmmulea_ | Jkiu w Lada by audhmeV\nDuala  \u015audar - Wiwium kotaknm, o$-\nDegma - mad docdiee\u0105 m  elcaQh \u00bbQemt cm to\nMDCUG2 Waauqsts appouuk maj, Sceuadkar\nRodajaou latas mLlocloaeon W Wan aqubk a leln\n\u0142o Me. kaumasy Zaya le_ Mach wam v\u0141A\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "A01-049\nSentence Database\nSenator Allen Ellender, of Louisiana, sparked off the opposition by telling a television\naudience it was \"current Washington gossip\" that Weaver once had Communist affilia-\ntions. The Senate Banking Committee, which is headed by another Southern Senator\n- Willis Robertson, of Virginia - met today in closed session to discuss Weaver's ap-\npointment. Senator Robertson later disclosed he had sent a letter to Mr. Kennedy\nsaying he had received several complaints about Weaver's loyalty.\nsenabar\nlouisiana,\nEuende, os\nAuen\ntehing a\n\nby\ntue\nppositian\nopa hed\n\u00bf\ntelevisicn\nauaience\nWa\ny curreut\n4\nace\nhacl\nWhachington gosoip\nHat\nweae\nSencate Bunhing\nThe\naffilatiaus.\nCcmui\nanohhe\nWhich\nL\nheadec\nb8\nCcnimiteo,\nRobeban, of\nSaubheon\nSenadco-wiwieur\nelosea seosicu to\nVirginia- met\ntodauy\nL\nSenadco\nWeaues's appanntuent.\ndiscues\nseut a lelle\nRabentson\nhe haa\nlates\ndisclcea\nsaging\nhehaa ueceivea\nto Mr. kennady\nName:"
+        }
+    ]
+}

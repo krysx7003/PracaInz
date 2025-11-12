@@ -1,0 +1,26 @@
+{
+    "file": "a05-108.png",
+    "reference_text": "Sentence Database A05-108\nThis puzzled such students of comparative religion as had failed to detect this cult.\nBut Mr. Healey had a partial and limited success. He rallied behind him the Left-\nwing opinion so coolly snubbed last night by his leader, Mr. Gaitskell. Mr. Godber\u2019s\nperformance merited all the mild scorn heaped on it by Mr. Shinwell.\nThis puzzled such students of comparative religion as had failed to detect this cult.\nBut Mr. Healey had a partial and limited success. He rallied behind him the Left-\nwing opinion so coolly snubbed last night by his leader, Mr. Gaitskell. Mr. Godber\u2019s\nperformance merited all the mild scorn heaped on it by Mr. Shinwell.\nName:\nLA . Mow\n",
+    "results": [
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA05-108\nThis puzzled such students of comparative religion as had failed to detect this cult.\nBut Mr. Healey had a partial andlimited success. Heralliedbehindhim the Left-\nwing opinion so coolly snubbedlast night by his leader,Mr.Gaitskell. Mr.Godber's\nperformance meritedallthemildscornheapedonitbyMr.Shinwell.\nThis\no\ncomporative\nrhudeits\npug3led\nma\nMins cutt.\nfailed\nto dehect\nweligien\nhaa\nao\nBwt\na pc ka and\nMr. maley\nhad\nhin\nliniled\nsucceo. he vahied behina\nme\nleftwing\nopinian so coolly snubbed last\nlis\nMw. Gaits hel. Mr.\nleader,\nuisht\nby\nmeiled al m uild\nGodeo'\npesamne\nan it by Mr. Sin weu.\nneaped\nDccru\nName:\nU.Mali",
+            "time": 43.9818058013916
+        },
+        {
+            "name": "easyocr",
+            "text": "Sentence Database A05-108\nThis puzzled such students of comparative religion as had failed to detect this cult.\nBut Mr. Healey had partial and limited He rallied behind him the Left- success. a\nopinion s0 coolly snubbed last night by his leader, Mr. Gaitskell. wing Godber's Mr.\nperformance merited all the mild scorn heaped on it by Mr. Shinwell.\nccutcral _ ol T Or\nMucaa> cuc pueba\nAo aull fcllea dlelacl\n40 sugfe Lao\na\npex Ecl Laala l Lac\nMr Bk Ola\nLL belax volr0 L _\nL: Lecl Buc0+\ncoou4 >~ud bre^ Ico 6\nLeflw:_9 oci-ics 50\nLa \nAv , Galh Leu Lla A~- LaclS \nLsl 6S\n~s'laa^ ultal prses Ax cl\nGoolls& Cuco_\nSe  wrl Dr A- u\n420 cl peal scoyu\nName:\nL . M&li",
+            "time": 1.5389735698699951
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A05-108\nThis puzzled such students of comparative religion as had failed to detect this cult.\nBut Mr. Healey had a partial and limited success. He rallied behind him the Left-\nwing opinion so coolly snubbed last night by his leader, Mr. Gaitskell. Mr. Godber\u2019s\nperformance merited all the mild scorn heaped on it by Mr. Shinwell.\n\u201cTc puegiar mer Acta of Cor porsra A VD\nweNigion an bad font task bcs taba Wren Oke\n\u201cBur hur, bRalry os Q peor Wat a od\nLt Neck machQes . MH voted beatin Wi\nAra Lofruonw a oO @L aie 20 Coclkky \u00bbuukhdoac\u00ae las\nLrg hy Lire L2aes lk, Gola tes. Myr,\nGortts*, paserrcicea warlord ok Mr vuiw\nD>coww WRX PROX aon oe vow huss. a uoadr |\nName:\nLA . Mow\n",
+            "time": 1.607922077178955
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA05-108\nThis puzzled such students of comparative religion as had failed to detect this cult.\nBut Mr. Healey had a partial and limited success. He rallied behind him the Left-\nwing opinion so coolly snubbed last night by his leader, Mr. Gaitskell. Mr. Godber's\nperformance merited all the mild scorn heaped on it by Mr. Shinwell.\nThis pugsleo mch Muclewh of comperalive\nnarigion\n3 hac failecl to olehect Lirs cult.\nBwr\nMr. waaley hacl a perlal A lon acl\nuileai aucte\nLae\nvauieo benina uii\nue lefhusing opinier 30 cooly suub bger lash\nnisur by liis leacler, Mur. Gaibs uel. Mr.\nGooller', posemmenca uesileal alu ma uiilol\nscovu\nueaped can t bu Jus. Sunweu.\nName:\nU.Mali",
+            "time": 1.8257014751434326
+        }
+    ]
+}

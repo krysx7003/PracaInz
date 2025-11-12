@@ -1,0 +1,26 @@
+{
+    "file": "a01-077u.png",
+    "reference_text": "Sentence Database A01-077\nAnd, since this is election year in West Germany, Dr. Adenauer is in a tough spot.\nJoyce Egginton cables: President Kennedy at his Washington Press conference ad-\nmitted he did not know whether America was lagging behind Russia in missile power.\nHe said he was waiting for his senior military aides to come up with the answer on\nFebruary 20.\nAnd, since this is election year in West Germany, Dr. Adenauer is in a tough spot.\nJoyce Egginton cables: President Kennedy at his Washington Press conference ad-\nmitted he did not know whether America was lagging behind Russia in missile power.\nHe said he was waiting for his senior military aides to come up with the answer on\nFebruary 20.\nName:\n",
+    "results": [
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-077\nPORE NANAENRERENNEONONNNANZNERE Z ENOE OE ER\nAnd, since this is election year in West Germany, Dr. Adenauer is in a tough spot.\nJoyce Egginton cables: President Kennedy at his Washington Press conference ad-\nmitted he did not know whether America was lagging behind Russia in missile power.\nHe said he was waiting for his senior military aides to come up with the answer on\nFebruary 20.\nMMA, \u00bblnosL Mao e ol\u0119chu zaa m Ueot\nGomcu\u0105 |, Dr. haznaus e m m touql spo\u0142.\nNo qc\u2014 \u00a3qqg bc caf,la, :  Resaeuk Kung EL\nob we Waokiiglam Puzo cmloemaa_ aduulqh\nla aia \u201enek kuaw mwilelh\u0119s hmenca wada\nlagamy zla Rugia m miaail\u0105 powy.\nHe_ sauXt KOL Wada wau kum qj for ma acuum\nmilkory aitdeo \u0142o Cema_ up wilu tbiu\u0105_ muasawes\nOm CZN pr.\nName:\n",
+            "time": 1.391108512878418
+        },
+        {
+            "name": "easyocr",
+            "text": "A0l-077 Sentence Database\nAdenauer is in a tough spot. And, since this is election year in West Germany, Dr.\nhis Washington Press conference ad- Joyce Egginton cables: President Kennedy at\nmitted he did not know whether America was lagging behind Russia in missile power.\nwaiting for his senior military aides to come up with the answer He said he on was\nFebruary 20.\ncleclc MO  lol- Hcco iQo  1\n{ Qcu 9\nGojucus ~r Aaeucues '0 > #aug 4\n@ 3 Pol _\n1\nReoiaeuk Kounecly Eaa uLcu cableo\nJo 492 \naduubec cauleece Peoa Washi~Slcu Lis 9\nhuosca Lucua Lulqlke) aiou Lo\nLJcLs Lol\nRuosic L2 usiasi behiol lagai~9 PCQ .\nL\noaika8 4i0\nHe Saiol auicy fcr Lo\nujas\nilaas 4o Wilu Jue aiceo\nCcue _ Lp Cuswrs\nfelvuos: 20 .\nOu\nName:",
+            "time": 1.6032676696777344
+        },
+        {
+            "name": "paddle",
+            "text": "A01-077\nSentence Database\nAnd, since this is election year in West Germany, Dr. Adenauer is in a tough spot.\nJoyce Egginton cables: President Kennedy at his Washington Press conference ad-\nmitted he did not know whether America was lagging behind Russia in missile power.\nHe said he was waiting for his senior military aides to come up with the answer on\nFebruary 20.\nelechian\nweot\npio\nL\na\ngea\n\nGermay.\nDr.Aaeuaues\nbia\ntangh spot.\nPresiceut\nJo yce\nEgg mhan\nKemecy\ncable :\nat hio\nWashirglan Preos canfeence aduillecr\nhe dior\nhnc\nwhethes\nhuerca was\nnot\nlagging\nRussia im\nmissile\nbehna\nporwe.\nwaihing\nfco hio senicr\nMe saior\nhe was\nmildary\naiceo\n\u2193o\ncome up\nwilu\nthe auswes\nFebruasy\n20.\non\nName:",
+            "time": 23.082464933395386
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-077\nAnd, since this is election year in West Germany, Dr. Adenauer is in a tough spot.\nJoyce Egginton cables: President Kennedy at his Washington Press conference ad-\nmitted he did not know whether America was lagging behind Russia in missile power.\nHe said he was waiting for his senior military aides to come up with the answer on\nFebruary 20.\nAncl, suco prio so a\nelechcu geerr -\nWest\nGemaugi Dr. Adenaues o iu  toughopoh.\nJoyce Eaginbon cables : Pesioeut Komedy\nat wis woshingten Pneos caufoence aouillech\nhe olior uot kuaw Whehhes huerca Wos\nlagging behinal Russior  niissile powe.\nHe saiar he was waihug fer nis aeuicr\nmilbors aicles to Ccue up wihu tue auuswes\nOn Fetruary 20.\nName:",
+            "time": 2.0607314109802246
+        }
+    ]
+}

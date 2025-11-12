@@ -1,0 +1,26 @@
+{
+    "file": "a03-050.png",
+    "reference_text": "Sentence Database A03-050\nOn the other hand, Mr. Pearson excels in meeting people informally, but many still\nregard him \u201das some sort of cross between an egghead and a missionary\u201d. His party\nadvisers are now trying to correct that image. The bow tie has gone; he is having\nlessons on television techniques and is being coached by speech experts.\nOn the other hand, Mr. Pearson excels in meeting people informally, but many still\nregard him \u201das some sort of cross between an egghead and a missionary\u201d. His party\nadvisers are now trying to correct that image. The bow tie has gone; he is having\nlessons on television techniques and is being coached by speech experts.\nName:\n",
+    "results": [
+        {
+            "name": "paddle",
+            "text": "SentenceDatabase\nA03-050\nOn the other hand,Mr. Pearson excels in meeting people informally, but many still\nregard him \"as some sort of cross between an egghead and a missionary. His party\nadvisers are now trying to correct that image. The bow tie has gone; he is having\nlessons on television techniques and is being coachedby speech experts.\nOu\nhue\nahue\nhand,\nMr. Pearan\nereels\npeore i fcvmaly but\nuy\ntiu\nn as scne sark of\nwegard\nhin\ncrcas\nberween\nui ssionay\".\na\ncaghead\nand\na\nwyug\nadoiaes ae now\nho\nmat in age.\ncoruedt\nThe\nwow\nyas\nnaving\nue\nW\nercns\nau\nbeing\nLecnniques\nhelevisian\nad\nS\ncoacned\nWy\nsneecn\nlrpeb.\nName:\nU. Mani",
+            "time": 48.41360259056091
+        },
+        {
+            "name": "easyocr",
+            "text": "Sentence Database A03-050\nPearson excels in meeting people informally, but many still On the other hand, Mr\negghead and a missionary\"_ regard him His party \"as some sort of cross between an\nhe is having trying to correct that image: The bow tie has gone; advisers are now\ntechniques and is being coached by speech experts. lessons on television\nlaza / okqu Lur_\nTeane  Oe Mx. @ArQl\nwseA $ ~(c~al Qu JCa Cropls_\nok L Xu Jc | nGcsc\nJ09} Cvcb ) CA\n4\n~xccut be}weeL 4 C42 kaaa exa\nC~ C\nAia pus-y o\nhaue 0% L5r OR_ Lol 4c\nAq TLs Luol ~ & %r ' cCVuec wou\nLa ^\nLcu `~c aca ; Le_ 1 x @a\na1\nb1 1 3 Leclce: culla ,\n0 , Jiel Aels_ a 0 CoaeRa\nAraeb J@recl ma\nName:\nU . hai",
+            "time": 1.6122586727142334
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A03-050\nOn the other hand, Mr. Pearson excels in meeting people informally, but many still\nregard him \u201das some sort of cross between an egghead and a missionary\u201d. His party\nadvisers are now trying to correct that image. The bow tie has gone; he is having\nlessons on television techniques and is being coached by speech experts.\nQu brea, ohio, bench Mar. \u201cPearce. oral\nSe sete peop oe fevrrotty, Vuk meu\nWRU wdQasA Wo | as soane cork ob  eecee\nMerwee ew OL  CQaQhead eeK A Wh mrcucuy *\nMio eotey aAvierm WR, now Weg nog ho\nCOVuR ON Mok Loage . \u201cThe Now hO ty\nACR 5 wh 0k Anda Meee. ew\nhea Yt arly Lecius eyras on Xv \u2018ile Bee 4 COA ARA\nWy RR CAN Roe pws ..\nName:\n",
+            "time": 1.5825285911560059
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA03-050\nOn the other hand, Mr. Pearson excels in meeting people informally, but many still\nregard him \"as some sort of cross between an egghead and a missionary\". His party\nadvisers are now trying to correct that image. The bow tie has gone; he is having\nlessons on television techniques and is being coached by speech experts.\nOn Lue ohuos heual,\nMr. Teareu Qsells\n. meehig peopta fovmouy Out ucuyg\nshu negeud hin\nM Cas scina serlof\nCroos\nberween can cughead ancl CA\nainicuars\"\nmis perhy adoiaes aue now wejines ho\nccvuech\nMat in age. Tha von tie uas\ngena;\nue is uavire erscns cu\nhelauision Lecunicue, and i beis coacued\nwy speecu axpob.\nName:\nH. Mouri",
+            "time": 1.8366992473602295
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "file": "a05-017.png",
+    "results": [
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA05-017\nThe Minister regards the recent trend of recruiting figures as encouraging. He is\nconfident the aim can be achieved. While the possibility of an eventual return to\nNational Service in some form cannot be entirely discounted, he does not agree that\nthe point has been reached where this need even be considered. If National Service is\never resorted to, engagement would probably have to be for three years.\nTe\nMinines waaras\n- - AR con henor\nat uecvuita 9\nRques an eu cauragis.\nhae to canticat \nain caee achievecr,\nwuile ue penililihg of caLA ev euhual nehsn\nto Aalicnal\nSesodce u a soue\nform\ncanot ee cukeu discowect, 1 ue does\nual aquea Luas une peinh uas laeeu weacuacl\nwLwR his ueeo wer Roe ceuncssea. if\nNavaral Sooicso i evcs neoailed\nN\nto,\nengageuen wouler wovelal ly haue to 6e tar\nure taas.\nName:\nW.Moui"
+        },
+        {
+            "name": "easyocr",
+            "text": "A05-017 Sentence Database\ntrend of recruiting fgures The Minister regards the recent encouraging. He is as\nWhile the possibility of confident be achieved. eventual return the aim to can an\nNational Service in some form cannot be entirely discounted, he does not agree that\nthe point has been reached where this need even be considered. If National Service is\nengagement would probably have to be for three years. ever resorted to,\nTV2 Lc: Le_ he_ON J&CoJ MQ_Acca\n8Q5\nf~u~ M8Cy Ml cQucacr` \u20ac\n0 9 @ 9\nacl)enQo Ccckcej La c Q\u20ac Le Lo\nCa\n'aiuua 0 ( Wll _\nMqhu~ Le_ pcA 4 @0 @uuual C\nAcuucual (cva Seu: c 1o\n'C1e\nc axccol 0 & C~~ W+C dsccuulec 48 _ coQs\nQas 4 Ua  Lco PCuL La ura CAASU aCido ua\nAo 1f Qse Mu Lq) &  Cc1acxo)Qd ~r0n\nCue ~\nNalcal 5oo` 69 0 40 Lucs  Mldc~LQc\npvorcb {~ 62 Us\n1o LoLlo aaq8auQ13 Laue 2\n48C 0 Lues\nName:\nAculc"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A05-017\nThe Minister regards the recent trend of recruiting figures as encouraging. He is\nconfident the aim can be achieved. While the possibility of an eventual return to\nNational Service in some form cannot be entirely discounted, he does not agree that\nthe point has been reached where this need even be considered. If National Service is\never resorted to, engagement would probably have to be for three years.\nNL NWA S wgra bua_ macaak 0\n\u00ab+ kowo A A Any a CAU\"QO\u2014=q >\nNa. coaubhuak WW o\u2014 Cu 00 acluavem,\nWwilt\u0119j MM pomitaiiky ol mm eocednmal ulumu\nlo uwanaul SOC. w Soma diem\ncamob WL mWL\u0104 discaeh j UL doQa\nuol aqua. Mma\u017c lu paul ka bonu uzacun0h\nWUDBAL Mi\u0119 ut W QQ cemumaumoa . If\nPadsmol SGIL\u2014 w LOC\" w\u0141ocalach *\nLn\u0105qaqcua> WowiA pvodab ly Mava \u0142o 6 fm\n| SVX ZROJTI .\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA05-017\nThe Minister regards the recent trend of recruiting figures as encouraging. He is\nconfident the aim can be achieved. While the possibility of an eventual return to\nNational Service in some form cannot be entirely discounted, he does not agree that\nthe point has been reached where this need even be considered. If National Service is\never resorted to, engagement would probably have to be for three years.\nTe\nhni nes\nte e ce\nhenon\nueaards\nnecvuiti 9\nfiques\nat\nas encauoaqis.\nbre\n\u221e\nb ai ca loe achieved.\ncanticet\nwhile\nhe possibilihy ol a eoenual nebon\nsesoicein sce\nfcou\nto\nNaticnal\ncanot\n6e\nc hiehs\ndisccueech,\nue\naoe\npeint\nnat\nMat\nue\nuao\nlaeen\nueacmec\naqueo\nbis\ncanaicosed.\n1f\nwwee\nueeo\nce lae\nNat'anal\nfeoi\n~\neuc\nneocrlee\n\u21930\n\nA\nwanler ovebab ly\nhave to be fao\nergagenent\nmee\na\nName:\nUr.Mcui"
+        }
+    ]
+}

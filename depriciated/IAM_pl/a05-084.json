@@ -1,0 +1,21 @@
+{
+    "file": "a05-084.png",
+    "results": [
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA05-084\nThe Russians now realised its seriousness. The French doubts were more about pro-\ncedure than about substance. The Prime Minister's attitude of studied calm brought\ndown the temperature of the debate, which never at any time rose to fever pitch, to\na remarkable degree of sub-normality. Throughout Mr. Macmillan's speech the Earl\nof Home, Foreign Secretary, was listening in the Peers' Gallery.\nThe Rusniars Ac uealiaeol ih sercuoner. The\ntvanen oroubts WRIR ua oul alouut rvoceoue\nLuncin about sulotauce. The Riun Mininer.\narihcla of shuolieal cauu Ovaugut alowu lu\ntemposalwe of ma clebachs, wuieu ueURS\ncrt ay hua vose bo feves piteh,to \nnemerhable deqrues of anb-ucruaily.\nToughaw ur. Macuiuan's spaoeou Lue Eawl\nof uoue,\nTovaim Secvelory, was lslaring\ntue Reors' Gauers.\nName:\nU.Moui"
+        },
+        {
+            "name": "easyocr",
+            "text": "Sentence Database A05-084\nmore about pro- The Russians now realised its seriousness. The French doubts were\ncedure than about substance. The Prime Minister's attitude of studied calm brought\ndown the temperature of the debate, which never at any time rose to fever pitch, to\nremarkable degree of sub-normality   Throughout Mr. Macmillan's speech the Earl a\nof Home, Foreign Secretary, was listening in the Peers' Gallery.\n7Le  Ruascco 26 A8Ql &Qo a8Rculouea 1l2 \nuou\nouboouu oouD| rvocndur Wrjr tva @ Mour\nMis A0r\" ~nu~ 9L18 blcuco 7le _\nCLBxcd Lcu\n2\n0f oNsLicla _ L> 3huclos)\n64 ( Ovou Ccu olcu\nclQnala oc L lc La\nLexxp D Jalur MQur)\"\nfrue P{Leu 1G cxs Nus _ 4o vo3 & @\ncu\nucyuo_uilu sf s8\nMoAcsUcol dQc~LDS\n~\nCcsi Tuou8 ACu1u Macuuuau 'naec Lle L .\n5\n4,lec& FFeve (~ Secve Icj + , 0 8 Lcue\nwco\nArers 6 Ul85s\nLe\nName:\nu . Mcu"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A05-084\n\"The Russians now realised its seriousness. The French doubts were more about pro-\ncedure than about substance. The Prime Minister's attitude of studied calm brought\ndown the temperature of the debate, which never at any time rose to fever pitch, to\na remarkable degree of sub-normality. Throughout Mr. Macmillan's speech the Earl\nof Home, Foreign Secretary, was listening in the Peers\u201d Gallery.\n\"a, hasas oso <salssash MM aQNOUNW0ULAM . IR\nTym om  Moudbl> wu moaz_ obBanj pvocnoumwa\nhmm  abamk \u00bbubskanca, da boa Mmd\nOWN aS_ of abluodah cum. Ovom\u0119ut otowa lux\nlammpoadakun_ o. uu olllhbaolq , Wu ueo8s\nok ug Wma vo WO Roy pile , \u0142o a\noo Aaa \u00a9 bacy.\nTuougquouk ur. Macmiuau s span kuq Lost\n4 JCUug , Tv a K\u2014 S2cy2 loru, UW000 adm\nBER tue_ Jeqro| G uauwy,\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA05-084\nThe Russians now realised its seriousness. The French doubts were more about pro-\ncedure than about substance. The Prime Minister's attitude of studied calm brought\ndown the temperature of the debate, which never at any time rose to fever pitch, to\na remarkable degree of sub-normality. Throughout Mr. Macmillan's speech the Earl\nof Home, Foreign Secretary, was listening in the Peers' Gallery.\nRuooiano now nealised\nib serianoneo. Phe\nThe\naoweman\nalant proce deve\ntram c\nPiu\nalobance. The\nMinier'\nbucn\nabcuut\nabihac\nMe\naf\nstuaiear\ncau\nOvaun ght alcrwn\nofhe cebat,wia ueoe\ntepesae\nab atg tin vose\nfeveo piteh, to a\nb\nof oul-ucrnai.\nnemcohabe\naeques\nThou g hauuh\nho. Macuiuan'\napeec the\nEaol\nSecvetaoy, was lislanng\nFare\nJ205\nte\nGaners.\n\nName:\nb. Mani"
+        }
+    ]
+}

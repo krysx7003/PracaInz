@@ -1,0 +1,21 @@
+{
+    "file": "a01-020u.png",
+    "results": [
+        {
+            "name": "easyocr",
+            "text": "A01-020 Sentence Database\ndespite the crisis Macleod with the conference Lancaster House went at Mr . on\nnow revealed his full plans to the Africans and Liberals which had blown up. He has\nattending: These plans do not give the Africans the overall majority they are seeking:\nAfrican delegates are studying them today: The conference will meet to discuss the\nproposed House of Chiefs. function of a\nWl ccu(Qsauce naqLt Maclead Le _\nWr . aL\nCn x3 aece ae Lq _ laucasles Aaulor\n0l\nuq_uqalea Wlick Lle_ Kac^ ha< Blou MCl\n4p _\nli besclla Afccuo Lur_ olu ( lis fuu\npicena L0\nTeae_ allenaA8 Le _ p(clo ua aior\na0\nFlr4 Mficclc? mqiorLp LLq _ ouq _\nOuqal\narui~a _ AAcal sauaj-9\ndqlQ_a ale j aule_\nL: u ceuleQua seqf Tle_\nLue~ toaa'\npvopoaral Auckc ol Ai cuca Ae _\nFo 0\nCuek 04 Hauoe_\nName:"
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-020\nMr. Macleod went on with the conference at Lancaster House despite the crisis\nwhich had blown up. He has now revealed his full plans to the Africans and Liberals\nattending. These plans do not give the Africans the overall majority they are seeking.\nAfrican delegates are studying them today. The conference will meet to discuss the\nfunction of a proposed House of Chiefs.\nhur. Macleod\nuseut as wihu Mue ccufeseuce\no laucasle Haurae deopihe une cisis\nwhicn hach blowu up. Le has ucsw ulaled\nhis fuu plaus to hue Apiccus ouua lbecib\nallenaing These plcuns olo uot gioe lue\nAficaus Lue oveal majorilys huey aul\nsoghing.\nAfnicau delegales aue shuaying\nluem\nThe coufoeuce win meot\ntoday.\nto dio cuss Hue fuchcu of A puoposeal\nHause of Cuiebs.\nName:"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-020\nMr. Macleod went on with the conference at Lancaster House despite the crisis\nwhich had blown up. He has now revealed his full plans to the Africans and Liberals\nattending. These plans do not give the Africans the overall majority they are seeking.\nAfrican delegates are studying them today. The conference will meet to discuss the\nfunction of a proposed House of Chiefs.\nhe. Maclook weuk a wih Mma_ coufesorce\nOe Lloaucart2s Warce\u00ae ddoebe we onae\nWML hack Slows up. U2 has voto RvV2AWA\nLis FX Plarag bo oe Miccrs anh Uboalb\nOR Are ~ Shkease pleas lo ucdhk qot Ma\nMarcans bie ovo maomiby May ur\nserking., Mrcan aaigqaQe cue abr d qura\nlnc toctay, The Cconfeeunegn wrk ureok\nto Kincues HWa_ fPreckicu of ao pvoeared\nteanes. @s Cycoh.\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA01-020\nMr.\nMacleod went on with the conference at Lancaster House despite the crisis\nwhichhadblownup.Hehasnow revealedhisfullplans tothe AfricansandLiberals\nattending.These plans donot give theAfricans theoverallmajority they are seeking.\nAfrican delegates are studying themtoday. Theconferencewillmeet to discussthe\nfunctionof aproposedHouseofChiefs.\nan wihy\nte couteence\nMr.\nMaclead\nweut\ndespile\nme\naisis\nad\nLancaste\nHase\nwlicn\nhach\nblowu\nue\nhas\nuow evealed\nup.\nhis\ntue\nAficans and\nlibeat\nfuu\nrolaus\n10\nThese\natending.\nplans do uot qioe\nMe\nMricans\nlne\novesal majority tey ae\ndelegates one stuaying\nseehing.\nAfrican\nThe conterluce\nwiu meet\ntem\ntoday.\nto discuss\nMe\nfuctian of a pvopased\nHanse of\ncuies.\nName:"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "file": "a05-073.png",
+    "reference_text": "Sentence Database A05-073\nHe spent most of his short half-hour on Berlin. He deplored the possibility of some\n*new myth\u201d about betrayal of Germany by the Allies. \u2019We do not,\u201d he said, \u2019really\nknow what the Russians want.\u201d But he was certain that they wanted to establish a\nfinal and irrevocable division of Germany. Britain could not be a party to an imposed\ndivision. But negotiation, as the debate had shown, could be undertaken on a variety\nof bases.\nHe spent most of his short half-hour on Berlin. He deplored the possibility of some\n*new myth\u201d about betrayal of Germany by the Allies. \u2019We do not,\u201d he said, \u2019really\nknow what the Russians want.\u201d But he was certain that they wanted to establish a\nfinal and irrevocable division of Germany. Britain could not be a party to an imposed\ndivision. But negotiation, as the debate had shown, could be undertaken on a variety\nof bases.\nName:\n",
+    "results": [
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA05-073\nHe spent most of his short half-hour on Berlin. He deplored the possibility of some\n\"new myth\" about betrayal of Germany by the Allies.\"We do not,\" he said,\"really\nknow what the Russians want. But he was certain that they wanted to establisha\nfinal and irrevocable division of Germany. Britain couldnot be a party to an imposed\ndivision. But negotiation, as the debate had shown,couldbe undertaken on a variety\nof bases.\nHe\nof lis shat\nspent\nmcst\nnalf-haw\nau\nBerin.\nue\ndeplaved\nhue\npesoibilihy at\nabant\nbekayal af Germany\nmyhu\nsao\nu uew\nAuies. u We do uah,\" he saidu\nbg\nme\nalauy\nue Fussias want.\nhuow what\nH\nBut ue was\ncastai\nMat\ntey\nwanted\na to et ablisha\ndivisian af\nGermay.\nBrilain coula not loe a party\nto an in pced\naioisian.\nwegohatan, as tue\nBul\ndebate\nhaa\nshowu\ncoruld\nloe maestahen\na vaiey\nau\no\nbases.\nName:\nU. Mani",
+            "time": 51.3619225025177
+        },
+        {
+            "name": "easyocr",
+            "text": "A05-073 Sentence Database\nHe deplored the possibility of some He spent most of his short half-hour on Berlin.\nhe said, \"really about betrayal of Germany by the Allies_ We do not,\" \" new 9) myth\"\nwas certain that they wanted to establish 99 know what the Russians But he a want _\nfinal and irrevocable division of Germany. Britain could not be a party to an imposed\ndivision. But negotiation, as the debate had shown, could be undertaken on variety a\nof bases.\n00 Aq _ 4ald - laj slo ( P~M Lo\nLcc^ al\npceoi &l'ly Lq_ Bo L~ 0 $ aeplcvr a Lus _\nBelar a/ alaul a4 Gr m'\nLoL) wu Lu >01 9 e\nK\nAuos _ 9a acua^ L_  aaua\nWa do La ua\n4 4\nAux: 4 wtal ~w LKol Le_\nwc_ 4&  a^ Woa\ncas lec Lay wcuulea Io LuaX\ncl,l 8, | C\n 0 oloieicl Ewal ~rooccq Onc Gesncy _ I_\nOxlc pcclt so4 calula %e\n4o ccar 4 a cl L~\nunqol 'alicc ooixcs ~Bu\nLacl Lue _ olrbeka _\ncA\nUcxtelt ualolaL ~ cocla Juoll Qor_\no1 0\nQcl423\nName:\nAAcn: U .",
+            "time": 1.8929178714752197
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A05-073\nHe spent most of his short half-hour on Berlin. He deplored the possibility of some\n*new myth\u201d about betrayal of Germany by the Allies. \u2019We do not,\u201d he said, \u2019really\nknow what the Russians want.\u201d But he was certain that they wanted to establish a\nfinal and irrevocable division of Germany. Britain could not be a party to an imposed\ndivision. But negotiation, as the debate had shown, could be undertaken on a variety\nof bases.\nMe Spek wce* PN lain shew watt ~ hour Ow\nPOMS | URW may ba a ee BeWawa of er wm cuy\nBy bo AWes. Wa do wok Wa scrok y aly\nAno web tna, \u201ctareriaen unsuk. \u201cSuk MA wees\ncose Proak BaQ power bo ash abliok cv\nwat of & Lwevecabla, cdhoimer <a GQ rurcrrg,\neee...  ~ aad uaqoh akon as brea agvera Lack\n(\nshoOtoON P acmalo\\ Qa. uMorblatlo _ na A Own Vey\noN Ber~Qs :\nName:\n",
+            "time": 1.701219081878662
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA05-073\nHe spent most of his short half-hour on Berlin. He deplored the possibility of some\n99. new myth\" about betrayal of Germany by the Allies. \"We do not,' 9 he said, \"really\nknow what the Russians want. \" But he was certain that they wanted to establish a\nfinal and irrevocable division of Germany. Britain could not be a party to an imposed\ndivision. But negotiation, as the debate had shown, could be undertaken on a variety\nof bases.\nHe speut ucst of his short ualf-hcw ou\nBarhi.\nLe deploveet hua pooibilihy od\n4\nsouns u uew mytu abaut behayal at Germengs\nLue\n-\n09\nAuies. la wa do uat,\" he scuian 4 alaly\nhuow what Le Runias wewt. - But ue wos\ncailain puas huey waulea to Rlablish S\nfiual and ineoocabla ouoisiar of Germays.\nBrilai Caula uot Q2 a porlys to LLA un pcaed\naioioion. Bul\nuagohahon, ces Lue olebete haci\nsuown, coula RR uolostauer o o saiehy\nof bcrses.\nName:\nu. Moni",
+            "time": 2.1272833347320557
+        }
+    ]
+}

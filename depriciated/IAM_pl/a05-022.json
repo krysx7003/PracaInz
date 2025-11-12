@@ -1,0 +1,21 @@
+{
+    "file": "a05-022.png",
+    "results": [
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA05-022\nIt is thought this would be the minimum necessary for the extended training modern\narms require and to enable each man to serve at least a year overseas. There is no\ntruth in suggestions that Mr. Watkinson is at odds with the Service chiefs over the\ndecision to dispense with National Service, or over any other aspect of defence policy.\nt 5\nhhausut Luis 5 cuaalal Qa Lue\neceoers fer Lane\neshancieor\nvoin nis 5 ocessn\ncsus secuina asn 8 ho enable Raou\nC\nto\n3002 al last a beas oosseas. Thee is\nuo\nhubu i auggerhen huat\nMr. walliu.on\n\nat odde wihus hue\nSooico cuet OURS\n-\ncecisie ho cuspunse wihu\nNalicual\nSosoics, C 0005 caus olues aspect ot\nclefanca policy.\nName:\nu.Maui"
+        },
+        {
+            "name": "easyocr",
+            "text": "A05-022 Sentence Database\nIt is thought this would be the minimum necessary for the extended training modern\nrequire and to enable each at least There is no to year overseas. man serve a arms\ntruth in suggestions that Mr. Watkinson is at odds with the Service chiefs over the\nover any other aspect of defence policy. decision to dispense with National Service, or\nLlx , # > Lue Flcugl Mljl 02 LO cxla\nLc9\n2Va~ClQO L Oc6fy La_ ~rcrBc F 9 Jc\n^ecuiua _ Lo 1c 2cQue\nLc Qacu a 0 @sM\nTlQ)& \nlcd Du(arc a {rc a{ ~0) Da _\n24898c~ Wal-c Lua 2 Lul\ny _ Uo\nclle+ Seoco Le odas 0085  1 { L\na\nLorlu clec > c 5o Naucua | cyan38  Lua \n2p Qj oles ~ 0 Soso:c ou0s ~\nCxs C\ndoG~c9 _ s\nPo\nName:\nU . U Guur"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A05-022\nIt is thought this would be the minimum necessary for the extended training modern\narms require and to enable each man to serve at least a year overseas. There is no\ntruth in suggestions that Mr. Watkinson is at odds with the Service chiefs over the\ndecision to dispense with National Service, or over any other aspect of defence policy.\n+ u thom\u0119k lima wamlok Qa bu mum\ngezaory far lnu emanaan Noa man m octsrm\norm uqUuM0= am ko Lmalbltua Lacu m-ca VO\nVR Ml Rae a qROM DOOaR>. TLU>oa_ 2\nuo bum bu su\u0105qqnis_ kuab lae Ligkkanam\na \u00abb odda  wikamw tua Swotca. LULfu O0OLU=\nbn ALemaw bo AMaipau>R_ Wil Waucuai\nNOO u\u201d GOD\" om olus a4-P LH o\u0142\n\u0142\naQ(smnca_ po Uc_y,\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA05-022\nIt is thought this would be the minimum necessary for the extended training modern\narms require and to enable each man to serve at least a year overseas. There is no\ntruth in suggestions that Mr. Watkinson is at odds with the Service chiefs over the\ndecision to dispense with National Service, or over any other aspect of defence policy.\nti\nhris wanule le\nhe \nAhauught\nbanis mocay\nfas\nbe\nehnaeor\neceoe\nueain ama\nho eabaamuato\nama\nThee io\nJeve\nal eaot\ne\noussea.\na\ntruh i ouggestion huat\nwabkioon\nMo.\nmo\nhhe\nSeoiccret ooe\nat\nodas\nwiho\n~\nbe\n40\nceispse\nwib\nDalicnal\ncecisico\nsosoico,\nohnes aspect of\nc\n0u2\nc\ncefanc\npolicy.\nName:\nU. Mcaui"
+        }
+    ]
+}

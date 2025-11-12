@@ -1,0 +1,21 @@
+{
+    "file": "a05-108.png",
+    "results": [
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA05-108\nThis puzzled such students of comparative religion as had failed to detect this cult.\nBut Mr. Healey had a partial and limited success. He rallied behind him the Left-\nwing opinion so coolly snubbed last night by his leader, Mr. Gaitskell. Mr. Godber's\nperformance merited all the mild scorn heaped on it by Mr. Shinwell.\nThis pugsleo mch Muclewh of comperalive\nnarigion\n3 hac failecl to olehect Lirs cult.\nBwr\nMr. waaley hacl a perlal A lon acl\nuileai aucte\nLae\nvauieo benina uii\nue lefhusing opinier 30 cooly suub bger lash\nnisur by liis leacler, Mur. Gaibs uel. Mr.\nGooller', posemmenca uesileal alu ma uiilol\nscovu\nueaped can t bu Jus. Sunweu.\nName:\nU.Mali"
+        },
+        {
+            "name": "easyocr",
+            "text": "Sentence Database A05-108\nThis puzzled such students of comparative religion as had failed to detect this cult.\nBut Mr. Healey had partial and limited He rallied behind him the Left- success. a\nopinion s0 coolly snubbed last night by his leader, Mr. Gaitskell. wing Godber's Mr.\nperformance merited all the mild scorn heaped on it by Mr. Shinwell.\nccusfcsral , G+ Tlc &\nMacuosk: ~uc Pu83lor\nU Quu fcLecl aQloc\n4o Malis `~~ Lao\n0\npc~ Kcl LeAles @ 4Col\nMx Bux @\nL LelN@ \" Ol&o Le_\nL : Leca DUcLQ+\nCcolly P Mul Qeo Ico +\nlefLaor_ 9 0 @;u{e  30\nLus\nAr Gaik Leu Lo L (ac1os\nLisu Ls\nMs;lao Clllol pe8c= K cl\nGoolDu Cuco\nSu M8M4 Ly Ls `\nLQa @ pro 3coyu\nName:\nU . M aui"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A05-108\nThis puzzled such students of comparative religion as had failed to detect this cult.\nBut Mr. Healey had a partial and limited success. He rallied behind him the Left-\nwing opinion so coolly snubbed last night by his leader, Mr. Gaitskell. Mr. Godber's\nperformance merited all the mild scorn heaped on it by Mr. Shinwell.\nTUe pauza mat dumacje o$ Ccuaporaju R\naNi\u0105lim aa lan Pattash o \u00abak\u0105zk lh mak\nBX Me. bazalny A A poohal ana\nLLL Wa szualom . ba o voluc\u0144 katninka lm\nluMua_ Ljkw oplute\u2014 20 cooly smub ba lan\nnN=SIWW bi Um kqass bm, Gaiub LM. Mv.\nGoaMU |  ppOdS$wnameq, uasi\u0142am ali Punx mua\n2Dcovw NL p\u0142 m M hg us. \u201e-$ WII uwa |\nName:\nU .Mwmdu\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA05-108\nThis puzzled such students of comparative religion as had failed to detect this cult.\nBut Mr. Healey had a partial and limited success. He rallied behind him the Left-\nwing opinion so coolly snubbed last night by his leader, Mr. Gaitskell. Mr. Godber's\nperformance merited all the mild scorn heaped on it by Mr. Shinwell.\nThis\nof\nccuparatioe\nMudeutrs\npug36o\nNACh\nbio ault.\nfailead\nto dehect\nneligian\nhacl\nao\nB\na per lal aa\nmo. bealey\nhaa\nhi\nhini lect\naucteos. be rabieo behinar\nbe\nlefhuing\nopinian so cooly 'nnbbec laoth\nlirs\nho. Gaibshel. to.\nleae\nmght\nby\nmerilea cal M uibt\nGouee'.\npessaomcnca\nan it bo to. srin wel.\nhea ped\noccvu\nName:\nU.Manli"
+        }
+    ]
+}

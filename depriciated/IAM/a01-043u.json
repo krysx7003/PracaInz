@@ -1,0 +1,21 @@
+{
+    "file": "a01-043u.png",
+    "results": [
+        {
+            "name": "easyocr",
+            "text": "A01-043 Sentence Database\nInformal talks at Lancaster House will resume today: PRESIDENT KENNEDY today\ndefended the appointment of a Negro as his Housing Minister: It has aroused strong\nopposition from the anti-Negro senators of the Deep South: The negro is Mr: Robert\nOne of his tasks will be to see there is no racial discrimination Weaver of New York:\nhousing projects. Government and State in\nWlu Hcue Laucaales\nkdorucl| +allls a\nVenNDY todcy PRESDENT\n4odan KQoulr_\nNeqio of appcAaluew $ dq(exalec\na as Ao _\nHAauei-9 hcunc arouara haa A& I+\n4 3\nLue  64 Oppos'liom Aavo Ll_ Cus ' _ seulavs\nFau\n~Rabosl Tlo _ SaulA Ar Dea_p\nLQavo L\nuuio wiu talho Oue _ 4 04 LJqalurs trh. Nelo\ndisccuual'c vadial\nFloe_ k Fo Lo 28  _ UO\nhausi~4 Sk cr _ a Ol Gourarl4\npvjeok\nName:"
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-043\nInformal talks at Lancaster House will resume today. PRESIDENT KENNEDY today\ndefended the appointment of a Negro as his Housing Minister. It has aroused strong\nopposition from the anti-Negro senators of the Deep South. The negro is Mr. Robert\nWeaver of New York. One of his tasks will be to see there is no racial discrimination\nin Government and State housing projects.\nhsorudl talks at\nLaucasles Hause win\nwoune toolass. PRESDENT KENNEDY today\ndefenoled Ha appcinbuent of a Nequo as\nhis Hausiug Minises. It has aroused sheuncs\nopposition from ine cuhi-Negvo seuatevs of lua\nDeap Saubu. The uegvo io Mur. Robost 4\nWeaus of New Jorh.\nOue of his talho wiu\nle to ac0 Huoe io uo vacial discrimination\nn Govesument ad\nShate hausing\npoojeots.\nName:"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-043\nInformal talks at Lancaster House will resume today. PRESIDENT KENNEDY today\ndefended the appointment of a Negro as his Housing Minister. It has aroused strong\nopposition from the anti-Negro senators of the Deep South. The negro is Mr. Robert\nWeaver of New York. One of his tasks will be to see there is no racial discrimination\nin Government and State housing projects.\nafore taths ak LlLancacles Horee vor\nWonrng tocray. PRESENT KENNEDY today\ndoferctod Mea. aprerbuent of a Nequa as\nro Honea Mundes. Ie has arourerd ahem\nOperation Pow Ma cudh- Argue seuabhevg of ba\nDeap Sauk. The. vweqo wv Mr. \u201cRaat *\nWeorws of Nuo York. Gus. of Wo talho wu\n2 ko acn Hee Ww vo vacaal ciooruiuabsa,\nP9AK OD :\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA01-043\nInformal talks at Lancaster House willresume today.PRESIDENTKENNEDYtoday\ndefended the appointment of a Negroas his Housing Minister. It has aroused strong\noppositionfromtheanti-Negro senators of the Deep South. Thenegro is Mr.Robert\nWeaverofNew York.Oneofhistasks willbetoseethereisnoracialdiscrimination\nin GovernmentandStatehousing projects.\nHause\nwiu\nmfcrmdl talks\nat\nLancaste\nKENNEDY tOday\nPRESDENT\nwsune todas.\nappcintment of a Neqvo as\ndefended\nMue\nHansing Minides. It\nhas aroused shang\nlis\nsenaters of te\nfram\nopposition\nLne anti-Negvo\nSautu.The\nMr. Robest\nDeep\nnegvo io\nWeaves of New\nGue\nhis\ntalho wiy\nyorh.\nof\nio uo racial\ndisaiminatian\nl\ntuoe\nto\n280\nhausing\ni\nGooeument\nad\nState\npvjedts.\nName:"
+        }
+    ]
+}

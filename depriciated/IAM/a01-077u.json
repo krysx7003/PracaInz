@@ -1,0 +1,21 @@
+{
+    "file": "a01-077u.png",
+    "results": [
+        {
+            "name": "easyocr",
+            "text": "A01-077 Sentence Database\nAdenauer is in a tough spot. And; since this is election year in West Germany, Dr.\nhis Washington Press conference ad- Joyce Egginton cables: President Kennedy at\nmitted he did not know whether America was lagging behind Russia in missile power.\nwaiting for his senior military aides to come up with the answer He said he on was\nFebruary 20.\nelecke Ma lal Auo 3iQq_ 1\n1 ecr 1\nGeuced Dr AdeLalurs \"6 ` tou6 4\n0 ? Pat_\n\nReoioleuk Vouuecldd Eaa ulcu calslqa\nJo-\nadullea cculeencq_ ~Pn 00 Waoki~slcu 41 0\nauefca kaccw wlelle> dlol ko_\nLca 4al\nRuosic Le Aiai beLi~o^ laaa-~9 PClur .\nL\nwaia~8 Lio\nAle_ saiol eellc Fcr LQ\nLjae\nuilod 4o Wilu Ile_ aiclq 0\nCcue_ up alusWrs\nTLvuara 20 ,\nO^\nName:"
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-077\nAnd, since this is election year in West Germany, Dr. Adenauer is in a tough spot.\nJoyce Egginton cables: President Kennedy at his Washington Press conference ad-\nmitted he did not know whether America was lagging behind Russia in missile power.\nHe said he was waiting for his senior military aides to come up with the answer on\nFebruary 20.\nAncl, suco prio so a\nelechcu geerr -\nWest\nGemaugi Dr. Adenaues o iu  toughopoh.\nJoyce Eaginbon cables : Pesioeut Komedy\nat wis woshingten Pneos caufoence aouillech\nhe olior uot kuaw Whehhes huerca Wos\nlagging behinal Russior  niissile powe.\nHe saiar he was waihug fer nis aeuicr\nmilbors aicles to Ccue up wihu tue auuswes\nOn Fetruary 20.\nName:"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-077\nI TE SEO ETE PSOE Oreos eee\nAnd, since this is election year in West Germany, Dr. Adenauer is in a tough spot.\nJoyce Egginton cables: President Kennedy at his Washington Press conference ad-\nmitted he did not know whether America was lagging behind Russia in missile power.\nHe said he was waiting for his senior military aides to come up with the answer on\nFebruary 20.\nImch, pica rio to alecken gear a. West\nGermoary, Dr. Aderaues be uw A tough apo.\n\\o yor Eaqubeu caQjlog: ~ Pegiotew Vo wrgcty\nok Kio Womokiighen \u201cPres conleenca acuullech\nha ALA uask kuna wWilebles hmuenta Wor\nlagarss, eekiror \u201cRu|enia Wn udrasile pows.\nMa. sa0ick 42 woe WOLKE Fer Wie sewer\nUilborn aictes 40 coma up wir be causwes\nOn FRAvuory LO.\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "A01-077\nSentenceDatabase\nAnd, since this is election year in West Germany, Dr. Adenauer is in a tough spot.\nJoyce Egginton cables: President Kennedy athis WashingtonPress conference ad-\nmittedhe didnotknow whether America waslagging behindRussia inmissile power.\nHesaidhe was waiting forhis senior militaryaidestocome up with theansweron\nFebruary 20.\nclechian\nWest\nmis\nW\nA\ngeas\nw\nGermany,\nDr. Adeuaues\n \u00f9\u03b1\ntough opot.\nPesiaeut\nJoy\u00e6\nEggnton\nVemnedy\ncables:\nat lis\nWashingtan Pness conference admited\nhe did\nhuaw\nwhethes\ntneica was\nuot\nlagging\nRussia in\nnissile\nbeiat\npower.\nwaiting\nFar his senicr\nHe saior\nhe was\nmiltary\naides\nto\ncome up\nwitu\nthe auswes\nFebruary\n20.\non\nName:"
+        }
+    ]
+}

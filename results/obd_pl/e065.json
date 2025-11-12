@@ -1,0 +1,26 @@
+{
+    "file": "e065.tiff",
+    "reference_text": "THE CORSET AND THE CRINOLINE. 59\n\neffected. The length of the sleeves was much curtailed, and the preposterously long toes of the shoes reduced to a convenient standard. The ladies appear to have for some time resisted the innovation, but one Poulaine, an ingenious Parisian shoemaker, happening to devise a very attractive shoe with a heel fitted to it, the ladies hailed joyfully the new favourite, and the old snake-toed shoe passed away. Still, it was no uncommon thing to see some fop of the period with one shoe white and the other black, or one boot and one shoe.\n",
+    "results": [
+        {
+            "name": "pytesseract",
+            "text": "THE CORSET AND THE CRINQLINE. 59\neflected. The length of the sleeves was much curtailed, and the\npreposterously long toes of the shoes reduced to a convenient standard.\nThe ladies appear to have for some time resisted the innovation, but one\nPoulaine, an ingenious Parisian shoemaker, happening to devise a very\nattractive shoe with a heel fitted to it, the ladies hailed joyfully the\nnew favourite, and the old snake-toed shoe passed away. Still, it was\nno uncommon thing to see some fop of the period with one shoe white\nand the other black, or one boot and one shoe.\n",
+            "time": 0.5418696403503418
+        },
+        {
+            "name": "easyocr",
+            "text": "CORSET CRINOLINE: THE AND THE 59\nThe   length efected. much sleeves of the curtailed, and thc Ias\nlong toes of the shoes reduced preposterously to a couvenient   standard.\nThe ladies appear to have for some time resisted the innovation; but one\nPoulaine; an ingenious Parisian   shoemaker; happening devise a very\nto\nshoe wvith attractive heel fitted to it, hailed   joyfully the ladies the 2\nfavourite, and the shoe passed   away. old snake-toed Still, it was newv\nthing fop of the with one shoe white to see some period uncommon\n1lo\nand the other black, or one boot and one shoe.",
+            "time": 1.1897923946380615
+        },
+        {
+            "name": "paddle",
+            "text": "THE CORSET\n AND THE CRINOLINE.\n59\neffected.\nThe\nlength\nof\nthe\nsleeves was\nmuch\ncurtailed,\nand\nthe\npreposterously\nlong\ntoes\nof\nthe\nshoes r\nreduced\nto\na\nconvenient\nstandard.\nThe\nladies\nappear\nto\nhave\nfor\nsome\ntime\nresisted\nthe\ninnovation,\nbut\none\nPoulaine,\ningenious\nParisian\nshoemaker,\nhappening\nto\ndevise\nan\na\nvery\nattractive\nshoe\nwith\nheel\nfitted\nto\nit,\nthe\nladies\na\nhailed\njoyfully\nthe\nfavourite,\nand\nthe\nold\nsnake-toed\nshoe\nnew\npassed\naway.\nStill,\nit\nwas\nthing\nfop\nof\nthe\nperiod\nwith\nshoe\nto\nsee\nsome\none\nwhite\nno\nuncommon\nand\nthe\nother\nblack,\none\nboot\nand\none\nshoe.\nor",
+            "time": 18.757542610168457
+        },
+        {
+            "name": "doctr",
+            "text": "THE CORSET AND THE CRINOLINE.\n59\neffected. The length of the sleeves was much curtailed, and the\npreposterously long toes of the shoes reduced to a convenient standard.\nThe ladies appear to have for some time resisted the innovation, but one\nPoulaine, an ingenious Parisian shoemaker, happening to devise a very\nattractive shoe with a heel fitted to it, the ladies hailed joyfully the\nnew favourite, and the old snake-toed shoe passed away. Still, it was\nno uncommon thing to see some fop of the period with one shoe white\nand the other black, or one boot and one shoe.\n7\n\nL\n60\na\ne\nC\n-\nL\ne\n0 Le\na\n2",
+            "time": 2.613199234008789
+        }
+    ]
+}

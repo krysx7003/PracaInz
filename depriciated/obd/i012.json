@@ -1,0 +1,21 @@
+{
+    "file": "i012.tiff",
+    "results": [
+        {
+            "name": "doctr",
+            "text": "COPYRIGHT, 1915, BY CHARLES E. LAURIAT, JR.\nALL RIGHTS RESERVED\nPublisked October IQIS\nCopyrightin Great Britain, Ireland,\nand British Colonies, and in all\ncountries under the Convention, by\nCharles E. Lauriat, Jr."
+        },
+        {
+            "name": "pytesseract",
+            "text": "COPYRIGHT, 1915, BY CHARLES &, LAURIAT, JR.\nALL RIGHTS RESERVED\nPublished October rors\nCopyright in Great Britain, Ireland,\nand British Colonies, and in all\ncountries under the Convention, by\nCharles H, Lauriat, Jr.\n"
+        },
+        {
+            "name": "paddle",
+            "text": ".\nCOPrRIGHT, IQI5, BY CHarleS E,LauRIat, JR.\nALL RIGHTS RESERVED\nPublished Octobor iors\nCopyright in\nGreat Britain,Ireland,\nand\nBritish\nColonies,\nand\nin\nall\ncountries\nunder\nthe\nConvention,\nby\nCharles\nE.\nLauriat,\nJr\n"
+        },
+        {
+            "name": "easyocr",
+            "text": "COPYRIGHT, IQlS, BX CHARLES LAURIAT, E, JR.\nRIGHTS RESERVED ALL\nPublished Oclobir IQIS\nCopyright in Greet Britain, Ireland,\nColonies, and British and in Jl\nConvention, by countries under the\nCharles E Laurial Jr."
+        }
+    ]
+}

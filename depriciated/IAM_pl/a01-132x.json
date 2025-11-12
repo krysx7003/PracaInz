@@ -1,0 +1,21 @@
+{
+    "file": "a01-132x.png",
+    "results": [
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-132\n\"That cannot continue without either development being limited or an adjustment\nbeing made in financing.\" The Government decided to adjust the financing - which\nMr. Powell claimed was underpinning - not undermining - the service. Answering\nthe attack on \"economic charges\" for welfare foods, Mr. Powell said that all these\nfoods would still be free in families receiving regular National Assistance grants.\n- That cauuot cauhnul wiluaut eilles deuelor ment\nbeing limiled or au adjaohmeud beingmode\nu\n-\nWa\nAuascing The Goverment decided No adjust\nthe finascing - Wliou Mr Rowel olained was\nuepinning- uod uolomining- hue 2e0ic0.\nMowsesing lue attacy ou economic chovges\nbr welfane, Mr. Roweu paicl Auat all fuese\nfoodos would ah'u lel fee u fouilies neciong\nvegulas\nNahoual\nloishouce quaubs.\nName:"
+        },
+        {
+            "name": "easyocr",
+            "text": "Sentence Database A0l-132\ncannot continue without either development being limited \"That adjustment Or an\nbeing made in financing: The Government decided to adjust the financing which\nundermining Answering underpinning Powell claimed the service. Mr- not was\nfor  welfare foods, Mr. on \"economic charges' Powell said that all these the attack\nfoods would still be free in families receiving regular National Assistance grants\nWiluaul deuelp wevt 4 Tka\u0142 ccuuvo\u0142 24 Lles Ccub nue\nbeiu \u20ac adjaahad\nlauled 80 ug  ace\n@s a\n4 ~Tle deaded\nGucci ad 'j+d Yo Gouuueul no'\nw\nHr. 3wql fuanC;ns clai ssed C luc4\nwCLJ Ae\n1 9 ud0p`aaui ug 2@uico _ (ue uod ucu\n4 clcn 42 , ala cu hawoug\nQ Couowc Jue\n0M\nMr Qowru Fuauk (uQa6 al\n2aidl iolfane @x\nMQ Ceaol 9\nfcucui Lie hee fcodo 2h' cou la\nQ0 L 2\n9vauk , ko ;acu CQ Mahcual vQglas -\nName:"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-132\n*'That cannot continue without either development being limited or an adjustment\nbeing made in financing.\u201d The Government decided to adjust the financing - which\nMr. Powell claimed was underpinning - not undermining - the service. Answering\nthe attack on \u201deconomic charges\u201d for welfare foods, Mr. Powell said that all these\nfoods would still be free in families receiving regular National Assistance grants.\n\"kak comnol aub nu\u0142 wiluau\u0142 wuluw duelop mek\nLU n\u0105 U uulca oc am ad juohmmh besu U wa aot\u0119\nu Kuacing, Te Gweumuk d\u0141adza lo adjut\nua. fiuamcn\u0105 - www Mr. owe olaimed wo\nmay\u0119tmug= uol moabLimmn\u0105 - Fm 2>0ieq,,\nkosoin\u0105 lu albach ou economic. clUwW\u0105to i\nry welfcwa ; Mr. dowcU sada tFuak al ineo\n(ooda Uiomidk <kik Ge Dae m Paaakiae ROUOW o\nmqulas\"  Nowieual kasku qvao.\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA01-132\n\"That cannot continue without either development being limited or an adjustment\nbeing made in financing.\" The Government decided to adjust the financing - which\nMr. Powell claimed was underpinning - not undermining - the service. Answering\nthe attack on \"economic charges\" for welfare foods, Mr. Powell said that all these\nfoods would still be free in families receiving regular National Assistance grants.\nThat canot cantiune withaut eithes devebopment\ni\nbeing lin\u00fcted\nor an adijuotuent being made\nin financing.\n4\nthe financing- which Hr. Bowel olained was\nmdepinning- not undeuining-the =\nzeoice.\n4\nchavges\n4\nAmoweing tie athach on\"\neconomic\nbe free in fcunilies vecioing\nfods would shill\ntooistance qrat.\nnegulas\nNaticnal\nName:"
+        }
+    ]
+}

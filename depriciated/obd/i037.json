@@ -1,0 +1,21 @@
+{
+    "file": "i037.tiff",
+    "results": [
+        {
+            "name": "doctr",
+            "text": "THE LUSITANIA'S LAST VOYAGE\nbut on turning to see I found that it was\none of the a\u00ebrials of the wireless that stretched\nfrom topmast to topmast.\nThe present style of life belt, or rather\njacket, is not the old-fashioned kind filled\nwith hard cork, but a larger and more bulky\naffair filled with fibre, and when you have\nit on you look and feel like a padded foot-\nball player, especially around the shoulders.\nWhen I shook this wire off my head, it\ncaught me around the shoulders on the soft\npad, and I couldn't shake it off. It took me\ndown under the water and turned me upside\ndown. I tell you I \"kicked.\" I came up\nnone the worse for my ducking, for it simply\nreminded me of one of my various trips down\nto see \"Susy the Mermaid\" when I was a\nyoungster at Camp Asquam and the older\nboys used to duck us youngsters anywhere\nfrom five to fifteen times a day, according to\nthe unpardonable sins we were supposed to\n(21 )"
+        },
+        {
+            "name": "pytesseract",
+            "text": "THE LUSITANIA\u2019S LAST VOYAGE\nbut on turning to see I found that it was\none of the a\u00e9rials of the wireless that stretched\nfrom topmast to topmast.\nThe present style of life belt, or rather\njacket, is not the old-fashioned kind filled\nwith hard cork, but a larger and more bulky\naffair filled with fibre, and when you have\nit on you look and feel like a padded foot-\nball player, especially around the shoulders.\nWhen I shook this wire off my head, it\ncaught me around the shoulders on the soft\npad, and I couldn\u2019t shake it off. It took me\ndown under the water and turned me upside\ndown. I tell you I \u201ckicked.\u201d I came up\nnone the worse for my ducking, for it simply\nreminded me of one of my various trips down\nto see \u201cSusy the Mermaid\u201d when I was a\nyoungster at Camp Asquam and the older\nboys used to duck us youngsters anywhere\nfrom five to fifteen times a day, according to\nthe unpardonable sins we were supposed to\n( 21 )\n"
+        },
+        {
+            "name": "paddle",
+            "text": "THE LUSITANIA'S I\nLAST VOYAGE\nbut on\nturning\nto\nsee\nI\nfound\nthat it was\none of the aerials of the\nwireless\nthat stretched\nfrom topmast\nto\ntopmast.\nThe\npresent\nstyle\nof\nlife\nbelt,\nor\nrather\njacket,\nis\nnot\nthe\nold-fashioned\nkind\nfilled\nwith\nhard\ncork,\nbut\nlarger\na\nand\nmore\nbulky\naffair\nfilled\nwith\nfibre,\nand\nwhen\nyou\nhave\nit\non\nyou\nlook\nand\nfeel\nlike\npadded\nfoot-\na\nball\nplayer,\nespecially\naround\nthe\nshoulders.\nWhen\nI\nshook\nthis\nwire\noff\nmy\nhead,\nit\ncaught\naround\nthe\nme\nshoulders\non\nthe\nsoft\npad,\nand\nI\ncouldn't\nshake\nit\noff.\nIt\ntook\nme\ndown\nunder\nthe\nwater\nand\nturned\n me upside\ndown.\nI\ntell\nyou\nI\n\"kicked.\"\nI\ncame\nup\nthe\nworse\nfor\nducking,\nfor\nit\nsimply\nnone\nmy\nreminded me of one of\nmy\nvarious\ntrips\ndown\nto\nsee\n\u201cSusy\nthe\nMermaid\"\nwhen\nI\nwas\na\nyoungster\nat\nCamp\nAsquam\nand\nthe\nolder\nboys\nused\nto\nduck\nus\nyoungsters\nanywhere\nfrom\nfive\nto\nfifteen\ntimes\na\nday,\naccording\nto\nthe\nunpardonable\nsins\nwe\nwere\nsupposed\nto\n( 21 )"
+        },
+        {
+            "name": "easyocr",
+            "text": "THE LUSITANIA'S LAST VOYAGE\nturning to I found but that it on see\nwas\none of the aerials of the wireless that stretched\nfrom topmast to topmast.\nThe  present   style life belt, of rather Or\njacket, is the old-fashioned kind filled not\nwith hard cork, but a larger and more bulky\naffair filled with fibre, and when you have\npadded foot- it on you look and feel like\na\nball player, especially around the shoulders.\nWhen shook this   wire head, it off I my\ncaught me around the shoulders o the soft\npad, and I couldn't shake it of. It took me\ndown under the water and turned me upside\nI tell you I fkicked: down. 9) I came up\nworse for my ducking, for it simply none the\nreminded me of one of my various trips down\nSusy the Mermaid \" when I 6( to was see\na\nCamp Asquam and the older youngster at\nyoungsters anywhere boys used to duck\nuS\nday, from fve to fifteen times a according to\nunpardonable sins supposed to the we were\n21 )"
+        }
+    ]
+}

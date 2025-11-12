@@ -1,0 +1,26 @@
+{
+    "file": "a01-087u.png",
+    "reference_text": "Sentence Database A01-087\nMr. Brown, passionate and warm-hearted, led Labour\u2019s attack on the higher health\ncharges. Mr. Powell, white-faced and outwardly unemotional, replied with a statis-\ntical statement - and ended by inciting Labour M Ps to angry uproar. One dealt\nwith the human issue behind the Health Service; the other tried to show that the\nbalance-sheet must always come first.\nMr. Brown, passionate and warm-hearted, led Labour\u2019s attack on the higher health\ncharges. Mr. Powell, white-faced and outwardly unemotional, replied with a statis-\ntical statement - and ended by inciting Labour M Ps to angry uproar. One dealt\nwith the human issue behind the Health Service; the other tried to show that the\nbalance-sheet must always come first.\nName:\n",
+    "results": [
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA01-087\nMr.Brown,passionateand warm-hearted,ledLabour's attack on the higher health\ncharges. Mr. Powell,white-facedandoutwardly unemotional,replied with a statis-\ntical statement -andendedbyinciting LabourMPs to angry uproar. Onedealt\nwith thehumanissuebehindtheHealthService;theothertriedto show thatthe\nbalance-sheet must always comefirst.\nBraon\nwau- heasted,\nMr.\npasianale\nandh\ned\nLabw'\nahtach on\nme\nhighe\nhealth\nPoweu, whire-faced and\nMr.\nchaiges.\nant waaty\nmemotianal, veplied with a\nsabiohical ohatement-\nby inciting\naud\nended\nMPs to aagvy\nLalawr\nGue\ndealt\nupvoas.\nwilh\nthe\nbehia\nMealtn\nhumamn\nMe\nvosue\nService;\nmue\notue\ntriedr to shaw\nMat the\nfirt.\nbalance-oheet\nmuot\nalway\ncoue\nName:",
+            "time": 50.50118827819824
+        },
+        {
+            "name": "easyocr",
+            "text": "A01-087 Sentence Database\nBrown; passionate and warm-hearted; led Labour's attack on the higher health Mr .\nPowell, white-faced and outwardly unemotional, replied with a statis- charges. Mr.\nand ended by inciting Labour M One dealt Ps to angry uproar. tical statement\nshow that the with the human issue behind the Health Service; the other tried to\nbalance-sheet must always come first.\npaeaicuale_ Biaou becs laa aua\nMr ujcl\nkealh Lalxlv lgles L _ aack (ed\n3 O\nWlilo ~ faceal Foweu Mr\nclalgo_ aud\nwll menol-cxali wcrra y\npepliea 0 a\nici4-8\nslokccc( B4 3 (asrsrl4 ealea ccc\nMT > deall LaQcs 4o aaavs\nGue _ 4pvOQs \nWik beliia Lls _ Meallu Loj ur\nAe luna\n~iea Aal 462_ C; Le _ (ooi olio) ShGo\nJo\nFz . alwcea aulch ccue o Leq |\nQs(cc \nC\nName:",
+            "time": 1.5462737083435059
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-087\nMr. Brown, passionate and warm-hearted, led Labour\u2019s attack on the higher health\ncharges. Mr. Powell, white-faced and outwardly unemotional, replied with a statis-\ntical statement - and ended by inciting Labour M Ps to angry uproar. One dealt\nwith the human issue behind the Health Service; the other tried to show that the\nbalance-sheet must always come first.\nhue. \u201cBromon | prcarcrale anck woarru. - Masher,\nSA Lalav's akact om MWe Wighes heath\nCmorggs, Mr. \u201cPowe , White \u2014 faced ak\nOwe wordt menolicuad , EL PUVA voibh a\ndoimebical sbokQnrek \u2014 Auk GaerK by wchuag\nLater \u201cMts ke Aagvnn uyveos-. Gue. dealt\nwoth kha cr leo un BELLA bn Mealy\nCesuica ba ol Hie to sto brok He\nRotlorce - preat nice olwass falenveerk Fir oh.\nName:\n",
+            "time": 1.394103765487671
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-087\nMr. Brown, passionate and warm-hearted, led Labour's attack on the higher health\ncharges. Mr. Powell, white-faced and outwardly unemotional, replied with a statis-\ntical statement - and ended by inciting Labour M Ps to angry uproar. One dealt\nwith the human issue behind the Health Service; the other tried to show that the\nbalance-sheet must always come first.\nMr. Bicuou passicuale auch wcu a heaslad,\nlec\nLalcw v's atact oM Lue highe health\nchauges.\nMr. Poweu, whihe- faced aud\noutweraly memokicual, replied wihh a\nswiphical shatement\nauol encleo byinciting\nLabcur MTS to aagry upvoas. Oue dealt\nwikl\nLhe hunan ios ue behio Me Meallu\nSesoico; hue olues tvieon to Dhow hat the\nbalana-obeat nuot alwag ccue\nfird.\nName:",
+            "time": 1.814870834350586
+        }
+    ]
+}

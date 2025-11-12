@@ -1,0 +1,21 @@
+{
+    "file": "a01-082u.png",
+    "results": [
+        {
+            "name": "easyocr",
+            "text": "A01-082 Sentence Database\nsharp about-face from his warnings during the Presi- This surprising statement was\na\ndential election campaign: He claimed slackness in the Eisenhower Administration had\nbehind Russia in nuclear development. President Kennedy did lag caused America to\nCHILDREN'*i George Brown his best to avoid giving Pressmen a direct * answer i\nin personality last  night dominated Parliament'$ poles  apart TWO who are men\nGeorge Brown and Mr. Enoch Pow- fiercest battle since the 1959 election Mr.\nell, the Health Minister.\nolalq_seut Jlc P alaul 71, 3rp-Aar_\na Laa\nawAns a Le _\nGow Lio face _ Lcs\nclcluec^ capaith Lq_ Zreoiceusa @leclcx\nAoluu iAoled\"c  &eu loulQ)\n>|aclhrs A _ 1\n7ulc+a la9 QseLix huesicc 40 Ql\nlad cayara\nVeaueolt ~Pue &elecl\ncleuelopuel4 nuclacs\n4\nG-6i9 Pur_j M@ adaa\nhio Qal aia 10\nGeover Bvowe oi nc t\nllilur >\nVoles arct ChiLrren ae Two Lobto\nLea\npesjoxally nale ~i6 U dc;\nlaot\n6\nName:"
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-082\nThis surprising statement was a sharp about-face from his warnings during the Presi-\ndential election campaign. He claimed slackness in the Eisenhower Administration had\ncaused America to lag behind Russia in nuclear development. President Kennedy did\nhis best to avoid giving Pressmen a direct answer. George Brown*; CHILDREN*;\nTWO men who are poles apart in personality last night dominated Parliament's\nfiercest battle since the 1959 election - Mr. George Brown and Mr. Enoch Pow-\nell, the Health Minister.\nTiis surpiae otaeueut oas a suap alaut-\nfaca from his\nwas uings duing hue\nRvesicenhial clechon caupaisn. He clainect\nplachnes i me Esen houel Aouinistecticn\ncaursea\nhaol\nhuerica to lag lehinas Russia\nin uucleas\naevelop menh. Puesicient Vemeoly\nohicl his lest to awciel bioing Pueos uen\nainect\nauwe\nGeovgr Boowu\nCHILDREN Two\nmeu wko aul poles arcut\nnalech\nm\npesonatinys last uight dcmi\nName:"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-082\nThis surprising statement was a sharp about-face from his warnings during the Presi-\ndential election campaign. He claimed slackness in the Eisenhower Administration had\ncaused America to lag behind Russia in nuclear development. President Kennedy did\nhis best to avoid giving Pressmen a direct answer. George Brown*; CHILDREN\u2019*;\nTWO men who are poles apart in personality last night dominated Parliament\u2019s\nfiercest battle since the 1959 election - Mr. George Brown and Mr. Enoch Pow-\nell, the Health Minister.\nTus sur pn o2_ ok WQ_wowd Wor a WP aQoauk \u2014\nZvrer rca or ede choy COMA IP OU . rAQ_ Clarmach\nplachues Ww Mel Gaeu hourds forururo vane\nLoo carern bussican b lag Qerrr cr \u201cRirariar\nDe clears 6 hte uelop ure, ~\u201cPucmettutke Karoly\nBor hic bak 40 aDEICR org \u201cPumas er\nWH Arawach caries . Gi Rover \u201c Buon\nCWALPREN TWO wen who at pos aro\n&\nmw poroom as by Log+ wig Uh Acai: HARA\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA01-082\nThis surprising statement was a sharp about-face from his warnings during the Presi-\ndential election campaign. Heclaimed slackness in the Eisenhower Administration had\ncaused America to lag behind Russia in nuclear development.President Kennedy did\nhis best to avoid giving Pressmena directanswer. George Brown*; CHILDREN'*\nTwO men who are poles apart in personality last night dominated Parliament's\nfiercest battle since the1959 election- Mr. George Brown andMr. Enoch Pow-\nell,theHealthMinister.\nTis\nwas a sha\u03c1\nabaut-\nsurpiae otaemeut\nfron\nduinng hue\nface\nhis\nwasungs\nclamed\nPresicewtias\ncechicn\ncaupaign. me\nte\nEsen houes\ntoninisbatian\nslachues\nw\nRussia\ntmerica to lag\nbehinal\nhadl\nca\naea\nVemedy\ndevelopmendt.Puesicent\n\u4e00\nwuclear\ngiving\nPuessmee\nhio\nbest\nto awciel\ndia\nGeovge\nBvowu\na dinect\nanwe\nCHILDREN\nTWo\nwko ae pols\naraut\nmen\nniglt\ndaninaled\nin pesanality\nlast\nName:"
+        }
+    ]
+}

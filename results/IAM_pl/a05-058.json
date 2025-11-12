@@ -1,0 +1,26 @@
+{
+    "file": "a05-058.png",
+    "reference_text": "Sentence Database A05-058\n\u201dWe must not be rattled into surrender, but we must not - and I am not - be afraid\nof negotiation.\u201d Mr. Godber, Minister of State, Foreign Office, said earlier that the\nGovernment had asked the Medical Research Council to reassess the fall-out position\nin view of the Russian tests. The Council\u2019s findings would be made public.\n\u201dWe must not be rattled into surrender, but we must not - and I am not - be afraid\nof negotiation.\u201d Mr. Godber, Minister of State, Foreign Office, said earlier that the\nGovernment had asked the Medical Research Council to reassess the fall-out position\nin view of the Russian tests. The Council\u2019s findings would be made public.\nName:\n",
+    "results": [
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A05-058\n\u00bbWe must not be rattled into surrender, but we must not - and I am not - be afraid\nof negotiation.\u201d Mr. Godber, Minister of State, Foreign Office, said earlier that the\nGovernment had asked the Medical Research Council to reassess the fall-out position\nin view of the Russian tests. The Council's findings would be made public.\n|\nwa au \u00abok DL \u201eola o\u00bb ka amm RDS |\nU x * m\nojfrann of uagokomii, ku. GocQsus- ,\naa PET o\u0143 Skoda, Foe dd\u0119u CES SEPASN\nQas  (S5\" kmoak lu  Go0am mano kan ackLA\nMs  luqouacaul REZCOCEM Ozumex l to \u0119\u0119aseN m\nAs (ou- a pozakh ec |\u2014 0 (u) ot FLa_ \u0141A\n| o TMa Coeaa=1 2 5p w auuak eh BR\nua OGR prxaD lc.\nName:\n",
+            "time": 1.6716525554656982
+        },
+        {
+            "name": "easyocr",
+            "text": "A05-058 Sentence Database\n\"We must not be rattled into surrender , but be afraid and I am not we must not\nGodber, Minister of State, Foreign Ofce, said earlier that the of negotiation:' Mr. 99\nGovernment had asked the Medical Research Council to reassess the fall-out position\nThe Council's findings would be made public. in view of the Russian tests.\nvOlloo ~ig W BlMe^ cros\" Mh Q2  ~0\n0r _ ~o a~d\nU ~ Lo  Lc Mlo l C<\nGoao05 \" Mq80 Lcu ~~ 0 0f4 vacor Mav\n~ceic u GAkes DcC C Aic ,25 - 05 5 Kcuta _\nQ0s - Lsis  @ohec La @ Guue LLa - LL MoAk\nOoccscus Ccue/ 1o\n+Qa1os& *3 Uo cCal L9 _\nQu~ a- 05\nFls _ FcA 4C fau - 0 @u) au\nLs \n(accuu% ' 0 > 712 _ Ccuucc`1 ' 3\nLe413 . Li Culc\nrud Uc ~QCa \nName:\nU . L cuu'",
+            "time": 1.6539077758789062
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA05-058\n\"We must not be rattled into surrender, but we must not - and I am not - be afraid\nof negotiation.\" Mr. Godber, Minister of State, Foreign Office, said earlier that the\nGovernment had asked the Medical Research Council to reassess the fall-out position\nin view of the Russian tests. The Council's findings would be made public.\nwustnat eevallo\nmnto sunendes,\n6tw motwo- ad\nbe\nI am nat -\naftrainor of negohiuin.\nMo. Godees,\nFcreigu\noftice, cucr\nMinges os Shae,\neashi\nthat\nha\naghear\nLha\nGooamem\n\nesea\nConciltoeaoo\n\nheaical\npcoilicn i oiaw ot the 2uona\nh fa-aut\nThe\nhincig wanler\n6\nwst.\nCanncil's f\nrudlic.\nmada\nName:\nU. Manti",
+            "time": 22.4094135761261
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA05-058\n\"We must not be rattled into surrender, but we must not - and I am not - be afraid\nof negotiation.\" Mr. Godber, Minister of State, Foreign Office, said earlier that the\nGovernment had asked the Medical Research Council to reassess the fall-out position\nin view of the Russian tests. The Council's findings would be made public.\nWa uust not OQ vallaa uho surnen clo5 P\nowr wo niust uot\nand\nI Ca uat\nbe\nastraior of nagotarins\nMur. Gooleos,\nMinines os Shata, Tereisu othica, ocier\ncoslis Luat Lua\nGooem ment hacr aoheor\n- - uecical Reseeren Comneil to teao02-\nLr fou-aut rerilier i o\u00f9w of tha Ruma\nLerts.\nThe Camcil's Aiaring wauler bx\nmaas rublic.\nName:\nU.Maii",
+            "time": 2.1565725803375244
+        }
+    ]
+}

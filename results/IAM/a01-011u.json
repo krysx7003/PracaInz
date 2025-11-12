@@ -1,0 +1,26 @@
+{
+    "file": "a01-011u.png",
+    "reference_text": "Sentence Database A01-011\nDelegates from Mr. Kenneth Kaunda\u2019s United National Independence Party (280,000\nmembers) and Mr. Harry Nkumbula\u2019s African National Congress (400,000) will meet\nin London today to discuss a common course of action. Sir Roy is violently opposed to\nAfricans getting an elected majority in Northern Rhodesia, but the Colonial Secretary,\nMr. Iain Macleod, is insisting on a policy of change.\nDelegates from Mr. Kenneth Kaunda\u2019s United National Independence Party (280,000\nmembers) and Mr. Harry Nkumbula\u2019s African National Congress (400,000) will meet\nin London today to discuss a common course of action. Sir Roy is violently opposed to\nAfricans getting an elected majority in Northern Rhodesia, but the Colonial Secretary,\nMr. Iain Macleod, is insisting on a policy of change.\nName:\n",
+    "results": [
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA01-011\nDelegates from Mr. Kenneth Kaunda's United National Independence Party (280,000\nmembers) and Mr. Harry Nkumbula's African National Congress (400,00o) willmeet\nin London today to discuss a common course of action.Sir Roy is violently opposed to\nAfricans getting anelected majority in Northern Rhodesia,buttheColonial Secretary,\nMr.IainMacleod,is insisting ona policyofchange.\nfram\nur.\nKaunda'\nkemneth\nDelgates\nPaty\nWuited\nNaicnal\nmdeplndnce\nHarry \nNhubula'\n(280,000membes)\nand\nMr.\nCcuguess(40o,ooo) wiu\nAhnican\nNaticnal\nmeet\ni\nLondan\nof achion.\ncawrse\naeting\u3002\nAfnicans\nand\neleced\nto\noppesed\nRhooesia,\n\u03bce\nmajonity\nm\nNorten\nBut\nSecretay,\nMr. lain\nMac leod,\nColania\ninsisting on a\npolicy of change.\nName:",
+            "time": 46.11210918426514
+        },
+        {
+            "name": "easyocr",
+            "text": "A01-011 Sentence Database\nDelegates from Mr: Kenneth Kaunda's United National Independence Party (280,000\nmembers) and Mr. Harry Nkumbula'$ African National Congress (400,000) will meet\nin London today to discuss a common course of action. Sir is violently opposed to Roy\nAfricans getting an elected majority in Northern Rhodesia, but the Colonial Secretary,\nIain Macleod, is insisting on policy of change. Mr. a\nVaunda'\nGex VeuueH Mc, Zlq_< elea 0\nPosl\nlud &ne~aleucq _ Naica ' Mu'Lea\nNkudula Aojv5 hr\n(280,oo0 MqL~dsq ) aud\nCeuqueo> (400, Ooo Liu ) AAAcac Naskena (\naia Cllao bod cey +o i loclc coulluon\n0 nea L\n(Ro4\noioleiluy Sic L 0 aclc _\nCA-30 _\naLA eloclea\n#vicc~s cua Cpponea 4o\nLoalooa Bu4 uayjovly Ae _ Alr(qsu\nL\n1\nSecvelevd / Colcxieal Iain Aac leoal Ar .\nisioti-s policy O\ncllcu9& _\nCM % @\nName:",
+            "time": 1.547419786453247
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-011\nDelegates from Mr. Kenneth Kaunda\u2019s United National Independence Party (280,000\nmembers) and Mr. Harry Nkumbula\u2019s African National Congress (400,000) will meet\nin London today to discuss a common course of action. Sir Roy is violently opposed to\nAfricans getting an elected majority in Northern Rhodesia, but the Colonial Secretary,\nMr. Iain Macleod, is insisting on a policy of change.\n\\\nK AKLUAA \u00bb\nDers_aoke. Con Me, Kenney\nUatteck Noarlomal tWderprrcttuca \u201cParby\n(280, COO workers ) adm Mr. Horva Ni ubula >\nMrracan NordLomart Couqures (400, COO ) wih\nmead ww  Lonckon toray te craCresn A Commun\nok adie... Se \u201ctoy & vrolenk ly\n@epereH to Kpriccus agra crow\u2019 Qha chor\nwrcuonn bn ta Nerbrou RrootQeia, Suk Ha\nColcrieok Seavekova, Mr. lain Mac leock,\nLs LustoKus ove polo, al change -\nName:\n",
+            "time": 1.4136967658996582
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-011\nDelegates from Mr. Kenneth Kaunda's United National Independence Party (280,000\nmembers) and Mr. Harry Nkumbula's African National Congress (400,000) will meet\nin London today to discuss a common course of action. Sir Roy is violently opposed to\nAfricans getting an elected majorityin Northern Rhodesia, but the Colonial Secretary,\nMr. Iain Macleod, is insisting on a policy of change.\nDelagales from Ar. Kemuetu Kaunda's\nluitech\nMarienal uudeperdeuca Poulys\n(280,000 memles) auch Mur. Harvy Nhubula 2\nAhnicau Noctienal Cougueos (400, 000 ) wiu\nmeot\ni Loncion today +o ciscuss a Coumon\ncawrse of achon. Sir Roy is oioleudluy\nopposed do Apricans ggling cuoh Qleceol\nmojonity i Dorbuen Ruoolesia, Out Luo\nColanieal Seavetovy, Mr. lain Mac leocl,\ni insbotins CM CA policy of cucuge\nName:",
+            "time": 1.864123821258545
+        }
+    ]
+}

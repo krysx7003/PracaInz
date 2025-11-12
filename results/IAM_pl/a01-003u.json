@@ -1,0 +1,26 @@
+{
+    "file": "a01-003u.png",
+    "reference_text": "Sentence Database A01-003\nThough they may gather some Left-wing support, a large majority of Labour M Ps\nare likely to turn down the Foot-Griffiths resolution. Mr. Foot\u2019s line will be that as\nLabour M Ps opposed the Government Bill which brought life peers into existence,\nthey should not now put forward nominees. He believes that the House of Lords\nshould be abolished and that Labour should not take any steps which would appear\nto \u2019prop up\u201d an out-dated institution.\nThough they may gather some Left-wing\nsupport, a large majority of Labour \nM Ps are likely to turn down the Foot-\nGriffiths resolution. Mr. Foot\u2019s line will\nbe that as Labour M Ps opposed the\nGovernment Bill which brought life peers\ninto existence, they should not now put\nforward nominees. He believes that the\nHouse of Lords should be abolished and\nthat Labour should not take any steps\nwhich would appear to \u2019prop up\u201d an out\nName:\n",
+    "results": [
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-003\nThough they may gather some Left-wing support, a large majority of Labour M Ps\nare likely to turn down the Foot-Griffiths resolution. Mr. Foot's line will be that as\nLabour M Ps opposed the Government Bill which brought life peers into existence,\nthey should not now put forward nominees. He believes that the House of Lords\nshould be abolished and that Labour should not take any steps which would appear\nto \u201dprop up\u201d an out-dated institution.\nTiougi busy masy aru soma Leh - wiej\nzappoc\u0142 , a lov\u0105\u00a3_ majoniy aj  labouur\nMP\u00bb mL llstqgko buru down a. Jak -\nGRIUUL woo. W. Feoh Uma \u201eil\n(e. luk os Labus MPo oppz\u0105cj FRL\nGootFumauk BU Wiuaaauw bvow\u0119uwh U (RL jacarns\nmio amsdamo_, bg odnonlh not now pr\nforwou\u015b uomiuaQo. Ha bela kok \u0142ka\nHouaa. of Lowa plouNah ba. alolUskeh aaa\nua\u017c Labonje skoulh uok laln_ any zapa\n4\n\u201euim wamulhk apeLAS\" \u0142o i pPVOA UP am oub-\nName:\n",
+            "time": 1.5184402465820312
+        },
+        {
+            "name": "easyocr",
+            "text": "A01-003 Sentence Database\nThough they may gather some Left-wing support, a large majority of Labour M Ps\nlikely to turn down the Foot-Griffiths resolution. Foot's line will be that as Mr. are\nLabour M Ps opposed the Government Bill which brought life peers into existence,\nHouse of Lords they should not forward nominees. He believes that the put now\ntake any steps which would appear should be abolished and that Labour should not\nout-dated institution. to 99 9) prop up an\nWi9 Lek\naahuao) Tlough MLolys Ley\nscue _\nwajon'ly a/ Labcus 3uppox#\nlagr _ 9\nLuaLys Tool MF , He dowuy Hs4\n01 4o\n7oo4' Lue w; M\nGvfk'L AQooUou H .\noPpcP&0 AT , Me _ Labous 4uaa\n02 03\nLfe bvouguul usuics B;u\n60005 4w0~8 rQo 3\nUess oooulo Mo6 Qx;olaQo _\nMll0 Au uqu\nbe_Lieuoo Lua) 4l8  uoliuQod He\nf~ruua\nbr afoslolea Houas_ of sloulon\naa Loras\ndece kals 40l a Sloulol\nLaQrauu  Had\n4\nL luicu apreas - lo ou Ljouan lo Up pvof\nau 4\nName:",
+            "time": 2.807990550994873
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA01-003\nThough they may gather some Left-wing support, a large majority of Labour M Ps\nare likely to turn down the Foot-Griffiths resolution. Mr. Foot's line will be that as\nLabour M Ps opposed the Government Bill which brought life peers into existence,\nthey should not now put forward nominees. He believes that the House of Lords\nshould be abolished and that Labour should not take any steps which would appear\nto \"prop up\u201d an out-dated institution.\nLett -wing\nThougu\nthey mary\ngatue\nsome\nouppont, a lage majonity af\nLabau\nlinely to\nMa\nToot -\nMPs ae\ntusu\ndowy\nhine\nwil\nGri fhits\nnesoluion. tr. Footis\nMTS\nLabaus\nMe\nle tuat\nas\nopposed\nlife peors\nGooernment Biy whians bvougut\ntey sohoulor not now put\nmto etighenca,\nbe heves that d\nthe\nforwcudt\nnerineco. Me\nohoulor be aboliohed ana\nHause of\nLoras\nnot tale ag depo\nshonulol\nHat\nLabru\n4\nto n prop up an aut.\nwhicu\nwaulo aprea\nName:",
+            "time": 30.793087482452393
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-003\nThough they may gather some Left-wing support, a large majority of Labour M Ps\nare likely to turn down the Foot-Griffiths resolution. Mr. Foot's line will be that as\nLabour M Ps opposed the Government Bill which brought life peers into existence,\nthey should not now put forward nominees. He believes that the House of Lords\nshould be abolished and that Labour should not take any steps which would appear\nto \"prop up\" an out-dated institution.\nThough dey mayg gatue soue Lelt -wing -\na\nsupport,\nlarge majonty af Labour\nMPS aue lineugto tusu dowy ma Toot -\nGrifeius neoolwion. Mwr. toots uie will\nle that as Labous MPo oppored to\nGooesument Biu wuiaun bvoughet ufe peors\nnto erisanca, uey ochoulat not uow put\nforweud uominsos. Me believes Lhat tha\nHousaof Lorars ohoulor be abolioned aa\nHuat Labou shoula uot tahe au depo\n4\nwuieu waulor appeas to l pvop up au out.\nName:",
+            "time": 2.4961726665496826
+        }
+    ]
+}

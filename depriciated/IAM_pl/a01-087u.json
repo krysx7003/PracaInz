@@ -1,0 +1,21 @@
+{
+    "file": "a01-087u.png",
+    "results": [
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-087\nMr. Brown, passionate and warm-hearted, led Labour's attack on the higher health\ncharges. Mr. Powell, white-faced and outwardly unemotional, replied with a statis-\ntical statement - and ended by inciting Labour M Ps to angry uproar. One dealt\nwith the human issue behind the Health Service; the other tried to show that the\nbalance-sheet must always come first.\nMr. Bicuou passicuale auch wcu a heaslad,\nlec\nLalcw v's atact oM Lue highe health\nchauges.\nMr. Poweu, whihe- faced aud\noutweraly memokicual, replied wihh a\nswiphical shatement\nauol encleo byinciting\nLabcur MTS to aagry upvoas. Oue dealt\nwikl\nLhe hunan ios ue behio Me Meallu\nSesoico; hue olues tvieon to Dhow hat the\nbalana-obeat nuot alwag ccue\nfird.\nName:"
+        },
+        {
+            "name": "easyocr",
+            "text": "A0l-087 Sentence Database\nBrown, passionate and warm-hearted, led Labour's attack on the higher health Mr.\nPowell, white-faced and outwardly unemotional, replied with a statis- charges. Mr.\nand ended by inciting Labour M One dealt Ps to angry uproar. tical statement\nshow that the with the human issue behind the Health Service; the other tried to\nbalance-sheet must always come first.\nPao){cuaale Bvcu u heas Lea Quo\nLr ucju\nheau4 Lalxwu LgHe) La auack (Qa\n3 0\nnlia (e__ {aceal Powcu Lr\ncha\u01188o_ aud\nLiLL meuol;cal 'cal\n#rpliea 0 Qu\n:cil-g\ndas kccl By 3 (a*oneuj @oqa Cua\nMT > dealt Laorus Jo aagvrs\nGue _ upvOo -\nuill Beuia LLa _ Lealluu Los u0\nMe Luunncuu\n~ieo  Lat {4e_ @; Luua_ 52sui oLuos Shao\n90\nfra. alwc8 Luol Ccue 0 Leol\nQsa (aace\n\nName:"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-087\nMr. Brown, passionate and warm-hearted, led Labour\u201ds attack on the higher health\ncharges. Mr. Powell, white-faced and outwardly unemotional, replied with a statis-\ntical statement - and ended by inciting Labour M Ps to angry uproar. One dealt\nwith the human issue behind the Health Service; the other tried to show that the\nbalance-sheet must always come first.\nke. Brawu |, paaaicnale_ ama waru - Masta,\na\u0144  Labow 's ara m ba mgUo halk\nChouqgo. Mw. Poweu | wwmii\u0119_\u2014 faccd ah\noubwaral\u0142y mamobiena\u0144 , wpuUzA wilh a\ndoo kcal staktnuei - auch m\u00f3d by meikun\u0105\n|asur ET> M AAQVN  UpvGOST. Oue_ ddak\nwl  tlua_ num  moue bela Ma Miealm,\nGz>uioQ.; ma oluo nien \u0142o skao Hitak the_\n(alouca_ \u2014 oleQK nuuol- aolwoawo CCcut Lr zk.\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA01-087\nMr. Brown, passionate and warm-hearted, led Labour's attack on the higher health\ncharges. Mr. Powell, white-faced and outwardly unemotional, replied with a statis-\ntical statement - and ended by inciting Labour M Ps to angry uproar. One dealt\nwith the human issue behind the Health Service; the other tried to show that the\nbalance-sheet must always come first.\nBrcnwu ,\nwaur - heastad,\nMo.\npaosicuale\nancl\nled\nLabas\naltach on\nMe\nh\u00fcghes\nhealty\nPowel,whie- faced and\nMr.\ncharges.\nautwardty\nmemobianal, neplieor with a\ntabishical shatement-\nby incihung\nao\nenaeoa\nMT to angry\nLaba\nOne\ndealt\nuprear.\nwit\nthe\nbehiror\nhealtu\nhuaun\nMe\nlos ue\nsevic;\nbe\nolnes\nhieo to shaw\nMat the\nfirA.\nbalanco-oheet\nmuot\nalwago\ncame\nName:"
+        }
+    ]
+}

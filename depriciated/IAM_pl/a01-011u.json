@@ -1,0 +1,21 @@
+{
+    "file": "a01-011u.png",
+    "results": [
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-011\nDelegates from Mr. Kenneth Kaunda's United National Independence Party (280,000\nmembers) and Mr. Harry Nkumbula's African National Congress (400,000) will meet\nin London today to discuss a common course of action. Sir Roy is violently opposed to\nAfricans getting an elected majorityin Northern Rhodesia, but the Colonial Secretary,\nMr. Iain Macleod, is insisting on a policy of change.\nDelagales from Ar. Kemuetu Kaunda's\nluitech\nMarienal uudeperdeuca Poulys\n(280,000 memles) auch Mur. Harvy Nhubula 2\nAhnicau Noctienal Cougueos (400, 000 ) wiu\nmeot\ni Loncion today +o ciscuss a Coumon\ncawrse of achon. Sir Roy is oioleudluy\nopposed do Apricans ggling cuoh Qleceol\nmojonity i Dorbuen Ruoolesia, Out Luo\nColanieal Seavetovy, Mr. lain Mac leocl,\ni insbotins CM CA policy of cucuge\nName:"
+        },
+        {
+            "name": "easyocr",
+            "text": "A0l-011 Sentence Database\nDelegates from Mr. Kenneth Kaunda's United National Independence Party (280,000\nmembers) and Mr. Harry Nkumbula's African National Congress (400,000) will meet\nin London today to discuss a common course of action. Sir is violently opposed to Roy\nAfricans getting an elected majority in Northern Rhodesia, but the Colonial Secretary,\nIain Macleod, is insisting on policy of change. Mr. a\nKaunda '\nfcu Vexue_H ar . J2la_8 Ue  3\nPols\nluaepeuaeuce _ Nauicua  Lulea\nNluBula Hosv Lr\n(280,90 MaeLsQoqs ) aua\nCcuquoos (40o, Ooo Lru ) Akccac Naxcua (\nMia CUas loaay 40 M LoCcu Cauuou\n9 Meo\n~ous\nDiolenluy s; 1 08 achcu\nCawse\nq\u0119lua Qldeo\nIficas Cuol CPPopea do\nLoalooia QuL majev4 Le ArLuosu\nL\n1\nSecvalcv: / Colcasienl lain Hac leoo Lr .\n:siot+S policy GF\ncucuq\u20ac\nCM   c\nName:"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-011\nDelegates from Mr. Kenneth Kaunda'\u201ds United National Independence Party (280,000\nmembers) and Mr. Harry Nkumbula's African National Congress (400,000) will meet\nin London today to discuss a common course of action. Sir Roy is violently opposed to\nAfricans getting an elected majority in Northern Rhodesia, but the Colonial Secretary,\nMr. Iain Macleod, is insisting on a policy of change.\nd\nw CLULUNA 3\nPZCECE Pau Me, Kemuce\u0142u\nUuilea Madlamal mazpzmatna  Pevlny\n(290,000 \u201emamlata ) aa Hr. Harry Niubula \u00bb\nAlmicam Mosiamat (cugute> (400, 000 | wii\nneo (m lomdm \u0142oaaw to dalia a Couuucm\n|< lasu. C= T\u0142agq oolenkiy\nGPPM\u0141A to ktm acmo GMA euoh Qlachaa\nmogom buj w MJorluou Rhoattsia , Bu Ma\nColamiol  Seavoekory , Mr. lam Mac lod,\nA WEWN cm a POKE st cham\u0105\u0119_.\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA01-011\nDelegates from Mr. Kenneth Kaunda's United National Independence Party (280,000\nmembers) and Mr. Harry Nkumbula's African National Congress (400,000) will meet\nin London today to discuss a common course of action. Sir Roy is violently opposed to\nAfricans getting an elected majority in Northern Rhodesia, but the Colonial Secretary,\nMr. Iain Macleod, is insisting on a policy of change.\nfrom\nur.\nKannda',\nKemmet\nDelegate\nPaty\nhui bea\nNauicnal\nmaepenaence\nHaory\nNhubula's\n(280,\u221e00 membes)\namd\nMr.\nCangueos (4oo, 00o ) wiu\nth\u00fccan\nNaaicna\nmeot\nin\nlancan\nof achicu.\ncause\ngebing\nAricas\ncud\nelecea\ndo\nopposea\nRhoaleoia,\nMe\nmagority\ni\nDorHery\nOut\nSecvehay,\nHo. lain\nMac leoct,\nCobanien\ninsboting an a\npolicy of change.\nName:"
+        }
+    ]
+}

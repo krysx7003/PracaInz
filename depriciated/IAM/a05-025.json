@@ -1,0 +1,21 @@
+{
+    "file": "a05-025.png",
+    "results": [
+        {
+            "name": "easyocr",
+            "text": "A05-025 Sentence Database\nCriticisms about Army manpower appear to have mainly from retired officers come\nexisting situation_ who have held high positions but out of touch Mr_ with the are\nWatkinson has had the utmost support from the C.IG.S > Field-Marshal Sir Francis\nFesting, who Gen. believes completely in the principle of Sir all-Regular army: an\nSir Francis, is equally convinced Mr. Watkinson is Richard Hull, who is to succeed\nright.\nCcKaa clcu Fun ecllpoalQ =\nprecj 0\n0(n 4Q (`ac 1 Mcs\nFau CC&_\nLo uace\nUek peco  pc~lic OuX\nKiloy Llo uaor _\nJ Lacllcy ex,544 Lus _ sill 04\nloucy ClX\nCuQ\nLal LicBc ~ ul Lus  4ca La & ao ( Ju provk A~\nc |. G. < . 1 ci_ Fiela^\nAcjala ( Fe ^ Ls\n7-6-{ / brliur _ 44 Tcuc :\nWlo cla_Ka cc^\nRequlcr\npi_crl _ 0 ( cse = al ~ LR_ ~\nRicycal (o Aul llo S_ Ju CLeqo^\nGe-\n1\nsef ceuoica Tec^ MJ . equcys\nLctuilic vu\nName:\nAa4' 0 ."
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA05-025\nCriticisms about Army manpower appear to have come mainly from retired officers\nwho have held high positions but are out of touch with the existing situation. Mr.\nWatkinson has had the utmost support from the C.I.G.S., Field-Marshal Sir Francis\nFesting, who believes completely in the principle of an all-Regular army. Gen. Sir\nRichard Hull, who is to succeed Sir Francis, is equally convinced Mr. Watkinson is\nright.\nCrihcisms abcut hus uaponoes apreas\nhaue\nolhcas\nto\nughed\nceuno mainly Aam\nwho uave helcr uich peroirr poritiens Oul\no css of loucu wihh Lue erishues sihuclien.\nMr. Wab uinscr has hac tue utmost suprot\nfeus ur CLG.S., Fiela - Movshal Si\nteucis Teshns, who beliawe campuhaus\nc ue riincirle ot C au-Regulor asuy.\nGe-, Sir Ricucyal hiul, who i lo suceeaon\nS\u00e9r Pancin - equalg ceuoincaer Mu.\nWatunser - nsu.\nName:\nW.Meuli"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A05-025\nCriticisms about Army manpower appear to have come mainly from retired officers\nwho have held high positions but are out of touch with the existing situation. Mr.\nWatkinson has had the utmost support from the C.I.G.S., Field-Marshal Sir Francis\nFesting, who believes completely in the principle of an all-Regular army. Gen. Sir\nRichard Hull, who is to succeed Sir Francis, is equally convinced Mr. Watkinson is\nright.\nmainly Wor wreak olhan\nlo Kao? Corn\nWKO Uavoq_~ \u201cSKK ce wows pos Hew, Burr\nmen. own Cb Fomcrn cochlea bee Gun simety aibnakien |\nbe. Wake tas had bua. vbw oneror\u00ae\nFew~ o- X14. &.&. ) \u201cFiatcd - Marshal Co~\nAvon cat \u201cFe.kag , wo Bavusow. Conn, POR by\ng wae rnc ma ow \u2014\u201ceaquter AS UA ,\n\u201c_\nA, \u201cRicrrcrs od Wo, usta sw <a: een\nSen oS ( \u201ca RQACHA Cow Owes Mom,\n4\nbeta een. \u201c \u201c KN .\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA05-025\nCriticisms about Army manpower appear to have come mainly from retired officers\nwho have held high positions but are out of touch with the existing situation. Mr.\nWatkinson has had the utmost supportfrom the C.I.G.S.,Field-Marshal Sir Francis\nFesting,who believes completely in theprinciple of an all-Regular army. Gen. Sir\nRichard Hull,who is to succeed SirFrancis,is equally convinced Mr. Watkinson is\nright.\nCrilcisus\nabaut\ntruy\nwapower\naprear\nwetied\nothas\nmainhy\nFan\n6\nnave\ncamne\nhien pesoi\npositians but\nwho\nwela\nuaoe\nthe etisting sitnation.\no\ntouah\nwihh\nae\naut\nWat hinsa\nhad tue utmost ouprant\nMr.\nhas\nField-Marshal Si\nfrcn\nC.1.G.S.,\nw\nFrancis Feshing,\n\u03c9ho\nbeliave\ncanplehey\nau-Regular\nin ue pinciple of\na\nasy.\nRicnwa\nhiu, who i\n1o\nSi\nou ceeedl\nGe\uff0c\ns\u00e9r Fancis,i\nconoinced\nMo.\nequaly\nWatlinsan i\nrisuh.\nName:\nW. Manti"
+        }
+    ]
+}

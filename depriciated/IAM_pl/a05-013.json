@@ -1,0 +1,21 @@
+{
+    "file": "a05-013.png",
+    "results": [
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA05-013\nThe scheme will be subject to Cabinet approval. Mr. Watkinson remains convinced\nthat the policy initiated in 1957, in Mr. Sandys's time as Minister of Defence, is still\ncorrect. This was to return to the tradition of all-Regular voluntary forces, with the\nlast National Serviceman out of uniform by the end of 1962.\nTha Jouand wiu subjet lo Cabiuet\nappuoval.\nMr. Watuiscu namains Ccu-\nvinceo tuas Lha polices uihahecl un\n1557, un Mr. Seudyo's L'ue a sinisor\nof Dalarca, sku coruect. Tus was to\na wu Lo ha hacuhan of au- Reguler\nsolutern fevcas, wihh au last\nNawual\nSesoicamer\naud of uiferm bu hua encs\nof 1962.\nName:\nh.Man"
+        },
+        {
+            "name": "easyocr",
+            "text": "A05-013 Sentence Database\nWatkinson remains convinced The scheme will be subject to Cabinet approval. Mr.\nthat the policy initiated in 1957, in Mr. Sandys's time as Minister of Defence, is still\nwas to return to the tradition of all-Regular voluntary forces, with the correct. This\nlast National Serviceman out of uniform by the end of 1962.\nJugjc TLa - CaQ:aek Mo Cl Joua(8 \nlo\nlOalc,c app-ouo A8MLCM 3 Lu . Ccu\n0\npol \u20acuj M Lalacl UrMcoc Lug Cls _\n~\nSocay? Lu: a 4557 4'2 ~ Lr .\n3 90 )\nTL> of ~efa~\nCcvurc ~ , 4u 6) lo wuaa\n0( Resulc~ ka c'4c MS_LM Ls\nau _ 20\nsolac+c~+ ~  LL {cvca^ , Nal ccu lco| C4\nOc Lc ( cvu auu Sesu Ncsuc Kua \nec 'ala\n0 $ A9 L 2 ,\nName:\nM - M C W'"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A05-013\nThe scheme will be subject to Cabinet approval. Mr. Watkinson remains convinced\nthat the policy initiated in 1957, in Mr. Sandys's time as Minister of Defence, is still\ncorrect. This was to return to the tradition of all-Regular voluntary forces, with the\nlast National Serviceman out of uniform by the end of 1962.\nPUK. oaakooha wk suDgzch to Cabiuakh\napPP*DUON ;- als aaa 5 \u2014\nstucach bPual  tlhs_ poli cen ma Walaci m\nA\u01435*, m Me. Sonagp | Wuq ao UAG\nsk Dxjan ca, zk omaqd+ Paa wax l\noho UG Wwa Wwas\u017cid,. ob au \u2014 R\u0119qute\npolkuua\u0142owy $woam, mwi\u0142h au  tla_t Na ma\u0142\noo ak G\u0141 ua\u0142omm \u0105 Ms ea\nsk A07\nName:\nU. M>W\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA05-013\nThe scheme will be subject to Cabinet approval. Mr. Watkinson remains convinced\nthat the policy initiated in 1957, in Mr. Sandys's time as Minister of Defence, is still\ncorrect. This was to return to the tradition of all-Regular voluntary forces, with the\nlast National Serviceman out of uniform by the end of 1962.\nTe\nwiu\nsubjet\nJo\nlo\nCabiuet\nto. Wathinsc ueunans Ccu\narpuoval.\npolicey ii hiabecl\nvincoca\ntuc\nLh\n~\nMr.\nSandyo\nhi'ue\nhiniser\na\nlo\nhrachihn ot an- Regulao\nuto\nvolutcyfrc,\nwihh al\nlaot\nNanca\naud ot miferm ss\nSesvicaa\nte\ne\nos\n1952.\nName:\nW.Mauh"
+        }
+    ]
+}

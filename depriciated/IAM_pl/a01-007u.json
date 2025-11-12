@@ -1,0 +1,21 @@
+{
+    "file": "a01-007u.png",
+    "results": [
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-007\nSince 1958, 13 Labour life Peers and Peeresses have been created. Most Labour sen-\ntiment would still favour the abolition of the House of Lords, but while it remains\nLabour has to have an adequate number of members. THE two rival African Nation-\nalist Parties of Northern Rhodesia have agreed to get together to face the challenge\nfrom Sir Roy Welensky, the Federal Premier.\nSiuca\nAg58, 13 Labaur ufe reos auch\nPeesses lawR beon Cuealeol. Most Labour\nseubimewt waulol sh'u Saoaur pue abouhcu\nof he House of Lorcrs, Out while it seuais\nhcus do\nnuule\nLabaur\nhaue au adequale\ndf ueuless. THE\ntwo voal Ahicou\nNationali is Pouhes of Norhuou Rhoaesia\nhaue aguesor to get togelues to faca\nme chaueuge frou Sir Roy welenshy,\ntue Feoesal Pucuiies.\nName:"
+        },
+        {
+            "name": "easyocr",
+            "text": "A0l-007 Sentence Database\nSince 1958, 13 Labour life Peers and Peeresses have been created. Most Labour sen-\ntiment would still favour the abolition of the House of Lords, but while it remains\nLabour has to have an adequate number of members. THE two rival African Nation-\ntogether to face the challenge alist Parties of Northern Rhodesia have agreed to get\nWelensky, the Federal Premier. Roy from Sir\n4fe Aasr\nLabu Siace feQ)s 13 Q@\nLabcur CuQaLea Acs 6 FeQecoe 5\nbeo,1 laur\naboLi Kcu 2ec Fueuj Qaucus luauulol He S4'u\nWlxle AQuano 34 04 Quu Lue  Lcras 0\nHouae\nuuulR) adlequale _\nLaQzaus _ do haur _ Lc1o 0u\nTME Jeica ~ua( J1oo\n0l MeAAQje5s\n~P12 Rhocooic Aox Luou 0 Masomc; a\nfara Jogrlue) haue 4o J0\naqmeoO 98\nWale_usk4 / 2oys\nchaue88  SL fvau Je _\nPuquuues _ Lue _ ~TeoQsal\nName:"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-007\nSince 1958, 13 Labour life Peers and Peeresses have been created. Most Labour sen-\ntiment would still favour the abolition of the House of Lords, but while it remains\nLabour has to have an adequate number of members. THE two rival African Nation-\nalist Parties of Northern Rhodesia have agreed to get together to face the challenge\nfrom Sir Roy Welensky, the Federal Premier.\nSluca. A4\u0104ST, A3 labaur Ufa Pee\u00bb ana\nTROLAA\u0141o\" UW bec. cu\u0142alek. Mat Labour\naabiuauk wauik AN\u0104 $boamur Hue aboi hou\nof ka houae al Loran, Buk JW ib smana\nLabonj- lae \u0142o bavd_ ou adadequala_ uuube)\nsd mwuuben. THE \u0142wo moal kluc\nKosomali \u00a3 Poobee o$ Muchuouy Rhodatteca\nbuue_ aguzak \u0142o qbk \u0142ogqcmmo \u0142o faz a_\nha_ ckhouu\u0105s_ pom Sm Roy Waltn=ku\nlua_ TRaqoal  Puduuus5,\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA01-007\nSince 1958, 13 Labour life Peers and Peeresses have been created. Most Labour sen-\ntiment would still favour the abolition of the House of Lords, but while it remains\nLabour has to have an adequate number of members. THE two rival African Nation-\nalist Parties of Northern Rhodesia have agreed to get together to face the challenge\nfrom Sir Roy Welensky, the Federal Premier.\n\u00fcfe\nSiuce\n1458,\n13\nlabu\npees aua\nMost\nLabau\nfeeesses\nuae\nbeey\nCuealea.\naboti bicn\nwauulol\nah'u\nfavaus\nsenhimend\nMe\nof\nthe\na\nLordo,\nBut\nwhile\nHauoe\nit\nne maus\nnuube\nhaue anaaequate\nLabau\nhas\nd0\ntuo ival\ntfican\naf\nmenbes. THE\ntationalis Paties of\nDor Mery Rhocesia\nto fara\nhaue\nto get\ntogeme\nagueeo\nRoy\nwelenshy,\nfram\nSin\nme\nchanenge\n.\ntue\nPueune5.\nFedesal\nName:"
+        }
+    ]
+}

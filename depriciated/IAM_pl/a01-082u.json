@@ -1,0 +1,21 @@
+{
+    "file": "a01-082u.png",
+    "results": [
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-082\nThis surprising statement was a sharp about-face from his warnings during the Presi-\ndential election campaign. He claimed slackness in the Eisenhower Administration had\ncaused America to lag behind Russia in nuclear development. President Kennedy did\nhis best to avoid giving Pressmen a direct answer. George Brown*; CHILDREN*;\nTWO men who are poles apart in personality last night dominated Parliament's\nfiercest battle since the 1959 election - Mr. George Brown and Mr. Enoch Pow-\nell, the Health Minister.\nTiis surpiae otaeueut oas a suap alaut-\nfaca from his\nwas uings duing hue\nRvesicenhial clechon caupaisn. He clainect\nplachnes i me Esen houel Aouinistecticn\ncaursea\nhaol\nhuerica to lag lehinas Russia\nin uucleas\naevelop menh. Puesicient Vemeoly\nohicl his lest to awciel bioing Pueos uen\nainect\nauwe\nGeovgr Boowu\nCHILDREN Two\nmeu wko aul poles arcut\nnalech\nm\npesonatinys last uight dcmi\nName:"
+        },
+        {
+            "name": "easyocr",
+            "text": "A0l-082 Sentence Database\nsharp about-face from his warnings during the Presi- This surprising statement was\na\ndential election campaign. He claimed slackness in the Eisenhower Administration had\nbehind Russia in nuclear development . President Kennedy did lag caused America to\nCHILDREN'*; George Brown his best to avoid giving Pressmen a direct 8 answer 6\nin personality last night   dominated Parliament's poles   apart TWO who are men\nGeorge Brown and Mr. Enoch Pow- fiercest battle since the 1959 election Mr.\nell, the Health Minister.\n~6cq_Museuk sLau P aQau 71113 Burpser\na Loas\ndusms ues Le _\nfcur Lio facs wcs\nclanec caupaiou He _ Yveaiceuh'al @lechcu\nAolan.loleda' Gaeu Louo)\n3| cc lueo Ue _ L\nroaia lag Qeli~ hesi ca 4c Q\nLao Ccuaea\nVeuceclis ~Pueoced\nceuelopued Aucleas\n\nacouas Pueoa M@ aucal\nhio Qeok aio 40\nGeovq8 Bvouu oLi ac\nCllulur )\npoleo ancui CH, L?REn ae Two Lubo\nMiel\npesacualls ualea us U dcur;\nlao\nW\nName:"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-082\nThis surprising statement was a sharp about-face from his warnings during the Presi-\ndential election campaign. He claimed slackness in the Eisenhower Administration had\ncaused America to lag behind Russia in nuclear development. President Kennedy did\nhis best to avoid giving Pressmen a direct answer. George Brown*; CHILDREN?\"*;\n[WO men who are poles apart in personality last night dominated Parliament's\nfiercest battle since the 1959 election - Mr. George Brown and Mr. Enoch Pow-\nell, the Health Minister.\nTu_ >a rpm aQd_ otWQ_uek Wam a 24 P adfouk \u2014\nENY CN_CHHM cau jp OLA czu . MAc Clom=aah\nJachkucm m Ma lac, Lou10) koma ma sbaofa c\nLaN camadam  huzstca \u0142o la\u0105 peuma Ruema\nU uuclaar aevelopmz\u0104, Puzmacjk Koa\u0119ohy\n1X Klo U\u0141ek +0 ADB qm  Pudaa mam.\nSZECCTZ ZERECZY Gi \u0141ovcqQ_ \"Browu\nCWLDREW TWO meu wk m\u0142 pole apwl\n*\nm poysomau My LX.ot m\u0105 Ac: wali \u0119ch\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA01-082\nThis surprising statement was a sharp about-face from his warnings during the Presi-\ndential election campaign. He claimed slackness in the Eisenhower Administration had\ncaused America to lag behind Russia in nuclear development. President Kennedy did\nhis best to avoid giving Pressmen a direct answer. George Brown*; CHILDREN'*;\nTwO men who are poles apart in personality last night dominated Parliament's\nfiercest battle since the 1959 election - Mr. George Brown and Mr. Enoch Pow-\nell, the Health Minister.\nTis\noao a ahap\nabaut-\nurpiae otaeueut\nfrcm\nduing bue\nfaco\nhis\nwas ung\nClained\nPresicenhial\nclechian\ncaupaigu.he\nte\nEsen houe\ndamuinsbatice\nslachness\n~\nRuosi a\ntmerica to lag\nbehinal\nhaa\nca\naea\nKemloly\ncevelopment. Pueoicent\ni\nnuclea\ngioing\nPueos ma\nhio\nleot\nto avciel\ndia\nGeorge\nBrowu\na divect\nagwe\nCHILDREN\nTwo\nwko ae poles\narat\nmen\nnight\naaminaled\nin peranaliby\nlaot\nName:"
+        }
+    ]
+}

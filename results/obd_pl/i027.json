@@ -1,0 +1,26 @@
+{
+    "file": "i027.tiff",
+    "reference_text": "THE LUSITANIA'S LAST VOYAGE\n\npassenger beside me called out to Captain Turner in a perfectly clear and calm voice, \u201cCaptain, what do you wish us to do?\u201d \u201cStay right where you are, Madam, she\u2019s all right.\u201d Then the woman asked him, \u201cWhere do you get your information?\u201d\u2014and he replied in rather a severe and commanding voice, \u201cFrom the engine room, Madam.\u201d She and I turned and walked quietly aft and tried to reassure the passengers we met.\nAs I looked around to see to whom I could be of the greatest help it seemed to me that about everyone who passed me wearing a life belt had it on incorrectly. In their hurry they put them on every way except the right way: one man had his arm through one armhole and his head through the other; others had them on around the waist and upside down; but very few had them on correctly. I stopped these people and spoke\n\t( 11 )\n",
+    "results": [
+        {
+            "name": "pytesseract",
+            "text": "THE LUSITANIA'S \u0141AST VOYAGE\npassenger beside me called out to Captain\nTurner in a perfectly clear and calm voice,\n<Captain, what do you wish us to do?\u201d\n<Stay right where you are, Madam, she's\nall right.\u201d Then the woman asked him,\n\u00abWhere do you get your information? *\u2014\nand he replied in rather a severe and com-\nmanding voice, '*'From the engine room,\nMadam.* She and I turned and walked\nquietly aft and tried to reassure the pas-\nsengers we met.\nAs I looked around to see to whom I could\nbe of the greatest help it seemed to me that\nabout everyone who passed me wearing a\nlife belt had it on incorrectly. In their hurry\nthey put them on every way except the\nright way: one man had his arm through\none armhole and his head through the\nother; others had them on around the waist\nand upside down; but very few had them on\ncorrectly. I stopped these people and spoke\n(11)\n",
+            "time": 0.7066314220428467
+        },
+        {
+            "name": "easyocr",
+            "text": "THE LUSITANIA'S LAST VOYAGE\npassenger beside me called to Captain out\nperfectly clear and calm voice, Turner in a\nCaptain,  what do?\" wish do to you US\n\"Stay are, Madam, she's right where you\nasked   him, all   right.' Then the 93 woman\n<Where your information?\"_ do get you\nin rather severe and and he replied com- 9\nmanding From the voice, engine room,\nShe walked Madam_ and turned I and\nquietly aft and tried the   pas- to reassure\nmet. sengers we\nAs I looked around to see to whom I could\nbe of the greatest help it seemed to me that\nwearing who passed about everyone me\n9\nIn their hurry life belt had it on incorrectly.\nthey the way   except them every put on\nthrough right way: had his one man arm\narmhole and his head through the one\naround the waist others had them other; on\nupside down; but very few had them on and\nI stopped these people and correctly . spoke\n1l )",
+            "time": 1.3528141975402832
+        },
+        {
+            "name": "paddle",
+            "text": "THE\nLUSITANIA'S\nLAST\nVOYAGE\npassenger\nbeside\ncalled\nout\nto\nCaptain\nme\nTurner\nin\nperfectly\nclear\nand\ncalm\nvoice,\na\n\u201cCaptain,\nwhat\ndo\nwish\nto\ndo?\"\nyou\nus\n\u201cStay\nright\nwhere\nMadam,\nare,\nshe's\nyou\nall\nright.\"\nThen\nthe\nasked\nhim,\nwoman\n\u201cWhere\ndo\nyou\nget\nyour\ninformation?\nand\nhe\nreplied\nin\nrather\na\nsevere\nand\ncom-\nmanding\nvoice,\n\u201cFrom\nthe\nengine\nroom,\nMadam.\n39\nShe\nand\nH\nturned\nand\nwalked\nquietly\naft\nand\ntried\nto\nthe\nreassure\npas-\nsengers\nwe\nmet.\nAs\nI\nlooked\naround\nto\nsee\nto\nwhom I could\nbe\nof\nthe\ngreatest\nhelp\nit\nseemed\nto\nme\nthat\nabout\neveryone\nwho\npassed\nwearing\nme\na\nlife\nbelt\nhad\nit\non\nincorrectly.\nIn\ntheir\nhurry\nthey\nput\nthem\nevery\nway\nexcept\nthe\non\nright\nman\nhad\nhis\narm\nthrough\nway:\none\narmhole\nand\nhis\nhead\nthrough\nthe\none\nother;\nothers\nhad\nthem\naround\nthe\non\nwaist\nupside\ndown;\nand\nbut\nvery\nfew\nhad\nthem\non\ncorrectly.\nH\nstopped\nthese\npeople\nand\nspoke\n-\n11\n=\na",
+            "time": 24.426884174346924
+        },
+        {
+            "name": "doctr",
+            "text": "THE LUSITANIA'S LAST VOYAGE\npassenger beside me called out to Captain\nTurner in a perfectly clear and calm voice,\nA Captain, what do you wish us to do?\"\n\"Stay right where you are, Madam, she's\nall right. 99\nThen the woman asked him,\n\"Where do you get your information?\"-\nand he replied in rather a severe and com-\nmanding voice, \"From the engine room,\nMadam.\" She and I turned and walked\nquietly aft and tried to reassure the pas-\nsengers we met.\nAs Ilooked around to see to whom I could\nbe of the greatest help it seemed to me that\nabout everyone who passed me wearing a\nlife belt had it on incorrectly. In their hurry\nthey put them on every way except the\nright way: one man had his arm through\none armhole and his head through the\nother; others had them on around the waist\nand upside down; but very few had them on\ncorrectly. I stopped these people and spoke\n(1 11) )",
+            "time": 2.834249496459961
+        }
+    ]
+}

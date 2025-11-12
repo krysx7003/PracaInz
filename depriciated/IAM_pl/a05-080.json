@@ -1,0 +1,21 @@
+{
+    "file": "a05-080.png",
+    "results": [
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA05-080\nMr. Macmillan explained that he had deliberately refrained during the summer from\nrecalling Parliament or ordering mobilisation by proclamation, such as would be nec-\nessary to bring the British Army of the Rhine on to a fully active footing. That\nwould have created a thoroughly undesirable atmosphere of panic. He thought that\nthe situation was rather more hopeful.\nMr. Macmiuan expleineal Lhat ha had okeliber-\naleu uedrained\ncuiua lue Juues frem\nue cauis Porlicuet Cvr ovoleing wabilisalien\nby proclaualicn ) zuch ou woulol l2\nnecoosciso to bing Bulish Auy as Lua Ruine -\nCan to S fuus achue fooling. That\nwoulor uaur cuealea a tuoveughus mclQ-\nmsabu amuospuse of peuic. hue Lucugut\nluab +he sihualia wces vahuos ucua\nuopeful,\nName:\nW. Mouli"
+        },
+        {
+            "name": "easyocr",
+            "text": "Sentence Database A05-080\nMacmillan explained that he had deliberately refrained during the summer from Mr.\nrecalling Parliament ordering mobilisation by proclamation, such as would be nec- or\nfully  active footing: bring the British Army Rhine That of the to to on a essary\nthoroughly undesirable atmosphere of panic. He thought that would have created a\nhopeful. the situation was rather more\noe lber Mac ucua L4 0 explcuue'o Lucu Mr L\ncluvsaq alalys uefrou ~eol vcc Lue \nalnRs\novcleig waBilaalcc ccuur $ Rcu-Lcuex\nCy ue\n8& 025 pvoc lcuuaucu Lculol 3uc4\n09\n1\nRure 0 >~9 3nLK,4\nNvuy Lua & 10\n~eCoo95) 4\nTla fcouc < fun Gchue\n10 C @\n3 Lus uScsulol Juoy u CuQaJec MCo) AauQ _\n0 8 Pca\u20ac Lue 4^0 Bu ahospuq & Lucuu\n8 4\nMhuculic Luax +L8 _ JaaQs Ucu 8\nLu clo\n4ofs&i\nName:\nMcux U ."
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A05-080\nMr. Macmillan explained that he had deliberately refrained during the summer from\nrecalling Parliament or ordering mobilisation by proclamation, such as would be nec-\nessary to bring the British Army of the Rhine on to a fully active footing. That\nwould have created a thoroughly undesirable atmosphere of panic. He thought that\nthe situation was rather more hopeful.\nle 3 Mac wal ma aepia_u\u0119'aX kluok UL kak ALUbe- A\nONWLU u) ra m\u0119 omnu\u0105 mMaa_ zaawkt o\nDy pryocicamoalicu\u2014 zpacu a wowmloa b\u0119\n,\nNase tO Bim\u0105 BUHIsU J\u0105 aj uu lm\n= t\u0142o a fug achoa kagdum\u0105 . Tkak\nuDou Jh MALL MTOJLNA m \u0142ucoy amg luj mah >\nuasgabu  ohuospma oj pamuma, Uq Mom gw\nluak FUR 4 bu au m w co JOJUADI U4CAN\nwo\u0119zjuai ,\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA05-080\nMr. Macmillan explained that he had deliberately refrained during the summer from\nrecalling Parliament or ordering mobilisation by proclamation, such as would be nec-\nessary to bring the British Army of the Rhine on to a fully active footing. That\nwould have created a thoroughly undesirable atmosphere of panic. He thought that\nthe situation was rather more hopeful.\nMo. Macuilan explcineor\nthat he haa deiber-\nnedrained\nabely\naviua te anes\nfrc\nPaolicnet\nor oraeing\nmobilisalicn\nue cahis\nwaulel\nbe\nas\nbing Bitish truy as he Rhin\nueceay\n10\nfoolins. That\n\u21930\nAnuy achive\nCrm\na\ncueculee\ntuoranghhy\nwcular\nhaue\n9\nwae-\no\u00a7\nahuophoe\npocic. be\nb\nbucungut\nta\nrihualia\nthe\nWCo\nvames\nau\nwopeful.\nName:\nW. Manti"
+        }
+    ]
+}

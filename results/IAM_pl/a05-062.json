@@ -1,0 +1,26 @@
+{
+    "file": "a05-062.png",
+    "reference_text": "Sentence Database A05-062\nWith a vigour and authority which delighted old Parliamentary friends and foes alike,\nthe Earl of Avon, the former Sir Anthony Eden, in his maiden speech in the House of\nLords last night, gave a warning that appeasement over Berlin could only lead to war.\nTo stand firm, he declared, was not to invite war, but the surest way to avert it.\nWith a vigour and authority which delighted old Parliamentary friends and foes alike,\nthe Earl of Avon, the former Sir Anthony Eden, in his maiden speech in the House of\nLords last night, gave a warning that appeasement over Berlin could only lead to war.\nTo stand firm, he declared, was not to invite war, but the surest way to avert it.\nName:\n",
+    "results": [
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A05-062\nWith a vigour and authority which delighted old Parliamentary friends and foes alike,\nthe Earl of Avon, the former Sir Anthony Eden, in his maiden speech in the House of\nLords last night, gave a warning that appeasement over Berlin could only lead to war.\nTo stand firm, he declared, was not to invite war, but the surest way to avert it.\nW.u KONCU ENO uwiau  oiLlh\u0105klech\nota Wahamaww\u0105 QMumdu ma (oea aUm,\nMa Carl o$ pom , blum fw Se huktay\nEa_ || M Ms moustam spada m lu Mcumaz\no$ | Lora\u00bb lae mset, q\u0105awvx \u00abm WODA\nuaok  paswa OPR 00)  BBLU. oaula\nomy Leah lo war, Ja stca (mu, LL\n\"\nANLCN us-0N ; Wam uk ko W WOT, buk\n.\nHa um wag to aozz>k w\n+\nName:\n",
+            "time": 1.7413227558135986
+        },
+        {
+            "name": "easyocr",
+            "text": "Sentence Database A05-062\nWith a vigour and authority which delighted old Parliamentary friends and foes alike,\nthe Earl of Avon, the former Sir Anthony Eden, in his maiden speech in the House of\nwarning that appeasement over Berlin could only lead to Lords last night, war gave\na\nTo stand frm, he declared, was not to invite war, but the surest way to avert it.\nJ`qaus cueLq Elecl nci4\nW;Lu Cu 0 Wl cu C Cu l\noes {ieco Rcs  Dcuuactcv < au M\n@o 0la\ns: kllau Ccj| 0 \nfcvies - Lua _ Aocu Jua\nKceuuse Lua  AQ8Q1 ~CLloleu< 4 \u20acae L, 2\nwju_ 0 8 Lovc_ Jaor L S4 4cur\n7\nBe L pprcusruneuj caLuloa Qur LuaJ\na Tsstra\n73 A~ 8Lcuo La\nLo O~ [Y (ao ux5\n~j le Bux 40 Lo 0aClcusO Wc\nWcp\n1\n2 ~ea +o ~ucas\n@url Ls\nName:\nMcuu U ,",
+            "time": 1.9060912132263184
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA05-062\nWith a vigour and authority which delighted old Parliamentary friends and foes alike,\nthe Earl of Avon, the former Sir Anthony Eden, in his maiden speech in the House of\nLords last night, gave a warning that appeasement over Berlin could only lead to war.\nTo stand firm, he declared, was not to invite war, but the surest way to avert it.\nWil a vigano\nand anhharihy whian aeiguect\nfiends\nfoes\nalime,\nola Parlicunentara\nard\ne\nEaol o& toan, tue fcrme\nsio\nmthas\ntue\nEde,\nmciae\nin\nhhe\nMase\ni\nLs\npeeem\nwasina\na\nLoras\nlaot\nusht,\ngave\n8\nBei caula\nhucab\nappeasement\n\u03c9\npestra\nTo\nohanal\nfio, he\nouly\nLeadto w.\nivita\nBut\naeclanad,\nuat\n4o\nwa,\nwas\nto auert it.\nte\nmoet\nwan\nName:\nW. Mani",
+            "time": 31.492281198501587
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA05-062\nWith a vigour and authority which delighted old Parliamentary friends and foes alike,\nthe Earl of Avon, the former Sir Anthony Eden, in his maiden speech in the House of\nLords last night, gave a warning that appeasement over Berlin could only lead to war.\nTo stand firm, he declared, was not to invite war, but the surest way to avert it.\nWilu avigaur cuol auuthorihy wuicu aeiiqhlect\nolor Rerhcmenters pienas anol foes aum,\ntua Carlof Aocu, - Lua formes Si- Mettars\nEder, i Lis maiiaern speeen in hue Hause\nof Loras lash\nuisu, aceUr 6 wasuing\nuat pestra appeasemant QR Besi caulcl\nouly leac Lo wos.\nTo ohcual Rru,ha\nalaclenach, was uat ho uoila worr, buh\ntu\na -eA way to avesh it.\nName:\nu. Moui",
+            "time": 4.372896671295166
+        }
+    ]
+}

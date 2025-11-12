@@ -1,0 +1,26 @@
+{
+    "file": "a05-029.png",
+    "reference_text": "Sentence Database A05-029\nSir Francis is to hand over to Sir Richard as from Nov. 1. The hand-over, due in\nSeptember, was delayed because of the Berlin crisis. Mr. Watkinson and his advisers\nfelt the change would be unwise at a moment when attention had to be concentrated\non possible need for important military operations. For this reason Sir Francis stayed\non, and sacrificed his leave. ,\nSir Francis is to hand over to Sir Richard as from Nov. 1. The hand-over, due in\nSeptember, was delayed because of the Berlin crisis. Mr. Watkinson and his advisers\nfelt the change would be unwise at a moment when attention had to be concentrated\non possible need for important military operations. For this reason Sir Francis stayed\non, and sacrificed his leave. ,\nName:\n",
+    "results": [
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A05-029\nSir Francis is to hand over to Sir Richard as from Nov. 1. The hand-over, due in\nSeptember, was delayed because of the Berlin crisis. Mr. Watkinson and his advisers\nfelt the change would be unwise at a moment when attention had to be concentrated\non possible need for important military operations. For this reason Sir Francis stayed\non, and sacrificed his leave. |\ns (rom Woo. A. T[ha_ lkomeat- ooQ=, ua m\u2014\nSq.EN\u2014V0>-, Wa Ulama n BQRacauacd_ A ku\nfReua Guma Me. Woakkuusa ano. VMu\u0105 GlkikiaOja\nfav hu onoaga  Wamiaa (0. nudtes\u2014_ a \u2014\n| auz=k <A DW amin Wwa la Ba\nCCU caLLwakaa Ou pam LU umaaq\u0144 far nmuecwieh\nm Ubi omy opa. Tor Wda Rama SU\u2014\nTpaneica saa mm, ani calia oaaokzak\nm3 Lecaot_.\nName:\n",
+            "time": 1.776573896408081
+        },
+        {
+            "name": "easyocr",
+            "text": "Sentence Database A05-029\nto Sir Richard The hand-over, due in Sir Francis is to hand from Nov. 1 over as\nWatkinson and his advisers September, was delayed because of the Berlin crisis. Mr .\nmoment when attention had to be concentrated felt the change would be unwise at a\npossible need for important military operations. For this reason Sir Francis stayed on\non, and sacrificed his leave.\ns:- cucvon\nS; Lo Kcc - Lca Lo ours \n2 TLa _ ous  Joo Lcud A _\nFc 00q5  ~ @s\n1\n0F Lus_ Qqccuae fapla~bQ)  , QQL Cuaea\nLCxa\nL, adu;,QD waduc Bol Cy;3; 3 , ac Ms .\n3 @ \ncu Lloc< 9  e Ucluulo Ce [eux cucu &8 U\n02 Lo Qllauhc Lac Lole ~Jlee Lcials\nfc~ ~eouacuk 0 U  Ccu Cawaloo LQa &\n01 PCA 3\no9) alic~~, Ko S  UlCMass 1~5 ~Qcu\u20ac\n~~\n~90lie 2ac~fceo facc @o 51 Cugro\nC1\nA , UcoQ\nName:\nM . Aax",
+            "time": 2.0378997325897217
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA05-029\nSir Francis is to hand over to Sir Richard as from Nov. 1. The hand-over, due in\nSeptember, was delayed because of the Berlin crisis. Mr. Watkinson and his advisers\nfelt the change would be unwise at a moment when attention had to be concentrated\non possible need for important military operations. For this reason Sir Francis stayed\non, and sacrificed his leave.\nsi Ricnavar\nsi panci. i to hand ooe to\nhanc-ove, ane im\nfrcu\nDoo. A. The\na\nbecause ot bue\nsaphembe, wce\naelaea\nBehi crisio. to. Watunsan\naa his adviaes\nhe dhcnge woanlal\nbe uoi at a\ntel\nabnhahaaho\nBe\nuncuat\ne\nfc\nin porcua\ncaucomwahed\non poaoibla neaa\nsi\nopasalie. Tor tir uececn\nmilibcue\naoaiooac~ifice\nPancio\ntageo an,\nmis\nleave.\nName:\nU. Mcnti",
+            "time": 26.25972819328308
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA05-029\nSir Francis is to hand over to Sir Richard as from Nov. 1. The hand-over, due in\nSeptember, was delayed because of the Berlin crisis. Mr. Watkinson and his advisers\nfelt the change would be unwise at a moment when attention had to be concentrated\non possible need for important military operations. For this reason Sir Francis stayed\non, and sacrificed his leave.\nS hanci. to lo ucual OURS to Si Rienevor\nas\nhrom Noo. A. The haucl- oues, alua i\nSaphanles, wors celaura Oecause of hue\nBesuin crisis. Mr. waluin sar\nanol wis adviaes\nfeur ue chenge waula lR uvoina ch S\nuucusut wuge wue -\nallauhen hact lo Oe\nccucarhatad ou possiol ueaa far imporhent\nmitisenss opssaulies. tor uis uecrscr si\ntancis slayeor cu\narc salio sacrificeo\nnis Leaoe.\nName:\nW.Meuli",
+            "time": 2.6441450119018555
+        }
+    ]
+}

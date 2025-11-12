@@ -1,0 +1,21 @@
+{
+    "file": "a05-104.png",
+    "results": [
+        {
+            "name": "easyocr",
+            "text": "Sentence Database A05-104\nfor using double standards. Ministers had Healey denounced the Government Mr.\ncondemning the Russian tests, but they rebuked the unaligned nations for not new\nthemselves had no condemnation for events in Angola or Algeria. It was not for the\nGovernment, said Mr. Healey, to take up moral attitudes, \"especially when the temple\nof their religion is the bingo-parlour.\n(c - Ms . L\nGourJaaxh Mea  Lus _ dencu caA\nLiw` .05 Ls ccuuls\nLca Gfedovala\nKa Q4 Laa ualey VA _ alcwaa 4cn fej\n~\n~Rusvia~^ keXve ccnaaac\nDut Les _ Lru)\n1\nfcc ccuclou Lculicl Ly\nAaA *ul^ 4ac 40\nAlaeca (e Mao (o uo} w~ee\n3~ or Usolo\nARa GouR^A M~s~A A . 4 3c @ LAc / La \nall h Iake_ ~sheciclllj Wll ~ 09o ucvoi\nLp M\n0j LLQU- nals' ~ L\nLo_ LeA Ols_ 4\nbsP Pc* ayj _\nName:\nM &u U ."
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA05-104\nMr. Healey denounced the Government for using double standards. Ministers had\nrebuked the unaligned nations for not condemning the new Russian tests, but they\nthemselves had no condemnation for events in Angola or Algeria. It was not for the\nGovernment, said Mr. Healey, to take up moral attitudes, \"especially when the temple\nof their religion is the bingo-parlour.\"\nhus. Mealy dencu COA\nMe Googjumant for\nuoins coulue stencloyals.\nMinistess hod\nnaluhed tua malisnad ualicus for uah\ncendamnis kuo udu Russian lesto, out\nhay hamnlos hact 4O ceucleunaton for\neveuts a mgola cr Algera. H was uak fur\nLuo\nGourn uent oaion Mr. heales, to\nlale up mcral alihyaes, L copecicus wher\nLue lampa of huav neligion 6\nA\nsigo- polaur.\nName:\nL. Mauri"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A05-104\nMr. Healey denounced the Government for using double standards. Ministers had\nrebuked the unaligned nations for not condemning the new Russian tests, but they\nthemselves had no condemnation for events in Angola or Algeria. It was not for the\nGovernment, said Mr. Healey, to take up moral attitudes, \u201d especially when the temple\nof their religion is the bingo-parlour.\u201d\nhus,  Meawn denarark Wa Gover for\nWerQ AEuhle swherclovalr, Leanne Atta Nok\nwa Qutkeaod ioa_ me NR nvaku., ter woo\nCOA ARLE WS UUs ey Hee kesta, Bur\nsy brAscurrsaahLor, hack uo conckQssnrmmeu for\nwerk CC. digala cor Alagena . I was uch for\nrns Gau9n wrait , ser wm Moor, Manley , to\nloks. Up weoval OMY ADS | u cepRrcatky Whe\na\nne Ae ONS ot Wu WELK Cen wo\nvo A> por l\\our, -\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA05-104\nMr. Healey denounced the Government for using double standards. Ministers had\nrebuked the unaligned nations for not condemning the new Russian tests, but they\nthemselves hadno condemnationfor events in Angola or Algeria. It was not for the\nGovernment,said Mr. Healey, to take up moral attitudes,\"especially when thetemple\noftheirreligion is thebingo-parlour.\"\nMr.\nfa\nMealy\nme\nGouesnnent\ndenamao\nhoing\ncaule dandavds.\nMinises hod\nnebuhed\nthe walisned uaticny\nfar uat\nRussian\ncondemnig\nlests, eut\nkue\nwew\nno concemnaion for\ntay\ntem ulves\nhad\neents\nMgola\nar Algeia. H was uat fewr\ni\nme\nGovenment, saias Mr. healey, to\ntake\nof\nmiv\nnelision is\nbue\nbempl\nhue\nsingo- polans.\nName:\nU. Mani"
+        }
+    ]
+}

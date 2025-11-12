@@ -1,0 +1,21 @@
+{
+    "file": "g007.tiff",
+    "results": [
+        {
+            "name": "doctr",
+            "text": "PREFACE.\nTHE inducement to write this book was to\nsupply, in a slight measure, the want of any\nparticular history of British rule in West\nFlorida.\nWith that inducement, however, the\neffort would not have been made but for the\nsources of original information existing in the\nArchives of the Dominion ofCanada, as well as\nothers, pointed out to me by Dr. William\nKingsford of Ottawa, author of the History\nof Canada;' to whom I take this occasion of\nmaking my acknowledgments.\nAn account of British rule necessitated one of\nopanish colonial annals, both before and afterit.\nIf any apology be necessary for the space\ndevoted to the Creeks, it will be found in the\nconsiderations that for twenty years the body"
+        },
+        {
+            "name": "pytesseract",
+            "text": "ere\nPREFACE.\nTHE inducement to write this book was to\nsupply, in a slight measure, the want of any\nparticular history of British rule in West\nFlorida. With that inducement, however, the\neffort would not have been made but for the\nsources of original information existing in the\nArchives of the Dominion of Canada, as well as\nothers, pointed out to me by Dr. William\nKingsford of Ottawa, author of the \u2018History\nof Canada;\u2019 to whom I take this occasion of\nmaking my acknowledgments.\nAn account of British rule necessitated one of\nspanish colonial annals, both before and after it.\nIf any apology be necessary for the space\ndevoted to the Creeks, it will be found in the\nconsiderations that for twenty years the body\nheap\u201d\n"
+        },
+        {
+            "name": "paddle",
+            "text": "PREFACE.\n+\nTHE\ninducement\nto\nwrite\nthis\nbook\nwas to\nsupply,\n1\nslight\nmeasure,\nthe\nwant\nof any\nin\na\nparticular\nhistory\nof\nBritish\nrule\nin\nL\nWest\nFlorida.\nWith\nthat\ninducement,\nhowever,\nthe\neffort\nwould\nnot\nhave\nbeen\nmade\nbut\nfor\nthe\nof\noriginal\ninformation\nexisting\n+\nthe\nsources\n1n\nArchives\nof\nthe\nDominion\nof\nCanada,\nas\nwell\nas\nothers,\npointed\nby\nout\nto\nDr.\nWilliam\nme\nKingsford\nof\nOttawa\nauthor\nof\nthe\nHistory\n4\nof\nCanada;'\nto\nwhom\nI\ntake\nthis\noccasion\nof\naking\nm\nmy\nacknowledgments.\nAn\nof\nBritish\nrule\naccount\nnecessitated\none of\nspanish\ncolonial\nannals,\nboth\nbefore and\nafterit.\nIf\napology\nbe\nnecessary\nfor\nany\nthe\nspace\ndevoted\nthe\nCreeks,\nto\nit\nwill\nbe\nfound\nthe\nin\nconsiderations\nthat\nfor\ntwenty\nthe\nbody\nyears"
+        },
+        {
+            "name": "easyocr",
+            "text": "PREFACE.\nTHE inducement to write this book to was\nsupply, in slight measure, the want of any a\nparticular history British West of rule in\nWith that inducement, however, the Florida.\nwould not have been made but effort for the\noriginal information existing in the sources of\nArchives of the Dominion of Canada, as well as\nothers,  pointed by Dr . William out to me\nHistory Kingsford of Ottawa, author of the\nwhom of Canada;\" I take this occasion of to\nmaking my acknowledgments.\nAn account of British rule necessitated one of\nopanish colonial annals, both beforeandafterit.\nfor the space any apology be   necessary If\nthe Creeks, it will be found in the devoted to\nconsiderations that for twenty years the body"
+        }
+    ]
+}

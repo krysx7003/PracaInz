@@ -1,0 +1,21 @@
+{
+    "file": "a05-013.png",
+    "results": [
+        {
+            "name": "easyocr",
+            "text": "A05-013 Sentence Database\nWatkinson remains convinced The scheme will be subject to Cabinet approval: Mr .\nthat the policy initiated in 1957, in Mr: Sandys's time as Minister of Defence, is still\nwas to return to the tradition of all-Regular voluntary forces, with the correct. This\nlast National Serviceman out of uniform by the end of 1962.\nebged Ts- Cab:uok wcu Jol~A \nlo\nloalli,cl app*ouo | Mnuc ? A . Cex\nB\npolcy L Kalaal oiicoa LucX LLs_\nM\nSoay? Au~ AQr 495+ L~r 4 Mc .\n3 a0 )\nTl'~ of DDals ~\nccvuecl ` .K4 (9-) lo waa\n0( requlcs Fac\"4'c so_L~cw Lx\nal _ L0\nJolu+cv* ~`ll {crcs ^ , Nallecl lclo| c4\n0f Lfeve a Seso ' LSLLC~ As _\nQ~C D4\n0 $ ^9 L 2 ,\nName:\nM - M &h\""
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA05-013\nThe scheme will be subject to Cabinet approval. Mr. Watkinson remains convinced\nthat the policy initiated in 1957, in Mr. Sandys's time as Minister of Defence, is still\ncorrect. This was to return to the tradition of all-Regular voluntary forces, with the\nlast National Serviceman out of uniform by the end of 1962.\nTha Jouand wiu subjet lo Cabiuet\nappuoval.\nMr. Watuiscu namains Ccu-\nvinceo tuas Lha polices uihahecl un\n1557, un Mr. Seudyo's L'ue a sinisor\nof Dalarca, sku coruect. Tus was to\na wu Lo ha hacuhan of au- Reguler\nsolutern fevcas, wihh au last\nNawual\nSesoicamer\naud of uiferm bu hua encs\nof 1962.\nName:\nh.Man"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A05-013\nThe scheme will be subject to Cabinet approval. Mr. Watkinson remains convinced\nthat the policy initiated in 1957, in Mr. Sandys\u2019s time as Minister of Defence, is still\ncorrect. This was to return to the tradition of all-Regular voluntary forces, with the\nlast National Serviceman out of uniform by the end of 1962.\ni daketonta - wed Der lo Caiuok\nAP P*OVES . oe Bei gee ie =\nWrcac rok Ls. polo wet Wabnok\nARSE, A Me. Gerrys's Nug ao Mido\nos. \u201cDsls\u2014 cs, a ght comtcke. Tue won te\nele. <5 the Wath... of ad ~ \u201cRaqulear\npomtery fevers, wthkh a lot Nord wad\nee ee a a eee Toren ug PSR CH\nat AN*2. .\nName:\nA. Mow\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA05-013\nThe scheme will be subject to Cabinet approval. Mr. Watkinson remains convinced\nthat thepolicy initiated in 1957,inMr. Sandys's time as Minister of Defence,is still\ncorrect. This was to return to the tradition of all-Regular voluntary forces, with the\nlast National Serviceman out of uniformby theendof1962.\nTe\nwiu\nsubject\nJanene\n10\nCabiuet\nMo. wathisan wemains con-\nappuoual.\npolicy mi tiated\nvincd\ntuat\nh\nw\nMr.\nSandys'o\nhime\nliniser\nao\n1\nhadihan of au-Regular\nnehnn to he h\nvolmtary farces,\nwihh ay\nlast\nNaimal\nant of witern su\nsevicaman\nue\nencs\nof\n1962.\nName:\nW.Mali"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "file": "a05-000.png",
+    "reference_text": "Sentence Database A05-000\nTHE next White Paper on defence, to be published in March, is likely to contain a\nfive-year plan for the three Services. Its aim will be to produce superbly equipped,\nall-Regular forces of about 400,000 men. The three Services would be \u201dintegrated\u201d to\na greater extent than ever before.\nTHE next White Paper on defence, to be published in March, is likely to contain a\nfive-year plan for the three Services. Its aim will be to produce superbly equipped,\nall-Regular forces of about 400,000 men. The three Services would be \u201dintegrated\u201d to\na greater extent than ever before.\nName:\nA. March\n",
+    "results": [
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A05-000\nTHE next White Paper on defence, to be published in March, is likely to contain a\nfive-year plan for the three Services. Its aim will be to produce superbly equipped,\nall-Regular forces of about 400,000 men. The three Services would be \"integrated\" to\na greater extent than ever before.\nTUE mat Wwtu, faaasr ou stlama_, lo\nLL pubhiam 1 Marm, w Uluy to\ncha a Ron - ARo\u2014 plax (wm  lMaL |-nmea_\nSo23otca_e . Wa au will b to pvoomuca_ supOd_L\u0104\nqq paLA , ou - VR\u0105quto= w CNA o\nA, SAS LOOGoO mn_ | Fka Whuea_  lOUtcO,\n* u\nyboulox BGA |, mta\u0105rolb\u0105d Ho a Gganaltm\nona Masa, mar (Galen\nName:\nMU. Mb\n",
+            "time": 1.6105949878692627
+        },
+        {
+            "name": "easyocr",
+            "text": "Sentence Database A05-000\ndefence, to be published in March, is likely White Paper to contain THE next on a\nproduce superbly equipped, five-year plan for the three Services. Its aim will be to\nThe three Services would be \"integrated\" to all-Regular forces of about 400,000 men.\ngreater extent than ever before. a\nTa Wl tz The oe_Le~ca _\n1o PS5 \" 01\nMeyL\n1\nL4als Pub;shec 10 H~sen 1\n82 \nRoe Lwes (c La _ plc~ ccace +cs ~\nQ2  Loru 3uposuu cx pvoolu\nC9  Sesoicoc I+ 1o\n190' Jcv ce^\nulc Qqunpaec 0\nal\n1\nTa - hhnes Sou: \u20aco , alsccd 4oS 0o0 Mo\n92a LQj  Lo ~0l-Qc 4 Mla Uoo-Mla Q2\n0\nBefcn\nCCL+ Lue 2uq5 \nName:\nMaL U .",
+            "time": 1.7069711685180664
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA05-000\nTHE next White Paper on defence, to be published in March, is likely to contain a\nfive-year plan for the three Services. Its aim will be to produce superbly equipped,\nall-Regular forces of about 400,000 men. The three Services would be \"integrated\" to\na greater extent than ever before.\nTHE\nWrit Fapes on o\ndetenea, to\nnext\nMaoc, i liney to\nbe\npubished\n\ntiue-geas plan fcr\nMe\nthee\ncantcim\na\nIto aim woil be to pvoonce supobuy\nsesoiceo.\nal- Regula\ndaces\no&\neauipped,\nTha Whuea\n400'000 .\nfevice\nulaunt\nu mla qabed\nL0\nqueaheo\nwaula\nB2\na\nbefane.\ncrhat\ntuau\neua\nName:\nU. Manhi",
+            "time": 31.41799545288086
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA05-000\nTHE next White Paper on defence, to be published in March, is likely to contain a\nfive-year plan for the three Services. Its aim will be to produce superbly equipped,\nall-Regular forces of about 400,000 men. The three Services would be \"integrated\" to\na greater extent than ever before.\nTHE uert wuitepos ou olelerca to\nbe pubishac\na\nMaren, is uhaus to\ncaulcin\n9 hue-120s plan fer uua Lhes\nSesoices.\nlho ain wil be lo pvooluca suporbug\neauippeer,\nau - Raqulas dauces of\nalsoud\n400'000 uo\nTha hhnea Sevice.\nwoula Q2 uintagoteal ho A queales\nchant tue\neuo5 bafon.\nName:\nU.Mah",
+            "time": 5.839904546737671
+        }
+    ]
+}

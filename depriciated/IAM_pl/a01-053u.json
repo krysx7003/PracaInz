@@ -1,0 +1,21 @@
+{
+    "file": "a01-053u.png",
+    "results": [
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-053\nHe said these concerned Mr. Weaver's alleged association with organisations black-\nlisted by the Government. Immediately Mr. Kennedy rushed a letter to Senator\nRobertson saying the Federal Bureau of Investigation had reported on Mr. Weaver.\nHe believed he would perform \"outstanding service\" in his post. Senator Robertson's\ncommittee has to pass Mr. Weaver's nomination before it can be considered by the\nfull Senate.\nHe oaion Mueoe coucesued\nMr. weases's\nalesed associaticn wim orgauisaliens Olacu-\nlided 09 Lua Golumant. munadtially Hur.\nKemedy rushect a lette to Senalor Rabotsou\nDaging hue Terloal Bweau of hureohigahen had\nueportecd oM\nMr. Weawe. Lle believed\nhe wcula peferm noutshauding sevice\"\ni his post. Souaher Rolehocu's caumillee\nhas to paros Mr. weaveo ucmination befoneit\ncau le cansideed by bua tull Seucte\nName:"
+        },
+        {
+            "name": "easyocr",
+            "text": "A01-053 Sentence Database\nWeaver's alleged association with organisations black- He said these concerned Mr.\nKennedy rushed letter to Senator listed by the Immediately Mr. Government - a\nRobertson saying the Federal Bureau of Investigation had reported on Mr- Weaver .\n\"outstanding service\" in his Senator Robertson's He believed he would perform post.\nbe considered by the Weaver's nomination before it to pass Mr. committee has can\nfull Senate.\nHe scLion paqoe _ luqaues\nMr CCuCQsuQo  2\norusalco L: aos oci ascu alo ara 0lacu\n~\naumecliakly 0 > li eo\nLe _ GouquMeud Hr .\nVosccseds\n~Rabolxu lotto Seualcy rugloa\n4o 0\nol  Llokgaha Laa Bwveau 2ag&9\nKuo _ 4exloal\nLe_Lieuea Le  luzauQ . MQpcvted Ar.\n0n\naudins\n4 Oul sk Le  a@Ui Ce Uculo 80ofcru\nM\nCcuul'lleq ~oQeloc ' Souaacr Ls\nPc8\nbefone :4 Ar. +0 ncuuiaafc\nWqauq) paLo 3 uab 3\nclord hu Seucte _ Qe Lo _ Vy cans;\nCau\nName:"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-053\nHe said these concerned Mr. Weaver's alleged association with organisations black-\nlisted by the Government. Immediately Mr. Kennedy rushed a letter to Senator\nRobertson saying the Federal Bureau of Investigation had reported on Mr. Weaver.\nHe believed he would perform \u201doutstanding service\u201d in his post. Senator Robertson's\ncommittee has to pass Mr. Weaver's nomination before it can be considered by the\nfull Senate.\nHel saio0h HMiLecd_ cmcesuah Me. Waauee 'o\nOMN\u0104Z\u00d3\u0143 AaasoiaA\u0143mu WIU pgrqumsakkawa blacu -\nk\u00f3z by lua_ Govbunmank, LUuumeadolbly kw,\nKonn\u0119du rwa a UKD \u0142o Semalar 7 Rabotscu\ndagglnj Ma Ted>al Bweau GE luutobkgakica kad\nWLpodadd gu Me. Woawo. Liq_ katevek\nUn want pOform \u201eouk skaudume\u0105 QI) UL CQ_ |\nu Me pak, \u015aSauakie  \u0142oltkocou \u00bb Ciumulttq\nlog FO paco Me. Weawba uacmiuaka bOjorn_ Ib\nCam (|b_RL canaicioLA by Hua LU Sema.\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA01-053\nHe said these concerned Mr. Weaver's alleged association with organisations black-\nlisted by the Government. Immediately Mr. Kennedy rushed a letter to Senator\nRobertson saying the Federal Bureau of Investigation had reported on Mr. Weaver.\nHe believed he would perform \"outstanding service\" in his post. Senator Robertson's\ncommittee has to pass Mr. Weaver's nomination before it can be considered by the\nfull Senate.\nHe\nscuol\nMeol\nMr.\nWeaver's\ncacesuec\nassociavicnwis orgauisatians\naueged\nBlac -\nli sea\nGoveent. lumediably\n07\nhe\nMr.\nhemedy\nlette to\nRebotu\nSenalc\nrushed\na\noaging\ntedoal Bureau of huveohigaticr had\nthe\nweave.te beieved\nnepartea\nMr.\nam\noub shanding\nsevice\nhe\nwauula\npefcrm\nRobebsan's Ccunibee\nin his post.\nSeuancr\nMr. weaveis naninatian befone it\nhao do\nparos\nbe cansideed\nby de tull\nsencae.\ncam\nName:"
+        }
+    ]
+}

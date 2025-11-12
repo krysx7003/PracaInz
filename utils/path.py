@@ -34,7 +34,7 @@ def is_valid_dir(path: str):
     """
     if not os.path.exists(path):
         return False
-    if not os.path.isfile(path):
+    if not os.path.isdir(path):
         return False
 
     return True

@@ -1,0 +1,21 @@
+{
+    "file": "i036.tiff",
+    "results": [
+        {
+            "name": "doctr",
+            "text": "THE LUSITANIA'S LAST VOYAGE\nplosions made by the mixing of the cold water\nof the sea with the steam of the boilers. I\nsaw an interesting statement in one of the\npapers, purporting to have come from Cap-\ntain Turner, in which he stated that the small\namount of suction was probably due to the\nfact that the bow of the boat was already\nresting on the bottom when the stern went\ndown. This seems quite feasible, as she sank\nin about 60 fathoms (360 feet) of water and\nshe was 755 feet long.\nThe sea was wonderfully smooth, and it\nseemed to me that if one could keep clear of\nthe wreck and pick up a lifeboat, that it\ncould be manned and that we could go\nback and get many survivors. I \u00e0 was able to\nwork this out quite as I planned.\nAs I waited for the final plunge something\ncaught me on the top of my head and slipped\ndown to my shoulders, pressing me under\nthe water; I couldn't imagine what it was,\n(20 )"
+        },
+        {
+            "name": "pytesseract",
+            "text": "THE LUSITANIA\u2019S LAST VOYAGE |\nplosions made by the mixing of the cold water\nof the sea with the steam of the boilers. I\nsaw an interesting statement in one of the\npapers, purporting to have come from Cap-\ntain Turner, in which he stated that the small\namount of suction was probably due to the\nfact that the bow of the boat was already\nresting on the bottom when the stern went\ndown. This seems quite feasible, as she sank\nin about 60 fathoms (360 feet) of water and\nshe was 755 feet long.\nThe sea was wonderfully smooth, and it\nseemed to me that if one could keep clear of\nthe wreck and pick up a lifeboat, that it\ncould be manned and that we could go\nback and get many survivors. I was able to\nwork this out quite as I planned.\nAs I waited for the final plunge something\ncaught me on the top of my head and slipped\ndown to my shoulders, pressing me under\nthe water; I couldn\u2019t imagine what it was,\n~ (20)\n"
+        },
+        {
+            "name": "paddle",
+            "text": "THE\nLUSITANIA'S\nLAST\nVOYAGE\n\n-\nplosions\nmade\nby\nthe\nmixing\nof\nthe\ncold\nwater\nof\nthe\nwith\nthe\nsteam\nof\nthe\nsea\nboilers.\nI\ninteresting\nin\nof\nstatement\none\nthe\nsaw\nan\npurporting\nto\nhave\npapers,\ncome\nfrom\nCap-\ntain\nTurner,\nin\nwhich\nhe\nstated\nthat\nthe\nsmall\namount\nof\nsuction\nprobably\ndue\nto\nthe\nWas\nfact\nthat\nthe\nbow\nof\nthe\nboat\nwas\nalready\nresting\nthe\nbottom\nwhen\nthe\non\nstern\nwent\ndown.\nThis\nquite\nfeasible,\nas\nshe sank\nseems\nin\nabout\n60\nfathoms\n(360\nfeet)\nof\nwater and\nshe\nwas\n755\nfeet\nlong.\nThe sea\nwas\nwonderfully\nsmooth,and it\nseemedto r\nme\nthat\nif\none\ncould keep clear of\nthe\nwreck\nand'\npick\nlifeboat, that it\nup\na\ncould\nbe\nmanned\nand\nthat\nwe\ncould\n go\nback\nand\nget\nmany\nsurvivors.\nI\nwas able to\nwork\nthis\nout\nquite\nas\nI\nplanned.\nAs\nI\nwaited\nfor\nthe\nfinal\nplunge\nsomething\ncaught\nme\nthe\ntop\nof\nmy\nhead\nand\nslipped\non\ndown\nto\nshoulders,\nmy\npressing\nunder\nme\nthe\nwater;\nI\ncouldn\n't\nimagine\nwhat\nit\nwas,\n\u4e00\n20\uff09"
+        },
+        {
+            "name": "easyocr",
+            "text": "THE LUSITANIA S LAST VOYAGE\nplosions made by the mixing of the cold water\nof the sea with the steam of the boilers. I\ninteresting statement in one of the\nsaW an\nCap- papers, purporting to have come from\ntain Turner, in which he stated that the small\nprobably due to the amount of suction was\nalready fact that the bow of the boat was\nresting the bottom when the stern went on\ndown. This seems feasible, as she sank quite\nin about 60 fathoms (360 feet) of water and\nshe was 755 feet long:\nwonderfully smooth, and The it sea was\nkeep seemed to me that if one could clear of\nlifeboat, that wreck and' the it pick up a\ncould that could be and manned go we\nback and get many survivors. was able to I\nplanned: work this out as I quite\nAs I waited for the final plunge something\nme on the top of my head and slipped caught\nmy shoulders, pressing down under to me\nI couldn't imagine what it was, the water;\n20 )"
+        }
+    ]
+}

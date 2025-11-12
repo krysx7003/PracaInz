@@ -1,0 +1,26 @@
+{
+    "file": "a01-107u.png",
+    "reference_text": "Sentence Database A01-107\n\u201d We believe that a comprehensive medical service, free to the patient at the point of\nneed and with one standard for all sick people, is good and attainable. \u201dWe remain\nfor it. But the Tories never were.\u201d Interrupted by angry Tories, Mr. Brown retorted:\n\u201dThe jackals bay when there is nothing better they can do.\u201d\n\u201d We believe that a comprehensive medical service, free to the patient at the point of\nneed and with one standard for all sick people, is good and attainable. \u201dWe remain\nfor it. But the Tories never were.\u201d Interrupted by angry Tories, Mr. Brown retorted:\n\u201dThe jackals bay when there is nothing better they can do.\u201d\nName:\n",
+    "results": [
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-107\n\u00bbWe believe that a comprehensive medical service, free to the patient at the point of\nneed and with one standard for all sick people, is good and attainable. \u201dWe remain\nfor it. But the Tories never were.\u201d Interrupted by angry Tories, Mr. Brown retorted:\n\u00bb'\"The jackals bay when there is nothing better they can do.\u201d\n\u201e, Wa Oelev Mak a Ceuupua kam 21%. maaical\naeovica_ | faq \u0142o lMa_ palnej ab tla_ pnuwk\not YTY ou CN uch Ouq_ okaudajh far aM\nsich p\u0141OPARL , W 459% amh abainabia.\n, w\u0119. aimam lee ur. Bale kna_ DORCIHE\nwiuQ) wod.\" kilesrupita by amgvy Termo,\nke. Browu nakortem: \u201e Tkhs_ jachalo boy\nJ lhe4 LUoL_ p uoluwu\u0105 >YUMNL 5 han Cc PW\nName:\n",
+            "time": 1.2341666221618652
+        },
+        {
+            "name": "easyocr",
+            "text": "A0l-107 Sentence Database\ncomprehensive medical service; free to the patient at the point of We believe that a 99\nstandard for all sick people, is 99 and attainable. We remain need and with good one\nfor it. But the Tories never were.\" Interrupted by angry Tories, Mr. Brown retorted:\nwhen there is nothing better they can do. bay \"The jackals\nMaooucal Ccuupua Lau Bj& GoleBe\nHas loo\naL #a _ Lu Pciw Qk Aen 40 B2)uice _\npcu;\n1\nA~< 3lc~dcuol cu Us H 0$\nOa ae QQo\nauai ~ a01 : 9 ooon Ca Bcl F2ople _\n~cy_s\nGc< Ba LLs _ Lf . MeMai\nMu@\na~0*8 Tevieo\nQess M Lule )ruplea\nMcur) Lurr_\n@cs Tle Jackalo Aelo rtec : B,ow ^\nMr ,\nA\nLoLuica Luos belue) do.\n1 CC< Luee  heu\nw\nName:",
+            "time": 1.6137974262237549
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA01-107\n\"We believe that a comprehensive medical service, free to the patient at the point of\nneed and with one standard for all sick people, is good and attainable. \"We remain\nfor it. But the Tories never were.\" Interrupted by angry Tories, Mr. Brown retorted:\n\"The jackals bay when there is nothing better they can do.\"\nmeaical\nWe\nbeieue\nHab\ncanpuehonsiue\na\nM\nat the porut\nsevice,\nmea\nt\nM\npali ent\n+\ne\nc&\naeohanaavol\nfar al\nneeo\nam\nw\n4\nA\naooa cmd\nabaiuable.\nsich\npopue\nTores\nfar it. Bat\nhhe\nnema\nwa\nTeorieo,\nM\nheruplea\nbuy angrs\nwese.\nucues\nhr. Brown\nbay\nrehorted:r The jachabs\nnohng\nL\nbene\nthen\ncan do.\nwhen\nLere\n\u221e\nName:",
+            "time": 23.449564218521118
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-107\n\"We believe that a comprehensive medical service, free to the patient at the point of\nneed and with one standard for all sick people, is good and attainable. \"We remain\nfor it. But the Tories never were. \" Interrupted by angry Tories, Mr. Brown retorted:\n\"The jackals bay when there is nothing better they can do.\"\nWe Oelese tual 3 coupratansive mealical\nsevice, Aea to hus parient at Ha pciut\nos ueooh auch wit aue sheudayan fer al\nsich people\n- eyooal auua altainable.\nwa nemain fer it.Bat lua Teries\nucue) wese.\" hulesrupled lory angou Torvies,\nMr. Biown nelortedin - The jachals bay\nwhen luese io uoluing beles Hey caun do.\"\nName:",
+            "time": 1.9654574394226074
+        }
+    ]
+}

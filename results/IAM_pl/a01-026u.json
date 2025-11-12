@@ -1,0 +1,26 @@
+{
+    "file": "a01-026u.png",
+    "reference_text": "Sentence Database A01-026\nMR. IAIN MACLEOD, the Colonial Secretary, denied in the Commons last night that\nthere have been secret negotiations on Northern Rhodesia\u2019s future. The Northern\nRhodesia conference in London has been boycotted by the two main settlers\u2019 parties\n- the United Federal Party and the Dominion Party. But representatives of Sir Roy\nWelensky, Prime Minister of the Central African Federation, went to Chequers at the\nweek-end for talks with Mr. Macmillan.\nMR. IAIN MACLEOD, the Colonial Secretary, denied in the Commons last night that\nthere have been secret negotiations on Northern Rhodesia\u2019s future. The Northern\nRhodesia conference in London has been boycotted by the two main settlers\u2019 parties\n- the United Federal Party and the Dominion Party. But representatives of Sir Roy\nWelensky, Prime Minister of the Central African Federation, went to Chequers at the\nweek-end for talks with Mr. Macmillan.\nName:\n",
+    "results": [
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-026\nMR. IAIN MACLEOD, the Colonial Secretary, denied in the Commons last night that\nthere have been secret negotiations on Northern Rhodesia's future. The Northern\nRhodesia conference in London has been boycotted by the two main settlers\u201d parties\n- the United Federal Party and the Dominion Party. But representatives of Sir Roy\nWelensky, Prime Minister of the Central African Federation, went to Chequers at the\nweek-end for talks with Mr. Macmillan.\nbw. MW MACLEOD, ra, Coleuaj Sqmtlowy ,\nd\u0141WILK m luq_ Cwumomo law wi\u0119lk bar\nMoe. Uav2\u0142 beqy awek ui\u0105cohakama\nMoran, Rlhodemsa' o \u015b$ubwa. Mle Nory\nRkod\u0141ola cmulotuca_ m Lema, koo Qu\nbaycokkcd by Hua too wlk zaa wadia)\ntu_ lmilea Feapal Rwty ah Mq bumuow\nPosty. Buk nepazuhotive, of Su Wo\nWacky , Pnmme Miuap of hu CGoabah\nkicaa T\u0141ADLasie , wird \u0142o Clsyquuo a\u017c\nlue_ wek Leu fa \u0142aVlto wta Mv. Mac mi lcu .\nName:\n",
+            "time": 1.5438988208770752
+        },
+        {
+            "name": "easyocr",
+            "text": "A0l-026 Sentence Database\nMR. IAIN MACLEOD, the Colonial Secretary, denied in the Commons last night that\nnegotiations Northern Rhodesia's future. The Northern there have been secret on\nthe two main settlers' parties by Rhodesia conference in London has been boycotted\nthe United Federal Party and the Dominion Party  But representatives of Sir Roy\nWelensky; Prime Minister of the Central African Federation, went to Chequers at the\nweek-end for talks with Mr. Macmillan.\nloy / Colcmial Secue MACLEOD\nsain He  M .\nlaa uisW La) aQuxeal\nCcmuuncua Luo _\nL\nnecok'al'cuo\narcue] beeu Lupe 0\nLaur _\nNcLey 7Le  Ylodeoa ' Ahve\n8 No rLuesu\ncculejeu Co _ QaQo u hao LcuCcu Ruoceoa\nRHlQJ3 ' pCukoc\nbay col\u0141ed MCll Hluo Vys Le _\nHue  bunuicu auo Fedoal Rek luxLco\nHke \n(os\nPosLs ' SLr 0a MQpueaeulati ueo Bu\nJa  CouVa 04 Liiale) P.e ugs Wucle +3\nal Trcoaticcc Akcac Cuechqjs 40\nLe1\nMacu:ucc Halks .ilu\nMv . (c LQok Hue _\n~Qud\nName:",
+            "time": 1.9220893383026123
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA01-026\nMR. IAIN MACLEOD, the Colonial Secretary, denied in the Commons last night that\nthere have been secret negotiations on Northern Rhodesia's future. The Northern\nRhodesia conference in London has been boycotted by the two main settlers' parties\n- the United Federal Party and the Dominion Party. But representatives of Sir Roy\nWelensky, Prime Minister of the Central African Federation, went to Chequers at the\nweek-end for talks with Mr. Macmillan.\nSecue bavy,\nM. IAIN\nMACLEOD,\nColcmial\ne\nniglt that\ndemiea\nu\nlao\nhue\nCcruumcus\nbeen\nnegohiaticus an\ntoe\nhave\nsecnet\nRhodevia'.\nfitve.\nThe Ncrthery\nNortmeau\ncausesence in\nhao\nleeo\nRhodesia\nLanacn\ntwo ma\netles pautios-\nbaycabted\nthe Douivicy\nFeaeal\nPeoty and\nthe\nlihed\nSir Roy\nPaby. But\nof\nue pulseubati ves\nMinide of tue Ceubal\nWellnshy, Prime\nAhican\nIeceatien, went\nt0\nCheques at\nf\u221e\ntalks witu Mr. Macuilcn.\nMhe\nweeh -end\nName:",
+            "time": 27.513768911361694
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-026\nMR. IAIN MACLEOD, the Colonial Secretary, denied in the Commons last night that\nthere have been secret negotiations on Northern Rhodesia's future. The Northern\nRhodesia conference in London has been boycotted by the two main settlers' parties\nthe United Federal Party and the Dominion Party. But representatives of Sir Roy\nWelensky, Prime Minister of the Central African Federation, went to Chequers at the\nweek-end for talks with Mr. Macmillan.\nAur. IAIN\nMACLEOD, puo Colonial Secuelary,\naeuiea i hue Comucus last uight uat\nLuoe haue been secnet negohialiens a\nNorben Rhoderia's fuhve. Te Norbhesy\nRhoclesia ceuleseuce u Loudleu has lo00M\nbaycotted by hue two uau selles paution -\nthe lmihech Fedeal Porty auch tue Douinion\nPosky. But represeularise. of Sir Roy\nwelens ho,Prime Minisle of ha Coubal\nMhican Teceation, weut to Cuaques at\nHue weeh-eud for talho wilu Mr. Mac mileu\nName:",
+            "time": 3.012786626815796
+        }
+    ]
+}

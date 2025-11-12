@@ -1,0 +1,21 @@
+{
+    "file": "a01-068u.png",
+    "results": [
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-068\nAnd they are unimpressed by the Germans' claim that they cannot pay more than\n357million without upsetting their own economy. The Americans say Germany is\nhaving it too good and is not paying for the past or for the present. The Adenauer\nGovernment flatly rejected attempts by the Eisenhower Government to get them to\npay a regular sum towards the cost of keeping American troops in Germany.\nhor mey aue uua joweosed by he Gemaus' clain\nluak thoy caunot pay uone tuau 357 niitiicen\nwihhout upseling tueir owu econoug. The\nhuesiceus say Gesuay  having i too\ngooch udi uot puying fer Lue past\nor for hue pueseut. The Aolenauer Govesumaut\nflatly nefeched attemphs by lue Eiseuhowes\nGooemuenl Jo get tuem to pay a negulas\nsun dowasas tue cost of heepig huesican\ntvoops u\nGemauy.\nName:"
+        },
+        {
+            "name": "easyocr",
+            "text": "A0l-068 Sentence Database\nclaim that they cannot pay they more than unimpressed by the Germans And are\nsay Germany without upsetting their Americans is The 357million economy. own\nhaving it too The Adenauer and is not paying for the past or for the present _ good\nthem to Government fatly rejected attempts by the Eisenhower Government to get\nregular sum towards the cost of keeping American troops in Germany.\npay a\nBys Le _ claic Meys puQoaea G@u1aus ka\nLuu 0o \n~lica 4koys cauuot 353 Lay\nLuas pasj Loxe\na8N's TLe _ @ccMons ~\niilhoul Lueir ouo4\nup\nhaving\nhe;ccus Gesucus ; +00\n0s 1\nPxay i~8 Lo fc ~d\nsoo9 A64 1 Poo<\nfcs Luo Tue Peaej Gour)uuaek Aoleuauo\nor\nflax4s n& {ecled aheus @ Ciaeu howe) bys He\nGoQsMuaeJ AQ Gulcus Houun 40 Jo pcLss 884\n0\nkeopra 98 hue _ Jousasaa Cay  hesica~\n2un\nGejcucy\n+Yoop s\nName:"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-068\nAnd they are unimpressed by the Germans\u201d claim that they cannot pay more than\n357million without upsetting their own economy. The Americans say Germany is\nhaving it too good and is not paying for the past or for the present. The Adenauer\nGovernment f\u0142atly rejected attempts by the Eisenhower Government to get them to\npay a regular sum towards the cost of keeping American troops in Germany.\nka Hey O miumupocacd by Ma_ Gouicua | c\u0142a\nbak Hon Camuuok paw moc lua 354 uu\nudihowk up z00mx Heir owu cecmomn. Tue_\nhuencewo sau GOA o kadom\u0105 Ur boa\nCZECH PAL\u0104 mA foc RL pach\nor for na. pasa, The Adznanu GovQDBdumak\nfiarkn zjada du pla by k\u0119 Eisukowcy\nGDoUWMman% Jo qr mau \u0142o pi\u0105 a wR\u0105ulew\nsoma dOWOSAS ba_ cab ob ueom\u0105 hutzcau\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA01-068\nAnd they are unimpressed by the Germans' claim that they cannot pay more than\n357million without upsetting their own economy. The Americans say Germany is\nhaving it too good and is not paying for the past or for the present. The Adenauer\nGovernment flatly rejected attempts by the Eisenhower Government to get them to\npay a regular sum towards the cost of keeping American troops in Germany.\nby te Gemas'clain\nha\nmey\nmuu pueosed\nae\nthey cannat pay mowe\n357 nihicn\ntuat t\nMa\nThe\nwithout upselting\ntueir\neconong.\nowu\nGes many\nhaving it too\nmeirccus\nsas\n8\na\npuyig\nfer\ntue paot\ngocal\n\nL\nnot\nfc\nar\ntue\npueaent. The\ntoenauer Goveumeut\nflathy\nnejeced\nabem pts\nte\nEisen howe\nby\nGovenment do\nget\ntheu\nt0\npay\na negulao\ndowaras\ntho\nAmesican\noum\ntrop\nw\nGeomauy.\nName:"
+        }
+    ]
+}

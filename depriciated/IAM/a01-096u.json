@@ -1,0 +1,21 @@
+{
+    "file": "a01-096u.png",
+    "results": [
+        {
+            "name": "easyocr",
+            "text": "A01-096 Sentence Database\nThe Press; many doctors and public were denouncing the proposals: He quoted from\nMy background is doctor of 68, Gaitskell had received: this letter which Mr. a\nlifelong panel doctor. \"[ who has practised medicine for 43 years, chiefly am a as a\nhorrified and amazed by my party's proposal to prostitute the Conservative. I\nam\nhardship to render that service whole principle of the State service and to poor a\npeople.\nRaqlc Tle doclo3 Mala auC WQsR_ Tue +\n1\nauolea fvoua 4\npvopcbala Lle _ ArholliCls3\nGalb le4 Wlicl ar . la@ Aio Kau sea\nllo)\n6 & , 08 &ucuuca\nW4o dodler Qa c4 MA\n0\nV\ncluyf1 fcr 43 saiclwr\nivac'sr0 ~&rc)\nLaA\nif_le9\ndodlcs. Par | 1  4 0\na~ M\nlavv Fea Cex aeva8;4r Gua zed\nA Clua\nPvcsthle Lue_ Pc~ 6'> Pvopcai Lo\nbo *4\npruciplo_ Rul@Q Slcse _ Ae _ aua 04 Llolr _\nAuat 8os kcvdslip Doot 3rbuiQS_ 40\n+0 0 Kex \"\nprople\nName:"
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-096\nThe Press, many doctors and public were denouncing the proposals. He quoted from\nthis letter which Mr. Gaitskell had received: \"My background is a doctor of 68,\nwho has practised medicine for 43 years, chiefly as a panel doctor. \"I am a lifelong\nConservative. I am horrified and amazed by my party's proposal to prostitute the\nwhole principle of the State service and to render that service a hardship to poor\npeople.\nThe Preos, maus doclos auch public woR\ndenouncins Luo pvopcoals. ue quoleol Svom\ntis leue whiou Aur. Gaibshey haca ueceived :\n- i 0 docher of\nu\nMys Bacugucund\n68, who\nnas rvachiaeo meaicing fer 43 ngars, chiefuy\nas A pauel dochcs. M I au C ueelag\nConsesoalise. lan horrifiear cuch cunaged\npeuty's pvopcsal to puoshihute Lue\nuomy\nwhole priuciple of Me\nShate sevice auo\nto nenolas tuod soouios 6 herdship to POOr\npeople.\nName:"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-096\nThe Press, many doctors and public were denouncing the proposals. He quoted from\nthis letter which Mr. Gaitskell had received: \u201dMy background is a doctor of 68,\nwho has practised medicine for 43 years, chiefly as a panel doctor. \u201dI am a lifelong\nConservative. I am horrified and amazed by my party\u2019s proposal to prostitute the\nwhole principle of the State service and to render that service a hardship to poor\npeople.\nThe \u201cPazes | morn Ao clos OnOX pu\u00aeBuc war\nAR WOU Cor bhea_  pympapale. Hee Quolecrd Grom\nPiro MO Wick Mr. Garlb QU La\u00ae uccevenr:\nw My Bock epcruK We QA docker of b&, who\nmune PYaAdm oe wahiarrnr for UZ Aeod, clue f Ly\nas KDA epaxrel cdocker, , | an a Ufetluna\nConsesvamen Lan horn Rer ai\u00ae cana ger\nWYN MA er hyo er9pccal ko pyvemmhile bie\nOKO puucsple of Mir ShokQ_ sespr cd Audcds\nto pen Kas bhok somies, A hevcdolir fo Poor\nP2oyp le. .\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA01-096\nThe Press, many doctors and public were denouncing the proposals. He quoted from\nthis letter which Mr. Gaitskellhadreceived: Mybackgroundis a doctor of68,\nwho has practisedmedicine for 43 years,chiefly as a panel doctor. \"Iam alifelong\nConservative. Iamhorrifiedandamazedby my party's proposaltoprostitutethe\nwholeprinciple ofthe State serviceandtorenderthat servicea hardshipto poor\npeople.\nThe\nPuess, many docas and public woe\nfvom\ndenouncing\nLue\npvopcato.\nte auoted\nlele whian\nMr.\nGaitshey haa neceived:\ntis\no 68,who\nMy\nba cnguund\ndodtar\na\nu\nfor 43 yeas, chiefy\npvactiaed medicine f\nnas\na ifelang\npanel\ndocher.\nan\na\nM\nConsevative. lan\nhornifiea and ana zed\nthe\npan by' pvopcsal to pvcstitute\nmy\nwhole priuciple of the\nState sevice and\nnendes tuat ssvice a hardship to poor\nto\npeople.\nName:"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "file": "a05-099.png",
+    "results": [
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA05-099\nA reference to the reunification of Germany brought a bark of \"Start another war!\"\nfrom Mr. Ellis Smith (Lab., Stoke on Trent S.). Then Mr. Healey launched out on\nhis pet theme of limitation of armaments in Europe. This could, he suggested, be\nlinked with prohibition of the production of atomic weapons in any part of Europe.\nInspection and control would be much easier to establish in these territories.\nA sebser ca to hos\nneuiifcala of Germouy\n4\nBoaugut 9 Roash of\nu Shart anohues was !\nRom\nMr. Euis Suiitu (Las., Sloka ouTvent S.) )\nThe Ms. uealy laucheal cul a Lis pet\nIuama of unitabu of amamewhs i Ewope.\nThis oculo ho suggested, Qx unhect wim\npohisiler\nos hue pvoouctien of atoruie\nwaapan in ay pouh of Ewopa. Wopechier\nmo\ncouwol woula Oa uucis Laous lo\nestabtin m huesa keritoriess\nName:\nu. Maui"
+        },
+        {
+            "name": "easyocr",
+            "text": "A05-099 Sentence Database\nanother  war!\" reference to the reunification of Germany brought a bark of \"Start A\nHealey launched out Trent S.). Ellis Smith (Lab., Stoke from Mr. Then Mr. on on\nhe suggested, be theme of limitation of armaments in Europe. This could, his pet\nwith prohibition of the production of atomic weapons in any of Europe. linked part\nInspection and control would be much easier to establish in these territories.\nAQu1 Fcaa 0 0& ~QRse_ Gerucuy\nuo5 LG @9\nSkar + Qaos u @kas ~ BvcuuSuk ujos\naa 0 u\n5 . ) ( La@. Suclu Cloka - @0 |veu {ui -\nfoc L\nUecUJ L ,\nTLe_ As lauoleo uu Nel\n1\nCwope _ 0& Cr lal _ 08\nCJun C MAbuk , Jua>\nTLA , Q8 Cou Ia LLeo L Ls w: 231 Ra\nsu 9\n0 8 akcuu'c L 6 : Lc < 04 Lo  Pvoqunch'\nPvo\nlapecle 0 ( Curons MuQa pau\n99 PcL\nle Lecs-ulol 0o LCAls Ccuna ~~O Lu U\nHericriejs eolqd LiM Lue+e _\nName:\nMa; U ."
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A05-099\nA reference to the reunification of Germany brought a bark of \u201dStart another war!\u201d\nfrom Mr. Ellis Smith (Lab., Stoke on Trent S.). Then Mr. Healey launched out on\nhis pet theme of limitation of armaments in Europe. This could, he suggested, be\nlinked with prohibition of the production of atomic weapons in any part of Europe.\nInspection and control would be much easier to establish in these territories.\nK *QRhsa_\u2014 ca_ | LI MQ sauna kia Gu AA Germany\nbozagu a lork \u201eSkar\u0142 anobus sog!\npo Mr. \u00a3uis Sm | bad. , Oleta. ca md Ef\nTML\u2014 MAS. bocaly lauuolunoh a) au lua puk\niso Al aan ==. AN GJT wa A masu_Jo = LuropL. .\nTia omls, La >ug4qaiza , G\u0105 niusa wik\npomi ta S lua pooamnowa.. sj abumuia\nwaupam m gy pok of Curoqa, Wwapseuau\nNN  caWel  U0OUJA GQ muchiu Law) te\nA a |  Fwyri tarjkowia a ;\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA05-099\nA reference to the reunification of Germany brought a bark of \"Start another war!\"\nfrom Mr. Ellis Smith (Lab., Stoke on Trent S.). Then Mr. Healey launched out on\nhis pet theme of limitation of armaments in Europe. This could, he suggested, be\nlinked with prohibition of the production of atomic weapons in any part of Europe.\nInspection and control would be much easier to establish in these territories.\neihicairan of Germauy\nA\nefeca\nLo hes\na\na lal\nfhart\nanatue was!\nbansut\nH\nSu\u00fchu (hab., Stoh an Trent s.).\nfom\nEhis\nMo.\nYhe\nto. brealy laucea aud an\nhis pet\naf aucehs\ni\nEuvope.\nof initati\nthe\nThis conla. he oug geotea, be inhec wih\nprotibihan\nos tue proachian of ataruie\nhropeclicn\ni\nweapan\ncaubal\nwecrula\n6uucLaouto\n~\nteritcries.\ncotabin\nbue\n~\nName:\nU. Mai"
+        }
+    ]
+}

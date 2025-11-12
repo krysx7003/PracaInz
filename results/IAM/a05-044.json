@@ -1,0 +1,26 @@
+{
+    "file": "a05-044.png",
+    "reference_text": "Sentence Database A05-044\nThe defeat of the leader of the Progressive party, Dr. Steytler, in Port Elizabeth South,\nannounced immediately afterwards by the United party candidate, Mr. Plewman, left\nthe Progressives deprived of both their chief figures. Dr. Verwoerd and the Leader of\nthe Opposition, Sir de Villiers Graaff, have been returned unopposed. The contests\nwere for 86 seats as 70 Nationalists and 20 United party candidates are unopposed.\nThe defeat of the leader of the Progressive party, Dr. Steytler, in Port Elizabeth South,\nannounced immediately afterwards by the United party candidate, Mr. Plewman, left\nthe Progressives deprived of both their chief figures. Dr. Verwoerd and the Leader of\nthe Opposition, Sir de Villiers Graaff, have been returned unopposed. The contests\nwere for 86 seats as 70 Nationalists and 20 United party candidates are unopposed.\nName:\n",
+    "results": [
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA05-044\nThe defeat ofthe leader ofthe Progressive party,Dr.Steytler,inPort Elizabeth South,\nannouncedimmediatelyafterwardsbytheUnited party candidate,Mr.Plewman,left\ntheProgressives deprivedofboththeir chieffigures.Dr.VerwoerdandtheLeader of\nthe Opposition,Sir de Villiers Graaff, have been returned unopposed. The contests\nwerefor 86 seats as 70Nationalists and20United party candidates are unopposed.\nThe aefeat\nof hhe\not hhe\nleacer\nRoqueore paty, Dr.\nSheytles,\nn Fat\nauncm ced inmediateny\nEisabe\nSoutn,\natewoas\nmihea paty\nby\nme\nccndiaale,\nMr.Plewman,\nMw Rroqueries deprioecd\nlett\nof botn meir\nchiet\nfignes.Dr. Uerwoerd and\no\nme\nOppcsiticn,\nmue leader\nS5\nde\nDiwess\nGraatt,\nBeen\nhave\nnehcd\nmoppesed,\nfair\nThe\nconet\nwee\n86\naeat ao 7o\nlniled puty\nNaianaiohs\n20\ncandi-\nand\ndates\na\nunoppcsed.\nName:\nW.Mani",
+            "time": 54.23579525947571
+        },
+        {
+            "name": "easyocr",
+            "text": "Sentence Database A05-044\nThe defeat of the leader of the Progressive party, Dr. Steytler, in Port Elizabeth South,\nannounced immediately afterwards by the United party candidate, Mr. Plewman, left\nthe Progressives deprived of both their chief figures. Dr: Verwoerd and the Leader of\nthe Opposition, Sir de Villiers Graaff; have been returned unopposed. The contests\nunopposed: were for 86 seats as 70 Nationalists and 20 United party candidates are\nLLA _ aa_(eat TL_ La _ 0( 08 lacles  \n7ot SleyLlrs 7,0648~r Dc .\npoj AJ OQ_\n1\n~clcdte4s Cu oalaka Soxl\nC~Cl~ CA_G^ L\nLilec allebwcrala Peka CctAol halcla _\nLs _ bs\nRvorrla kl Ylalo cL ~ L _ depn'oQ^\nMr\n1\nFgr^_ ~Dr . cls ( uQwo@co L] QoLa\nCa\nLa _ 0 + Gcoc~tlc_ S laeds `~ dR \nLs _\nGroatf , OQr_L 4l~Co^ 0;\nKoss ~Ocporr @ Laur _\n(ez TLe _ 86 70 ccua ^> aa\nWrsr_ lo\nNasie~cios Lulec a 20 a rctk\n~ c-OA\n~occc~Rd coa 0 cu9\nName:\n( . Ac;",
+            "time": 1.7181518077850342
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A05-044\nThe defeat of the leader of the Progressive party, Dr. Steytler, in Port Elizabeth South,\nannounced immediately afterwards by the United party candidate, Mr. Plewman, left\nthe Progressives deprived of both their chief figures. Dr. Verwoerd and the Leader of\nthe Opposition, Sir de Villiers Graaff, have been returned unopposed. The contests\nwere for 86 seats as 70 Nationalists and 20 United party candidates are unopposed.\nTen arfeork of Wea Laos of ha,\nVoge eem porby, De, SMyllkes, ute\nEQ rw We. Gon, i ae ws icketyy\naru cw La oy Hse LARA purl Cerro sereahr |\nie Tan , ol br Rvequsetis AQ PYLOREN\noh MO~. wobr chek Eee. \u201cD- VagpwearK aid\nbas lensasm of bis Oppel | Gr ae\nOitess Graath, nave Sana n nabeCr WA OEPOAL A ,\nWig codades wese. for 86 ano of 396\nNoXewordide eich WO Leecler puty carck -\nAOKM9 er 2_ wi ORACARCY ,\nName:\n",
+            "time": 1.6990132331848145
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA05-044\nThe defeat of the leader of the Progressive party, Dr. Steytler, in Port Elizabeth South,\nannounced immediately afterwards by the United party candidate, Mr. Plewman, left\nthe Progressives deprived of both their chief figures. Dr. Verwoerd and the Leader of\nthe Opposition, Sir de Villiers Graaff, have been returned unopposed. The contests\nwere for 86 seats as 70 Nationalists and 20 United party candidates are unopposed.\nTha aefeat olshe leacies od uhe\nA\nRioquemoe pvts,Dr. Sleytles,\nRat\nEusalehu Souln,\nCasan ncucea am maciabeuy\nafleswevas by uua uuibaa perhs ceualotale,\nMrRsman, lesh Lur Rropanies -\ndepnioeer\naf Bobu meir chiet figues. Dr. vowoerd cuach\nhua leades ot la Opperitier, Si cle\nViuoss Graatt,\nhaur boen uehlo moppese o,\nThe coulets wOR fer 86 aeals aa 70\nNaieatios anol 20 Luiilea patu caudi-\nchatas cua mopecaed.\nName:\nU.Mari",
+            "time": 1.9716205596923828
+        }
+    ]
+}

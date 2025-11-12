@@ -12,6 +12,7 @@ from utils.path import is_valid
 
 RAW_DIR = "./dataset/raw"
 CLEAN_DIR = "./dataset/clean"
+RES_DIR = "./dataset/ground_truth"
 FONTS_DIR = "/usr/share/fonts/truetype/"
 
 # A4 w 300dpi
@@ -120,22 +121,19 @@ class TextExtractor:
 
         page_texts = self.split_pages(full_text)
 
-        pages_json = []
         page_id = 0
         for page in tqdm(page_texts, desc="Przetwarzanie stron:", total=len(page_texts)):
+            if page.strip() == "":
+                continue
+
             page_file = f"page_{book_id}_{page_id}.png"
             page_path = os.path.join(CLEAN_DIR, page_file)
+
+            res_file = page_file.replace(".png", ".txt")
+            res_path = os.path.join(RES_DIR, res_file)
             self.generate_img(page_path, page)
 
-            page_data = {
-                "file_name": page_file,
-                "book_name": self.book_name,
-                "book_id": book_id,
-                "page": page_id,
-                "text": page,
-            }
+            with open(res_path, "w") as output:
+                output.write(page)
+
             page_id += 1
-
-            pages_json.append(page_data)
-
-        return pages_json

@@ -1,0 +1,26 @@
+{
+    "file": "j010.tiff",
+    "reference_text": "Courtesy, Periodical Publishing Co.\n\nA TYPICAL ALLEY SCENE IN HONG KONG SHOWING NATIVE MEN AND WOMEN SORTING AND STRIPPING RATTAN.\n\n\t6\n",
+    "results": [
+        {
+            "name": "paddle",
+            "text": "\n\n\n\u957f\u548c\u6c99\u53d1\u552e\n\u751f\u5fc3\u6587\n\u56fd\u8bd5\u996e\u4e4b\u7f8e\u6742\u4e8b\nCourtesy,\nPeriodical\nPublishing\nCo.\nA\nTYPICAL\nALI.EY\nSCENE\nIN\nHONG\nKOXG\nSHO\nWING\nNATIVE\nMEN\nAND\nWOMIEN\nSORTING\nAND\nSTRIPPING\nRATTAN.\n6",
+            "time": 19.494534254074097
+        },
+        {
+            "name": "easyocr",
+            "text": "0\n1\nb\nCourtesy , Periodical Publisking Co.\nSHIOWING NAZIVE TYPICAL ALLEY SCENE IV HONG Koxd MEN AND\nSORTING WOMEN ANJ) STRIPPING RATTAN",
+            "time": 0.4200901985168457
+        },
+        {
+            "name": "pytesseract",
+            "text": "Courtesy, Periodical Publishing Co.\nMEN AND\nNATIVE\nSHOWING\nWOMEN SORTING AND STRIPPING RATTAN,\nKONG\nSCENE IN HONG\nA TYPICAL ALLEY\n",
+            "time": 0.2649405002593994
+        },
+        {
+            "name": "doctr",
+            "text": "-\n$\nCourtesy, Periodical Publishing Co.\nA TYPICAL ALLEY SCENE IN HONG KONG SHOWING NATIVE MEN AND\nWOMEN SORTING AND STRIPPING RATTAN.\n6",
+            "time": 1.5205206871032715
+        }
+    ]
+}

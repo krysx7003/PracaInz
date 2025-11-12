@@ -1,0 +1,26 @@
+{
+    "file": "a01-102u.png",
+    "reference_text": "Sentence Database A01-102\n\u201d After a lifetime of helping others and healing the sick, my considered opinion is that\nanybody supporting the increased charges is a wicked, old -.\u201d Mr. Brown went on:\n\u201d We are dealing with a noble edifice which needs an imaginative architect to improve\nit, but it has got a quantity surveyor. We have descended from the real problems to\nfiddling about with bills of cost.\n\u201d After a lifetime of helping others and healing the sick, my considered opinion is that\nanybody supporting the increased charges is a wicked, old -.\u201d Mr. Brown went on:\n\u201d We are dealing with a noble edifice which needs an imaginative architect to improve\nit, but it has got a quantity surveyor. We have descended from the real problems to\nfiddling about with bills of cost.\nName:\n",
+    "results": [
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-102\n\u00bb After a lifetime of helping others and healing the sick, my considered opinion is that\nanybody supporting the increased charges is a wicked, old -.\u201d Mr. Brown went on:\n\u00bbWe are dealing with a noble edifice which needs an imaginative architect to improve\nit, but it has got a quantity surveyor. We have descended from the real problems to\nfiddling about with bills of cost.\n- 0 a bik o\u0142 luitpmg da a\nkedmm\u0105 Lu ziel, my CoordDaA opimam o Luck\nMADONNY >uppochk m\u0105 Hu Meuia>ah OU\u0105ta bo A\nPORSYCY. | , olA -. k u. duo uma m \u201eML\noma. dzali\u0105 wilk a uabi_ aaa fica_ Wluchu\n\"LND au m aqi uohve_ arctua Leh to uu-prowm_\nw, buk W La gol a quauhly awbvLgo. W\u0119_\ntosQ. ALoczuacoh feu ba mai pvabcimuso bo\n_aaltug abomk Losu bio af) Cca\u0142,\nName:\n",
+            "time": 1.3919286727905273
+        },
+        {
+            "name": "easyocr",
+            "text": "A0l-102 Sentence Database\nAfter a lifetime of helping others and healing the sick, my considered opinion is that 99\nanybody supporting the increased charges is a wicked, old went Mr. Brown on:\ndealing with a noble edifice which needs an imaginative architect to improve We are 99\nWe have descended from the real problems to quantity surveyor. it, but it has\ngot a\nfiddling about with bills of cost.\nLelpils Oluo )3 Llehaa 04 Oo\nAhe>\nopiuicu Luak ~ ccuoido)aa\nPcu ) Lue kecuuucS\nMss\nasrsoouu   supporl'cg chcuag 1 Hae ' Curascd a\nlue B,cuuu MQAll hr .\nC Cuea old w{ 4\n1\nM licu Qai fice  aealis will uabl _\nae 0\nLeck Mu-pvour _ aca8i ualive +o acli\n~QQo 3 0\nUo 9auk4 aLuQycr 4\nBuk Lao 0 ga4\n1\npvc8leas Lue Lo Mecli\nfvcun CQo CQudQa uase\nlo;lu 9p Bru Cce{\nfaals abau\nName:",
+            "time": 1.6974613666534424
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA01-102\n\" After a lifetime of helping others and healing the sick, my considered opinion is that\nanybody supporting the increased charges is a wicked, old -.\" Mr. Brown went on:\n\"We are dealing with a noble edifice which needs an imaginative architect to improve\nit, but it has got a quantity surveyor. We have descended from the real problems to\nfiddling about with bills of cost.\nAftes a lite rime of helpino\noless ano\nI\ncansidesad opinian is lhat\nheai3\nte sich,\nmy\nHe in Cueasad\nchages is a\nangloay supportiug\nM\nto. Bocwon\nment an: n lwe\nwiched, ola-.\"\na nable eaifice whic\ndealirg\nwihh\naue\nneedrs an inagiuative aochilech to in-poove\nwe\nit, but it hao gat a quautihy -urveyer.\ntue neal prceblems to\nfrcu\nhase\ndeo cendea\ncoidu\nbils af cost.\nfiaaling\nabauut\nName:",
+            "time": 21.780563592910767
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-102\n\"After a lifetime of helping others and healing the sick, my considered opinion is that\nanybody supporting the increased charges is a wicked, old -.\" Mr. Brown went on:\n\"We are dealing with a noble edifice which needs an imaginative architect to improve\nit, but it has got a quantity surveyor. We have descended from the real problems to\nfiddling about with bills of cost.\nAtte A ltehue\nauch\nlu\not helping oluess\nhealis Lue sicu, niy causioead opiuicu : Lhak\nausbooy supporting muincueased chouges io a\nwicued olo - a Mr. Bicou uent cas : u we\n/\naue dealis wihh a uable eaifice whion\nnelots aa imagiualive aschilect to uu-proue\n2t, but t has gat a quaubits suroeyer. We\nhawe cles ceudod frou hue ueal pvablems to\nabaut Loidu\nbins af cost.\nfaalins\nName:",
+            "time": 2.2356619834899902
+        }
+    ]
+}

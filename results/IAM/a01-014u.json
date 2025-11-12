@@ -1,0 +1,26 @@
+{
+    "file": "a01-014u.png",
+    "reference_text": "Sentence Database A01-014\nSir Roy\u2019s United Federal Party is boycotting the London talks on the Protectorate\u2019s\nfuture. Said Mr. Nkumbula last night: \u201dWe want to discuss what to do if the British\nGovernment gives in to Sir Roy and the talks fall through. There are bound to be\ndemonstrations.\u201d Yesterday Sir Roy\u2019s chief aide, Mr. Julius Greenfield, telephoned\nhis chief a report on his talks with Mr. Macmillan at Chequers.\nSir Roy\u2019s United Federal Party is boycotting the London talks on the Protectorate\u2019s\nfuture. Said Mr. Nkumbula last night: \u201dWe want to discuss what to do if the British\nGovernment gives in to Sir Roy and the talks fall through. There are bound to be\ndemonstrations.\u201d Yesterday Sir Roy\u2019s chief aide, Mr. Julius Greenfield, telephoned\nhis chief a report on his talks with Mr. Macmillan at Chequers.\nName:\n",
+    "results": [
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA01-014\nSir Roy's United FederalParty is boycotting the London talks on the Protectorate's\nfuture.SaidMr.Nkumbulalastnight:\u201dWe wanttodiscuss whattodoiftheBritish\nGovernmentgivesintoSirRoyandthetalksfallthrough.There areboundtobe\ndemonstrations. YesterdaySirRoy'schiefaide,Mr. Julius Greenfield,telephoned\nhischiefareportonhistalkswithMr.MacmillanatChequers.\nPaty\nw\nRayo\nWnited\nFedesal\nSi\ntatks an t\ntue\nbaycalting\nte\nLaudcn\nFolechorale's\nFubwve.\nSaid\nMr. Nuubula\nlast\nnight:\nWe wut\nto\ndiscuos what to\nM\ndo if the\nBnitioh\ndemcnshraticus.\nM\nyeoleday\nsir\nRay's\nchies\naide,\u03bcr.\naiet\nJulin\nGueentield,\nhis\ntelepucued\nhis\ntalk wit \nMr. Macmiucn\nneport\nou\na\nat\nCheamer.\nName:",
+            "time": 51.987544775009155
+        },
+        {
+            "name": "easyocr",
+            "text": "A01-014 Sentence Database\nSir Roy's United Federal Party is boycotting the London talks on the Protectorate'$\nWe want to discuss what to do if the British 95 Nkumbula last night: future. Said Mr.\nare bound to be and the talks fall through: There Roy Government gives in to Sir\nJulius Greenfield; telephoned demonstrations \" Yesterday Sir Roy's chief aide, Mr:\nhis chief a report on his talks with Mr. Macmillan at Chequers.\nPeslt 4 Teelesa (\n~Ros luu kal\nS 9\nkalkc > Lle _ baucall; Leudcx J6q _ ~4\nO\nNluuxbula Caia ~Yvoleclorake'. Auhiue _ Mr .\nuscu lal 1 uqk aia cllba last We_ 60\nw\nM\n;$ 1 BL,4 deuu@na kal; cuo, iue _\ndo\nTon\" cliia 0 Yeoleadcy\n', S ~ aicle Av\nacie $ GuoewAelal (elq_lcues hia\nJulic\n7\nMacuuUa aia Aalh li a Mr .\nnpoA 0 O\nClQ_cllop\nName:",
+            "time": 1.521331787109375
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-014\nSir Roy\u2019s United Federal Party is boycotting the London talks on the Protectorate\u2019s\nfuture. Said Mr. Nkumbula last night: \u201dWe want to discuss what to do if the British\nGovernment gives in to Sir Roy and the talks fall through. There are bound to be\ndemonstrations.\u201d Yesterday Sir Roy\u2019s chief aide, Mr. Julius Greenfield, telephoned\nhis chief a report on his talks with Mr. Macmillan at Chequers.\nCle Pons Unitot Tectosal \u201cPosby +\nbowcatlh wa, dual Lenclen latks on bre\nFolectorates fulrue_. Laick Mr. Miawbuloar\nloo wreaks 4 We werk 40 diacures whak to\nae oh en Belch) Aconshobiann \u00a7\nWeolerday Sir \u201cRay's cual aaa, Hr,\nJatin Gurenliglr, tempor kis anual\n[oN ve por cM his totle vous Me. Mac wu Vc\nods CUR mrp -\nName:\n",
+            "time": 1.2876572608947754
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-014\nSir Roy's United Federal Party is boycotting the London talks on the Protectorate's\nfuture. Said Mr. Nkumbula last night: \"We want to discuss what to do if the British\nGovernment gives in to Sir Roy and the talks fall through. There are bound to be\ndemonstrations.\" 99 Yesterday Sir Roy's chief aide, Mr. Julius Greenfield, telephoned\nhis chief a report on his talks with Mr. Macmillan at Chequers.\nluuibol Tedlesal Poohyis\nSir Roys\nbaycalhing Jue Louolcu laks Ou Lue\nRolechorales fuhue. Saich Mr. Numbulor\nlast\nWe wout to ais\nto\nnight: M\ncuos what\na\ndo id lue Bn'hish demonohations.\nVeolesday Sis Roy's chief aice, Mr.\nJutin Gueeufielod, telepucuesh his cuiet\na weport Ou his talk wilu Mr. Macmiuau\nat\nCueauop a\nName:",
+            "time": 1.8687453269958496
+        }
+    ]
+}

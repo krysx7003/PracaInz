@@ -1,0 +1,26 @@
+{
+    "file": "g024.tiff",
+    "reference_text": "18 HISTORICAL SKETCHES OF\n\nyears, scouring the Gulf coast from Florida to Vera Cruz, until the curtain of the drama was lifted for him, to find that seventeen months previously his long-sought chief had been lying in the depths of the Mississippi, and that a wretched remnant only of that proud host, which he had last seen in glittering armor on the coast of Florida, had reached Mexico after undergoing indescribable perils and privations.\n",
+    "results": [
+        {
+            "name": "paddle",
+            "text": "18\nHISTORICAL\nSKETCHES OF\nscouring\nthe\nGulf\ncoast\nfrom\nFlorida\nyears,\nto\nVera\nCruz,\nuntil\nthe\ncurtain\nof\nthe\ndrama\nwas\nlifted\nfor\nhim,\nto\nfind\nthat\nseventeen\nmonths\npreviously\nhis\nlong-sought\nchief\nhad\nbeen\nlying\nthe\ndepths\nof\nthe\nMississippi,\nand\nthat\n1n\na\nwretched\nremnant\nonly\nof\nthat\nproud\nhost,\nwhich\nhe\nhad\nlast\nin\n-\nglittering\nseen\narmor\non\nthe coast\nof\nFlorida,\nhad\nreached\nMexico\nafter\nundergoing\nindescribable\nperils\nand\nprivations.\n.",
+            "time": 38.49890637397766
+        },
+        {
+            "name": "easyocr",
+            "text": "18 HISTORICAL SKETCHES OF\nyears, scouring the Gulf coast from Florida to\nVera Cruz, until the curtain of the drama was\nhim, lifted for find that seventeen months to\npreviously his long-sought chief had been lying\nMississippi, and the depths that of the in\na\nonly that proud host, wretched of remnant\nhe had last seen in glittering which armor on\nthe coast of Florida, had reached Mexico after\nand privations. undergoing indescribable perils",
+            "time": 0.7850222587585449
+        },
+        {
+            "name": "pytesseract",
+            "text": "18 HISTORICAL SKETCHES OF\nyears, scouring the Gulf coast from Florida to\nVera Cruz, until the curtain of the drama was\nlifted for him, to find that seventeen months\npreviously his long-sought chief had been lying\nin the depths of the Mississippi, and that a\nwretched remnant only of that proud host,\nwhich he had last seen in glittering armor on\nthe coast of Florida, had reached Mexico after\nundergoing indescribable perils and privations.\n",
+            "time": 0.4515073299407959
+        },
+        {
+            "name": "doctr",
+            "text": "18\nHISTORICAL SKETCHES OF\nyears, scouring the Gulf coast from Florida to\nVera Cruz, until the curtain of the drama was\nlifted for him, to find that seventeen months\npreviously his long-sought chief had been lying\nin the depths of the Mississippi, and that a\nwretched remnant only of that proud host,\nwhich he had last seen in glittering armor on\nthe coast of Florida, had reached Mexico after\nundergoing indescribable p\u00e8rils and privations.",
+            "time": 1.4154016971588135
+        }
+    ]
+}

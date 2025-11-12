@@ -1,0 +1,21 @@
+{
+    "file": "a05-089.png",
+    "results": [
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA05-089\nThe early speakers in the debate each severely rated the speech of his predecessor.\nThese strictures were all too well justified. We started with the plaintive wailings\nof Mr. Healey, \"Shadow\" Foreign Secretary, described by Mr. Godber, Minister of\nState, Foreign Office, as \"pedantic and obscure on Berlin, damaging and obscure on\nthe Congo.\" In turn, Mr. Godber was censured by Mr. Shinwell, former Labour\nDefence Minister, for having read the House an ill-prepared essay.\nTha easly >peales Ls 5\ndebale eacu\nPRORSUS vaeol lue speeou\nof uis pugolecener.\nThesa shichues WQR al hoo weu jukhed.\nWo shorked wihu Lua plcinlive waitip\nM\n08 Mr.\nI A\nLuauey,\nShadew\" teveisu Secselony\ndeocribod\nI\nbu Mur. Goolbes Minisler of\nShale, Tovaitu oftica, as peclauke anch\nabscua ouA Boytin, dauag-g cunal obocue\nS lu\nom Lue Ccugo.\nhuru Mr. boaler was\ncouowea bu Mr. suinweu, fermes Lalour\nDefoncs\nmiioles, fer howing ueacl lua\nName:\nU.Mal"
+        },
+        {
+            "name": "easyocr",
+            "text": "Sentence Database A05-089\nthe speech of his predecessor. The early speakers in the debate each severely rated\nplaintive   wailings We started with all too well justified. These strictures the\nwere\nof Mr. Healey, \"Shadow\" Foreign Secretary, described by Mr. Godber, Minister of\n'pedantic and obscure Berlin, damaging and obscure State, Foreign Office, as 99 on on\nLabour the Congo. In turn, Shinwell, Godber censured Mr. former by Mr . 99 was\nDefence Minister, for having read the House an ill-prepared essay.\n@cJls TLs  dQaue Pprcllda\nQCLCL L\n0c 28Dq JUa 5, Ls pueccRancy_ valol Jprqol\n,chueo feal Tlaa 2  Juk uDQl Luqjr Ql koo\nwailc& M'lu\nplcuu / {ue Us9 - Lue okeLoo\nAc' Lircu Lea 08\nU Secae fevex & Ar . Sua clow\nA\nJicudAo) A _ aeocyleo 04 b1s Goolbos\n@Afas , peclcuu k'c T2ee\nSLaua _ cuo\n9 4 1\n8Q) L oBzcue @Qscua 48\ndcua Cuo C\n1\n4 L2 Luu GoaDu Ccus0 . L\nAr . O< Lc\nLaBou Su~ Luqu 54 Av _ J~vuo) C~ualro\nMis 01e)  G~ ~ets09  lcuu~ 9 Lu\n^aok\nName:\nu . Acuu"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A05-089\n'The early speakers in the debate each severely rated the speech of his predecessor.\nThese strictures were all too well justified. We started with the plaintive wailings\nof Mr. Healey, \u201dShadow\u201d Foreign Secretary, described by Mr. Godber, Minister of\nState, Foreign Office, as \u201dpedantic and obscure on Berlin, damaging and obscure on\nthe Congo.\u201d In turn, Mr. Godber was censured by Mr. Shinwell, former Labour\nDefence Minister, for having read the House an ill-prepared essay.\nTu doly sp\u0141alsm u Mu peDON <acu\nALORTUJ yol\u0105h |Ma JEDLa, of Us pat\"\nTMaa_ \u201eMmchmze wWL a4 koo uu jwhhiea,\nLUDAL obcnria \u201edm bs ploaumuliuq NWEA\noj Mu. bsaluwy | a Skacew | Tfewel pu Saczakon,\naLocnezsh by Mw. Godbor , Musi; of\nSkoda, Tfowaatu ofiloa, aa \u201epedauh\u0119 am\nobscwa_ mu Adas , AuiafN\u0105q and obocowm\u0105\nom  lnq, Ccauqo. u Mu Mer. Goabuy wu\nCANNAW LOAN by SGH SPWSYCYCSA farm0oy La bQau-\n\"p aja aan M GARD | (ow WSTOWSC\u0104 agah lmg\nName:\nu. Aa\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA05-089\nThe early speakers in the debate each severely rated the speech of his predecessor.\nThese strictures were all too well justified. We started with the plaintive wailings\nof Mr. Healey, \"Shadow\" Foreign Secretary, described by Mr. Godber, Minister of\nState, Foreign Office, as \"pedantic and obscure on Berlin, damaging and obscure on\nthe Congo.\" In turn, Mr. Godber was censured by Mr. Shinwell, former Labour\nDefence Minister, for having read the House an ill-prepared essay.\nT\neohy>pealesinh\ndebae\neacm\nof\nmis pueceeeseco.\neveh vaea\nhe speean\nTheo\ntichues\nwese\ntoo wel:\njuchhiea.\naM\nwoihn te picintive wailingo\nWa sharhed\nad\nFareisu Secueany,\nto. bealey, n Shadow\"\nMo. Goolber ,\nmne of\ndeocribed\nShale, Favaitu\nBesin, daa gg cd obocue\nabcue\n~\nCaugo.\nLme\nU\nur\nmou Mo.\nGoaber wa\n\u221e~~\nho. Slinweu, fcrues\nbu\nLabaur\ncemowla\npefemc\nminiolen, far\nhawu 9\nneaa\nua\nName:\nU.Mauli"
+        }
+    ]
+}

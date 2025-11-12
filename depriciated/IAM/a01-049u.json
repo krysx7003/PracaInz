@@ -1,0 +1,21 @@
+{
+    "file": "a01-049u.png",
+    "results": [
+        {
+            "name": "easyocr",
+            "text": "A01-049 Sentence Database\nSenator Allen Ellender; of Louisiana, sparked off the opposition by telling a television\nWashington gossip\" that Weaver once had Communist affilia- audience it was current 95\ntions. The Senate Banking Committee; which is headed by another Southern Senator\ntoday in closed session to discuss Weaver's ap- Willis Robertson; of Virginia met\npointment. Senator Robertson later disclosed he had sent Kennedy a letter to Mr.\nsaying he had received several complaints about Weaver's loyalty\nSeualor 0f louziaxa \u20aclQcq) ale_\nkh 9 bX\n08 opcuhea ppoeH'o @1 Lue _\n{4 cuwv@ul audi encQ_ leleoisic \nLa^ 4\nLaal 4 Lcclue) 9036.p Ls Aal OLCQ _\nlla. Lol\nk~e Bu 7e_\nSeuecke _ @llilicF\"co _\nCcnuuuunis\nanole > 60 Wlc\n@exxcihbeo _ 1 Lqadecl\nliuieuc ^RoRobso 04\nSuac ~ SexlAoJu\n4 c4 sol\nclopeal Jq03  #oolceu Uireiu`a\nT\nSeualcr appciii uocct  _\nWeates \" > alscl6?\nllle Le haa xisclcera\naeu Raqosleon (atos 0\nuea urCe Le_ vay-9 4aa\nVouacy +o Mr .\nName:"
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-049\nSenator Allen Ellender, of Louisiana, sparked off the opposition by telling a television\naudience it was \"current Washington gossip\" that Weaver once had Communist affilia-\ntions. The Senate Banking Committee, which is headed by another Southern Senator\nWillis Robertson, of Virginia met today in closed session to discuss Weaver's ap-\npointment. Senator Robertson later disclosed he had sent a letter to Mr. Kennedy\nsaying he had received several complaints about Weaver's loyalty.\nSenahor Auen Euendo od louisiana,\n)\nspohed off Lue aposition by Leuiug A\ni\ncurveut\nlelevisien auaience\nwas a\ntuat\nWeave once hacl\nWiastigton Somoip\"\nThe Sanat\nComuunis aiciabias.\nBeuling\nCommites, wuicn io hoadec bo anolue)\n-\nSoubresn Sender\nwiuieur Rolobson, of\nUirginia- uat toolass iu closec seosicuto\nWeaues's appciutmant. Seuaos\ndiocues\nRobotson latos aisclosect he hacl seut a lelle\nhe uach necived\nto Mr. Keunaoly paying\nName:"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-049\nSenator Allen Ellender, of Louisiana, sparked off the opposition by telling a television\naudience it was *current Washington gossip\u201d that Weaver once had Communist affilia-\ntions. The Senate Banking Committee, which is headed by another Southern Senator\n- Willis Robertson, of Virginia - met today in closed session to discuss Weaver\u2019s ap-\npointment. Senator Robertson later disclosed he had sent a letter to Mr. Kennedy\nsaying he had received several complaints about Weaver\u2019s loyalty.\nSenadkor MUCH CUugucas , of lo srr ana ,\nspuhked of jus opposthon by LeWrarra, Ar\nlelo pinren aucienrcea th Woe a curv Cue\nWrosrinton aorote Hak Weavd once. Nach\nCts aidak\u00ab.. Phe Se-ot- \u201cBer hey\nQrrvntea Whar Lo Laadack by and ed\nSouder Sarcdbor \u2014 Withiea \u201cCokminen , ot\nDurqrunrn - Lust ook Le cleaacr soereu to\nMocr~es Woaaues's apecmwuwe war. Gouoberr\nRaMetson Lalas Aisclesacdd be anv aeuk a WUD\nto Me. ans POpLUA lea Wad urcor ved\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "A01-049\nSentenceDatabase\nSenator Allen Ellender,of Louisiana, sparkedoff the opposition by telling a television\naudience it was\"current Washington gossip\u201d that Weaver once had Communist affi lia-\ntions.The Senate Banking Committee,whichis headedbyanother Southern Senator\n-Willis Robertson,of Virginia-mettodayinclosedsession to discuss Weaver's ap-\npointment. Senator Robertsonlater disclosedhehadsenta letter to Mr. Kennedy\nsaying he hadreceived several complaints about Weaver's loyalty.\nSenator\nlouisiana,\nEendes,os\nAuen\ntehing a\nof\nby\ntue\noppositian\nopahed\n\u6c5f\ntelevisian\nandience\nwas\nu cuent\n4\nonce\nhad\nWhastington gossip\ntuat\nwcave\nSenate Banhing\nThe\naftiliatias.\nCammnnist\nandtues\nwicn\n5\nheaded\nb\nCanimitee,\nRobetsan,of\nSauthern\nSendtar - wiwicn\nclosed sessicn to\nVirginia- met\ntodaus\nw\nSeuatar\nWeaves's appciintmeut.\ndiocnes\nseut a lelle\nRabetson\nhe had\nlates\ndioclcsed\nsaying\nhe uad weceived\nto Mr. Keuedy\nName:"
+        }
+    ]
+}

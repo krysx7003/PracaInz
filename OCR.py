@@ -4,6 +4,7 @@ import os
 from enum import StrEnum
 
 import easyocr
+import numpy as np
 import pytesseract
 from doctr.io import DocumentFile
 from doctr.models import ocr_predictor
@@ -13,13 +14,6 @@ from PIL import Image
 from utils.path import is_valid
 
 IMAGE_PATH = "./dataset"
-
-EASY_RES = "./results/easy_result.csv"
-DOCTR_RES = "./results/doctr_result.csv"
-TES_RES = "./results/tesseract_result.csv"
-PADDLE_RES = "./results/paddle_res.csv"
-
-HEADER = "name,{cer_res},{wer_res}\n"
 
 
 class Ocr_name(StrEnum):
@@ -43,7 +37,6 @@ class Ocr:
         easy_text (list[str]): Raw output of easyocr.
     """
 
-    result_file: str
     plain_text: str
     text: str
     name: str
@@ -59,41 +52,29 @@ class Ocr:
         else:
             raise Exception(f"The ocr: {name} is not supported")
 
-        if self.name == Ocr_name.TESSERACT:
-            self.result_file = TES_RES
-
         if self.name == Ocr_name.EASY:
-            self.result_file = EASY_RES
-            self.reader = easyocr.Reader(["pl"])
+            # self.reader = easyocr.Reader(["pl"])
+            self.reader = easyocr.Reader(["en"])
 
         if self.name == Ocr_name.DOCTR:
-            self.result_file = DOCTR_RES
             self.model = ocr_predictor(
                 det_arch="db_resnet50", reco_arch="crnn_vgg16_bn", pretrained=True
             )
 
         if self.name == Ocr_name.PADDLE:
-            self.result_file = PADDLE_RES
+            # self.paddle = PaddleOCR(
+            #     lang="pl",
+            #     use_doc_orientation_classify=False,
+            #     use_doc_unwarping=False,
+            #     use_textline_orientation=False,
+            # )
             self.paddle = PaddleOCR(
-                lang="pl",
                 use_doc_orientation_classify=False,
                 use_doc_unwarping=False,
                 use_textline_orientation=False,
             )
 
-        with open(self.result_file, "w") as f:
-            f.write(HEADER)
-
-    def append_csv(self, line: str):
-        """Appends {line} to self.result_file.
-
-        Args:
-            line (str): Csv formatted line.
-        """
-        with open(self.result_file, "a") as f:
-            f.write(line + "\n")
-
-    def recognize_image(self, image_name: str, input_dir: str = "clean"):
+    def recognize_image(self, image_name: str = "", input_dir: str = "clean"):
         """Uses one of the supported ocr models (specified by var self.name) to read content of the file.
 
         Args:
@@ -103,15 +84,18 @@ class Ocr:
         Raises:
             Exception:  If ./datset/{input_dir}/{image_name} is invalid.
         """
-        image_path = os.path.join(IMAGE_PATH, input_dir, image_name)
-        # image_name
+        if not image_name == "":
+            image_path = os.path.join(IMAGE_PATH, input_dir, image_name)
+        elif not input_dir == "clean":
+            image_path = input_dir
 
-        if not is_valid(image_path):
+        if not is_valid(image_path, ".png") and not is_valid(image_path, ".tiff"):
             raise Exception(f"The path: {image_path} is invalid")
 
         if self.name == Ocr_name.TESSERACT:
             image = Image.open(image_path)
-            self.plain_text = pytesseract.image_to_string(image, lang="pol")
+            # self.plain_text = pytesseract.image_to_string(image, lang="pol")
+            self.plain_text = pytesseract.image_to_string(image)
 
         if self.name == Ocr_name.EASY:
             self.easy_text = self.reader.readtext(image_path, paragraph=False)
@@ -121,7 +105,12 @@ class Ocr:
             self.result = self.model(img)
 
         if self.name == Ocr_name.PADDLE:
-            self.result = self.paddle.predict(input=image_path)
+            if image_path.endswith(".tiff"):
+                image = Image.open(image_path)
+                image_array = np.array(image)
+                self.result = self.paddle.predict(image_array)
+            else:
+                self.result = self.paddle.predict(input=image_path)
 
     def format_text(self):
         """Formats Ocr.plain_text to remove stanza breaks."""
@@ -177,5 +166,4 @@ class Ocr:
         return self.text
 
     def get_name(self) -> str:
-        """ """
         return self.name

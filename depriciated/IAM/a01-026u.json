@@ -1,0 +1,21 @@
+{
+    "file": "a01-026u.png",
+    "results": [
+        {
+            "name": "easyocr",
+            "text": "A01-026 Sentence Database\nMR. IAIN MACLEOD, the Colonial Secretary, denied in the Commons last night that\nnegotiations Northern Rhodesia's future. The Northern there have been secret On\nthe two main settlers' parties by Rhodesia conference in London has been boycotted\nthe United Federal Party and the Dominion Party: But representatives of Sir Roy\nWelensky, Prime Minister of the Central African Federation, went to Chequers at the\nweek-end for talks with Mr. Macmillan.\n(or4 / Colcmia| Secue  MACLEOD\niain Aue _ M .\nlastuiew Lial dquleal\nCcmuuucuo Lr _\n1\nneaoh'acua\naecnea beqL Ller 01\nLaur_\nNor|hesy Tle _ Rlodosia\" GAve\n8 No rLieze\nccu frjeu CQ _ QsQaJy Lao Leudlcx Rhocle&'@\n&ulrss ' pcyl'do\nbays colted Lulclll Flo wS Ae _\nLheDuiliicy aud Feaoa ( Tesl lucilea\nile_\nQQos\nPosla . Gc o@ nepueaeulati urg But\nLu _ CoulvcU of Ai-iale) Pcur Ax lcleL\nal Teclosatlels Aaca Clectes) 40\nLr4\nMac u Ucc~ talk) wilu\nMv . (oc Lrqsa Hxe _\n-eud\nName:"
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-026\nMR. IAIN MACLEOD, the Colonial Secretary, denied in the Commons last night that\nthere have been secret negotiations on Northern Rhodesia's future. The Northern\nRhodesia conference in London has been boycotted by the two main settlers' parties\nthe United Federal Party and the Dominion Party. But representatives of Sir Roy\nWelensky, Prime Minister of the Central African Federation, went to Chequers at the\nweek-end for talks with Mr. Macmillan.\nAur. IAIN\nMACLEOD, puo Colonial Secuelary,\naeuiea i hue Comucus last uight uat\nLuoe haue been secnet negohialiens a\nNorben Rhoderia's fuhve. Te Norbhesy\nRhoclesia ceuleseuce u Loudleu has lo00M\nbaycotted by hue two uau selles paution -\nthe lmihech Fedeal Porty auch tue Douinion\nPosky. But represeularise. of Sir Roy\nwelens ho,Prime Minisle of ha Coubal\nMhican Teceation, weut to Cuaques at\nHue weeh-eud for talho wilu Mr. Mac mileu\nName:"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-026\nMR. IAIN MACLEOD, the Colonial Secretary, denied in the Commons last night that\nthere have been secret negotiations on Northern Rhodesia\u2019s future. The Northern\nRhodesia conference in London has been boycotted by the two main settlers\u2019 parties\n- the United Federal Party and the Dominion Party. But representatives of Sir Roy\nWelensky, Prime Minister of the Central African Federation, went to Chequers at the\nweek-end for talks with Mr. Macmillan.\nWar, IM MACLEOD, bao Colemiad Secwrbowry ,\nB22 Ww Wee Comiuncis lack wighh Mae\nLine kavoe kegun accwrk ur_qohakensn om\nMores \u201cRhodowals fibve. Te Nowbhay\nRhooteoiam ceunkesenca Ww Lercler hoo RsQam\nvow cottad by Ma two Vitra wmibhom eed\nbue UWiihecr Feagalt \u201cPivty anh Ha Douwon\nPosty. \u201cBuk weparserkorive, of Lr \u2018Row\nWes by , Powe Minides of ba Gubah\nMica, Tererotte. , wer to Clhaquos ob\nbrea weak -enh [we talks wt ay My. Mac wi Wor '\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "SentenceDatabase\nA01-026\nMR.IAINMACLEOD,theColonial Secretary,deniedinthe Commonslastnightthat\nthere have been secret negotiations on Northern Rhodesia'sfuture. The Northern\nRhodesiaconferenceinLondonhasbeenboycottedbythetwomainsettlers'parties\n-the UnitedFederalPartyandtheDominionParty. ButrepresentativesofSirRoy\nWelensky,PrimeMinisteroftheCentralAfricanFederation,wenttoChequersatthe\nweek-endfortalkswithMr.Macmillan.\nSecuetany,\nM. IAIN\nMACLEOD,\nColcnial\nue\nnigut mat\ndeniea\nu\nlast\nkue\nCcnnmcus\nbeeu\nwegotiaticns an\ntoe\nhave\naecnet\nRhodea'\u3002\nfutie.\nThe Narthesy\nNorteon\nconserence in\nhas\nleeen\nRhodesia\nLaudan\ntwo main\nxettles paties-\nbaycatted\nte Douinicn\nFedeal\nPaty aud\nthe\nlmited\nSir Ray\nPaty. But\no\nnepueseutatives\nMinisdes of te ceutad\nWeewhy,Prime\nAfrican\nFedeatian, went\nto\nCheques at\nfar\ntatks witn Mr. Macmilan.\ntue\nweeh-end\nName:"
+        }
+    ]
+}

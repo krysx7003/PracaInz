@@ -1,0 +1,21 @@
+{
+    "file": "a05-113.png",
+    "results": [
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA05-113\nTrue, he did tell the House that the Government had asked the Medical Research\nCouncil to reassess the fall-out position in view of the Russian tests, and said that\nthe council's findings would be published. He was not so happy in his defence of the\nGovernment' 's failure to condemn France for her nuclear tests in the Sahara on the\ngrounds that they were only little ones.\nTrur,\nue cliel\nhel tur Hae huat bhe\nGoogmmnt nacr asheor sr Meorical Reorcuen\nCacil to naasse ha lau- cuh porihleniin\noiaw os Ls Russien harts, oc .aicr Auat\nha comncil's kucrings wauulor l puriished.\nwa wos uar D0 happy in his aeferca ot\n-n S -\nGooemuw,\nfaine to ccuolemu\nRaucs\nfar hes uuclea hests in hus\nSanora\noL Luo quanch Luah kues WRR\ncuyy\numle cuas\nName:\nU. Mai"
+        },
+        {
+            "name": "easyocr",
+            "text": "Sentence Database A05-113\nasked Medical Research True, he did tell the House that the Government had the\nreassess the fall-out   position in view of the Russian tests, and said that Council to\nthe councils findings would be published. happy in his defence of the He was not so\nnuclear tests in the Sahara on the Government's failure to condemn France for her\ngrounds that they were only little ones.\nLla  Tvas Lua c u Llx Kcue\nLel Le\n1\nReoecuan LQol: cal Gouq)M M18~J axleo\nacs\nRau pcc'h'~ La _ Cc~cc ! Cuck +o\n~8C 8 3 263\nRunsi ~ 0 & Kek Lus 'cl Llcu 014)\nod\n1\nkuacac J\nCCAnc | puan  Lea Ks L QLuAlo 1 2\n5\n0 & Li 3 uappy Aeke.c9  4 Lou hxa -\n90 uoa\nAc Le GoueJuca~J ! 1o\nCCuolQu 4 Fs  9\nFcc Log+ Luus _ (e he5 ~ LLclec\nCaucra Lua _ Luuas Lct qvcuac Lrr _\n0<\n4lAl _ Cua8 Oul\nName:\nU . Mauu:"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A05-113\nTrue, he did tell the House that the Government had asked the Medical Research\nCouncil to reassess the fall-out position in view of the Russian tests, and said that\nthe council's findings would be published. He was not so happy in his defence of the\nGovernment's failure to condemn France for her nuclear tests in the Sahara on the\ngrounds that they were only little ones.\n|v=, uc 00a MM bu Mam\u0105 larob bk\nGoogmuuuj nah aulum lmn lmaucal Reszavax_\nComuca 0 ko marza MML Jalu au portki em m\nac aklMa \u0142uamsa su\u0143s, mA smak kwoh\n| ZS OO Ku dmuqna wWOmKIA k\u0105 punustga .\nhuj wawa mok so lq\u0105ppy UL Ma aqfzaca_ ob\nHhs\u2014  Gooamuuu) a fot ma lo Cmuolltmu\noma lec W macar lose i aa\nuw  uUMmMile_ Guma.\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA05-113\nTrue, he did tell the House that the Government had asked the Medical Research\nCouncil to reassess the fall-out position in view of the Russian tests, and said that\nthe council's findings would be published. He was not so happy in his defence of the\nGovernment's failure to condemn France for her nuclear tests in the Sahara on the\ngrounds that they were only little ones.\nTu,\nci al\nhel\ntm\nMause\nAurat bhe\nhe\nheaiccl Reseaan\nGouert\nhac\narheo\nh\nCacilto~aseos\nfal- aut pooiticn in\n\nvie od te\nRussi cn\nteots, and cicr k\nthat\nt\ncamunail's diuciug\nwauuler bpuiohed.\nnat so hapry in\nhis\nhe\naeferca ot\nwa\nRcihe\nH\nGouets\nk\ncacleuu\nFanc\nf\ni the\nhe5\nmuclea\nheots\nSaaa\na\nba\nqua\nhar\nhues wese\nauly\nlimhle\nae.\nName:\nU. Mani"
+        }
+    ]
+}

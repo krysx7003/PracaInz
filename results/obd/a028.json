@@ -1,0 +1,26 @@
+{
+    "file": "a028.tiff",
+    "reference_text": "18\n\nas far back as 1907 tries to palliate the horrors of the Hamidian r\u00e9gime by misrepresentations.\nThe author of \u201cLa Crise de l\u2019Orient\u201d also cites the Japanese as an instance of the civilization and aptitude for progress of a non-Christian oriental race. In this case, Ahmed Riza Bey certainly needs to measure the distance between the mental, moral and humane qualities of the Japanese and the Turk, a distance as great as lies geographically between the North Pole and the South.\n",
+    "results": [
+        {
+            "name": "paddle",
+            "text": "18\nas far back as I907 tries to palliate the horrors ofthe Hamidian r\u00e9gime by\nmisrepresentations.\nThe author of\u201cLa Crise de l'Orient' also cites\nthe\nJapanese as an\nof\nthe\ncivilization and aptitude for progress\ninstance\nof\na\nnon-Christian\nIn this case, Ahmed Riza Bey certainly\noriental\nrace.\nneeds to measure the\ndistance\nbetween\nthe mental, moral\nand\nhumane qualities of the Japanese\nand the\nTurk, a\nlies\ngeographically\nbetween the North\nPole and\nthe South.\n\u4e2d\n\n\n?",
+            "time": 30.735865831375122
+        },
+        {
+            "name": "easyocr",
+            "text": "18\npalliate the horrors of the Hamidian regime by as far back: as 1907 tries to\nmisrepresentations.\nThe La Crise de ]'Orient author of also cites the Japanese 6 ( as an\naptitude  lor the  civilization of non-Christian instance of and progress\na\ncertainly needs to measure the Bey In this case, Ahmed Riza oriental race.\nhumane qualities of the Japanese betiveen distance the mental, moral and\nand the Turk, a distance as great as lies geographically between the North\nPole and the South.",
+            "time": 1.241274118423462
+        },
+        {
+            "name": "pytesseract",
+            "text": "18\nas far back as 1907 tries to palliate the horrors of the Hamidian r\u00e9gime by\nmisrepresentations.\nThe author of \u201cLa Crise de l\u2019Orient\u201d\u2019 also cites the Japanese as an\ninstance of the civilization and aptitude for progress of a non-Christian\noriental race. In this case, Ahmed Riza Bey certainly needs to measure the\ndistance between the mental, moral and humane qualities of the Japanese\nand the Turk, a distance as great as lies geographically between the North\nPole and the South.\n",
+            "time": 0.4864168167114258
+        },
+        {
+            "name": "doctr",
+            "text": "18\nas far back as 1907 tries to palliate the horrors of the Hamidian r\u00e9gime by\nmisrepresentations.\nThe author of\"La Crise de l'Orient 11 also cites the Japanese as an\ninstance of the civilization and aptitude for progress of a non-Christian\noriental race. In this case, Ahmed Riza Bey certainly needs to measure the\ndistance between the mental, moral and humane qualities of the Japanese\nand the Turk, a distance as great as lies geographically between the North\nPole and the South.",
+            "time": 2.043041467666626
+        }
+    ]
+}

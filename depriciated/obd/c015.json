@@ -1,0 +1,21 @@
+{
+    "file": "c015.tiff",
+    "results": [
+        {
+            "name": "doctr",
+            "text": "PROLOGUE\nTHE HORSES OF KING MANUS\nAs for the youth who had tried to steal the white\nhorse that the King owned, he was bound hand\nand foot and taken into the castle of the King.\nThere he was thrown down beside the trestles of\nthe great table, and the hot wax from the candles\nthat lighted the supper board dripped down upon\nhim. And it was told to him that at the morrow's\nsunrise he would be slain with the sword.\nThen the King called upon one to finish the\nstory that was being told when the neigh of\nthe white horse was heard in the stable. The\nstory could not be finished for him, however,\nbecause the one who had been telling it was now\noutside, guarding the iron door of the stable with\na sword in his hand. And King Manus, sitting\nat the supper board, could not eat nor refresh\nhimself because there was no one at hand to finish\nthe story for him.\n11"
+        },
+        {
+            "name": "pytesseract",
+            "text": "PROLOGUE\nTHE HORSES OF KING MANUS\nAs for the youth who had tried to steal the white\nhorse that the King owned, he was bound hand\nand foot and taken into the castle of the King.\nThere he was thrown down beside the trestles of\nthe great table, and the hot wax from the candles\nthat lighted the supper board dripped down upon\nhim. And it was told to him that at the morrow\u2019s\nsunrise he would be slain with the sword.\nThen the King called upon one to finish the\nstory that was being told when the neigh of\nthe white horse was heard in the stable. The\nstory could not be finished for him, however,\nbecause the one who had been telling it was now\noutside, guarding the iron door of the stable with\na sword in his hand. And King Manus, sitting\nat the supper board, could not eat nor refresh\nhimself because there was no one at hand to finish\nthe story for him.\n1\n"
+        },
+        {
+            "name": "paddle",
+            "text": "PROLOGUE\nTHE\nHORSES\nOF\nKING\nMANUS\nAs\nfor\nthe\nyouth\nwho\nhad\ntried\nto\nsteal\nthe\nwhite\nthat\nthe\nKing\nhorse\nowned,\nhe\nwas\nbound\nhand\nand\nfoot\nand\ntaken\ninto\nthe\ncastle\nof\nthe\nKing.\nThere\nhe\nthrown\ndown\nbeside\nthe\ntrestles\nof\nwas\nthe\ntable,\nand\nthe\nhot\ngreat\nfrom\nwax\nthe\ncandles\nthat\nlighted\nthe\nboard\ndripped\nsupper\ndown\nupon\nhim.\nAnd\nit\ntold\nto\nhim\nthat\nat\nthe\nwas\nmorrow's\nsunrise\nhe\nwould\nbe\nslain\nwith\nthe\nsword.\nThen\nthe\nKing\ncalled\nto\nfinish\nthe\nupon\none\nthat\nbeing\nstory\ntold\nwhen\nthe\nneigh\nof\nwas\nthe\nwhite\nhorse\nheard\nin\nthe\nstable.\nThe\nWas\nstory\ncould\nnot\nbe\nfinished\nfor\nhim,\nhowever,\n5\nthe\nwho\nhad\nbeen\ntelling\nbecause\nit\none\nwas\nnow\nthe\niron\noutside,\nguarding\ndoor\nof\nthe\nstable\nwith\nsword\nin\nhis\nhand.\nAnd\nKing\nManus,\nsitting\na\nat\nthe\nboard,\ncould\nnot\neat\nrefresh\nsupper\nnor\nhimself\nbecause\nthere\none\nat\nhand\nto\nfinish\nwas\nno\nthe\nstory\nfor\nhim\n11"
+        },
+        {
+            "name": "easyocr",
+            "text": "PROLOGUE\nOF KING THE HORSES MANUS\nAs for the youth who had tried to steal the white\nhorse that the King owned, was bound hand he\nthe  King: and foot and taken into the castle of\nwas thrown down beside the trestles of There he\nthe great table, and the hot wax from the candles\nthat lighted the supper board dripped down upon\nAnd it was told to him that at the morrow s him.\nsunrise he would be slain with the sword.\nthe King   called to finish Then the upon one\nbeing told neigh that when the of story was\nheard in white stable: The horse the the was\nfor   him, however, finished could story be not\nbecause the one who had been telling it was now\noutside, guarding the iron door of the stable with\nKing Manus,  sitting his hand. And sword in\na\nboard, could refresh not the eat at nor supper\nhimself because there was no one at hand to finish\nthe story for him.\n11"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "file": "a05-121.png",
+    "reference_text": "Sentence Database A05-121\nIt was signed by 60 Labour M.P.s, many of them Left-wing sympathisers. It condemned\n*the pollution of the world\u2019s atmosphere as a crime against humanity.\u201d A personal\nletter of protest against the tests from Canon Collins, chairman of the Campaign for\nNuclear Disarmament, addressed to Mr. Khruschev, was also taken to the Russian\nEmbassy.\nIt was signed by 60 Labour M.P.s, many of them Left-wing sympathisers. It condemned\n*the pollution of the world\u2019s atmosphere as a crime against humanity.\u201d A personal\nletter of protest against the tests from Canon Collins, chairman of the Campaign for\nNuclear Disarmament, addressed to Mr. Khruschev, was also taken to the Russian\nEmbassy.\nName:\n",
+    "results": [
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA05-121\nIt was signed by 60 Labour M.P.s,many ofthem Left-wing sympathisers.It condemned\n\"the pollution of the world's atmosphere as a crime against humanity. A personal\nletterofprotest against the testsfrom CanonCollins,chairman ofthe Campaignfor\nNuclear Disarmament,addressed to Mr. Khruschev,was also taken to the Russian\nEmbassy.\nM?.s, may\n\nwas\naimed\n60\n5\nLalar\naf\nleft-wine sgufetis gupaisers.\nWhe\ncandenmeat\ntue\npohutian at nne worla's\natmcophere as\na cvine\nmuaity.\"\nagaist\n\u4eba\npescnal\nluer\ne\nmaet\n\u03bce\nagast\nlests\nFamn\nCancn\nCohi,\naucirmu\no\nbue\nCanpaign\nfcr\nNucleas\nDisar manet,\naolauersed\nLo\nMr.\ntruo\nkuschev,\ntaue\n10\n\u03bce\nwas\nalse\nRusian\nEnnbesy\nName:",
+            "time": 51.37165307998657
+        },
+        {
+            "name": "easyocr",
+            "text": "A05-121 Sentence Database\nIt was signed by 60 Labour M.P.s, many of them Left-wing sympathisers. It condemned\ncrime against humanity \" pollution of the world's atmosphere personal A \"the\nas a\nletter of protest against the tests from Canon Collins, chairman of the Campaign for\nalso taken to the Russian Khruschev, was Nuclear Disarmament, addressed to Mr:\nEmbassy:\nM.. < / 60 LcQsc< =\na'kea S 4CLA OL\n4A\nlli ~l [ 3at-elli, 4upakiii1r5 , L_ cs (\n3\nccolesnqal L_ a ( 4p wor (a Po LA'cL\nLa _ 9\nU\nece_A 4 ckw Corler _ Lc L\ne 0la 0\nleLQs - A*cA^ a & e~ 0 ( Lq OrACM0 (\nLXc Co l Ce~ Q Uc ~e Carc\n3\no( Le _ Nuclecs Ceeacal\n~63o5 Lo C~oM N .\naalalM+aRa UA\nL Lo kyuacru Rl- ce_~\naLoo Lala\nZoxe CasQsayo &\nName:",
+            "time": 1.5872461795806885
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A05-121\nIt was signed by 60 Labour M.P.s, many of them Left-wing sympathisers. It condemned\n*the pollution of the world\u2019s atmosphere as a crime against humanity.\u201d A personal\nletter of protest against the tests from Canon Collins, chairman of the Campaign for\nNuclear Disarmament, addressed to Mr. Khruschev, was also taken to the Russian\nEmbassy.\nIh wer RUQHK HY \u00a7O Laks Luts, He Cy\nee See ee sqyipets squepaitisen,\nWe CemAR Reh LL paluken ah KL world's\neter. @4 \u00abGi ogee be\ni. wine Meee af wolat cape Be\nlading poe C iandan. Ce hins zy o Acting\nName:\n",
+            "time": 1.551269769668579
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA05-121\nIt was signed by 60 Labour M.P.s, many ofthem Left-wing sympathisers. It condemned\n\"the pollution of the world's atmosphere as a crime against humanity.\" A personal\nletter of protest against the tests from Canon Collins, chairman of the Campaign for\nNuclear Disarmament, addressed to Mr. Khruschev, was also taken to the Russian\nEmbassy.\nIt wos a'pulol by 60 Lalsow MPS, u cuy\nof ten\nlelhowit ayrrperis surpanisen.\ntP ceualemuea\nlua po uuhcr at has worla',\nE\nalncorhee cas 9 ciine agaiid huailus.\nN pescnal lelles of puoled agaush hue\nLeds\nfeu\nCancu\nColi,, aucirme\nof lune Capaign fer Nucleas\nbisosue cuad,\naclohueraed to Mr.\nkrus Kuruscleu, was alo taue to kue\nRuosier\nCulorny.\nName:",
+            "time": 1.8083491325378418
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "file": "a05-084.png",
+    "reference_text": "Sentence Database A05-084\nThe Russians now realised its seriousness. The French doubts were more about pro-\ncedure than about substance. The Prime Minister\u2019s attitude of studied calm brought\ndown the temperature of the debate, which never at any time rose to fever pitch, to\na remarkable degree of sub-normality. Throughout Mr. Macmillan\u2019s speech the Earl\nof Home, Foreign Secretary, was listening in the Peers\u2019 Gallery.\nThe Russians now realised its seriousness. The French doubts were more about pro-\ncedure than about substance. The Prime Minister\u2019s attitude of studied calm brought\ndown the temperature of the debate, which never at any time rose to fever pitch, to\na remarkable degree of sub-normality. Throughout Mr. Macmillan\u2019s speech the Earl\nof Home, Foreign Secretary, was listening in the Peers\u2019 Gallery.\nName:\n",
+    "results": [
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA05-084\nThe Russians now realised its seriousness. The French doubts were more about pro-\ncedure thanabout substance. ThePrime Minister's attitude of studied calmbrought\ndown the temperature ofthedebate,which never at any timerose tofever pitch,to\na remarkable degree of sub-normality. Throughout Mr. Macmillan's speech the Earl\nofHome,Foreign Secretary,waslistening inthePeers'Gallery.\nRussiaro now wealiaed\nih seiaoner. The\nThe\naoubt wee  maue\nabannt rvocedue\ntonc\nPiua\nbotance. The\nMinider'\n\u03bcua\nabcuut\nattitde\nm\naf\nstudieas\ncaun\nBvamnpht down\nof ne cebake,wiien never\ntenpeatwe\nat any time vose \ntever piteh, to a\n0\nof onl-ucrmaiily.\nwemarhabe\naequee\nThoughant\nMr. Macmitan'\nspean tue\nEal\nSecvelary, was listeaing\nFerein\nReers\nme\nGanery.\nin\nName:\nU. Manti",
+            "time": 49.39329648017883
+        },
+        {
+            "name": "easyocr",
+            "text": "Sentence Database A05-084\nmore about pro- The Russians now realised its seriousness. The French doubts were\ncedure than about substance. The Prime Minister's attitude of studied calm brought\ndown the temperature of the debate, which never at any time rose to fever pitch, to\nremarkable degree of sub-normality:  Throughout Mr: Macmillan's speech the Earl a\nof Home, Foreign Secretary, was listening in the Peers' Gallery:\nTLs. Rus`co 86 ssall aRa aallone~~ Tx _\nuol\nobbocu aoudi rvocn_dllr Wrjr_ tvl~0^ eo1R\nAu Ao\" ~Xu Julblccq TTLe _\nclxeu Lc\n3\n0( ahcls _ Ls- shuolios)\n64 4 Ovo Ccluy oloe\nclrlual& of Wuel L\nLexpoJallur_ LrurY\n(rurs p'Lc4 1o cs Ks_ 40 VOza  0\nc\nucrua_Lilu 8f J(\nKauouclls aqc Len\nM\nCcs( Twou& 4cud MacuuUau JporCL^ LLa_ LAj .\n3\nGse~& Fevel  ~ Secve lcj 5 / 08 Mcl&\nwca\nAeers 6 auqss\nL2_\nName:\n6 . Mc\"",
+            "time": 1.661874532699585
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A05-084\nThe Russians now realised its seriousness. The French doubts were more about pro-\ncedure than about substance. The Prime Minister\u2019s attitude of studied calm brought\ndown the temperature of the debate, which never at any time rose to fever pitch, to\na remarkable degree of sub-normality. Throughout Mr. Macmillan\u2019s speech the Earl\nof Home, Foreign Secretary, was listening in the Peers\u2019 Gallery.\nTim Deesaue ota ~tOleene ah AQ MEAL QUaA - Ths,\n\u201cAva cAN AUDIO WIR woew\u00ae aout -~vOcR awe\nWrcnr aborurk wilbolerca | Tn tie Mae\nOAL AS of sbuclosd car. GBraugrt aown Wy\nforrpsrabue of Ma cithake \u00bb Wier noord\noF ey Kus voor So fever pikekh | bo oO\nAiO eagle. 66. cho wcrwnanng\nMarr ga hour bur. Macudtian 9 sane bus Cont\nes Mcwrg ' ov BA yr Seevelorrn, Uo W oraerner\na bee \u201cTears! Garey,\nName:\n",
+            "time": 1.7012972831726074
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA05-084\nThe Russians now realised its seriousness. The French doubts were more about pro-\ncedure than about substance. The Prime Minister's attitude of studied calm brought\ndown the temperature of the debate, which never at any time rose to fever pitch, to\na remarkable degree of sub-normality. Throughout Mr. Macmillan's speech the Earl\nof Home, Foreign Secretary, was listening in the Peers' Gallery.\nThe Rusniars Ac uealiaeol ih sercuoner. The\ntvanen oroubts WRIR ua oul alouut rvoceoue\nLuncin about sulotauce. The Riun Mininer.\narihcla of shuolieal cauu Ovaugut alowu lu\ntemposalwe of ma clebachs, wuieu ueURS\ncrt ay hua vose bo feves piteh,to \nnemerhable deqrues of anb-ucruaily.\nToughaw ur. Macuiuan's spaoeou Lue Eawl\nof uoue,\nTovaim Secvelory, was lslaring\ntue Reors' Gauers.\nName:\nU.Moui",
+            "time": 1.89015793800354
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "file": "a01-072u.png",
+    "results": [
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-072\nThese support costs are a big drain on America's dollar reserves. Dr. Adenauer's\nanswer is the once-and-for-all cash offer of 357million. President Kennedy's rejection\nof it is a painful blow to the West German Government. It will now have to pay\nmore - and increase taxation to do SO - or run the obvious risks in upsetting the new\nAmerican administration.\nThese support Costs aul a Big awaiu Cu\nAuesica's dohas neso0es. Dr. holeucuo' a\nauswe io mo Cnco ad-for-an a\ncaoh\noffes of 353 minicu. Pregiaent Kemeoly's\nrejachion otit is a painhul blow to Lue\nWest Gesman Goueumeut. It wiu uo 3 have\nto pag mone  cud uciease tatahen +o clo\n20- CY vuu tue aboicus tecake noh i upselhing\nhe uew Auerican adminisbation.\nName:"
+        },
+        {
+            "name": "easyocr",
+            "text": "A0l-072 Sentence Database\nAdenauer's America's dollar Dr. big drain These support costs on reserves. are a\nanswer is the once-and-for-all cash offer of 357million. President Kennedy's rejection\npainful blow Government_ It will have to pay the West German of it is to now a\nor run the obvious risks in upsetting the new and increase taxation to do so more\nAmerican administration.\n0is avcu These a\nCcots ae _ a SupA\nhesica 2, . Aaeu Cleo) dolcu\nMQpqur' _ 3\n1 Jao _ {c _ au ~g cao h ancowue)\n@u Co _\noPfes Keuaeoua 0f uciu'cu _ ~Paeoiaeuj 353\n3\no} ;4 vejcok;- pac Ll Lue Blow\n4o Cs\nWeol Gourulaead Gesunoc IF Liu haue\nLolu\n40 x abc 40 M Cacaae cua co pcuss\n+0 Lone\napselaug oBuicuo Ho _ 4eck 734\n30 or Vun 28\naduuiskalen Aune); Ca he LQ1o)\nName:"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-072\nThese support costs are a big drain on America's dollar reserves. Dr. Adenauer's\nanswer is the once-and-for-all cash offer of 357million. President Kennedy's rejection\nof it is a painful blow to the West German Government. It will now have to pay\nmore - and increase taxation to do so - or run the obvious risks in upsetting the new\nAmerican administration.\nTUL\" suppot Cc aL A bi\u0105 owemu o\nkubica s Add wmobJ\u0141e. De, katuano',\nomoW\u0141) bo Ma_ omcq - auh -Jor\u2014_aM caok\noSfe> of AZ muwie, \"Puagiattuk Kouuzoky |\u00bb\nKCOOW GG ea pa\u0142 biow: lo kia.\nWel Gesu Goutuueut. I\u0142 wiu uow  kag\u0119_\n\u0142o pay MML - AUM] memasa_ \u0142axah'em to ao\n20 - or vum dua pbuleno -t\u0142emsk msk 1 upzenn\u0105\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA01-072\nThese support costs are a big drain on America's dollar reserves. Dr. Adenauer's\nanswer is the once-and-for-all cash offer of 357million. President Kennedy's rejection\nof it is a painful blow to the West German Government. It will now have to pay\nmore - and increase taxation to do so - or run the obvious risks in upsetting the new\nAmerican administration.\nThese\nsupport costs ae \u00e0\nbis\naran\nau\nmeica's\ndoha\nweseves.\nDr.\nAaeu cue\"\nLo Me\ncnc-ao-fcr-al caoh\nansue\naffe\nof\n3\nmiMicn. Presiaeut\nKemedy's\nweot\nGerman\nGouement. It wil now\nhave\nto pay muane-\nu cueaze\ntatabicu to do\nana\nteot ish in upselting\nthe\nabvicus\nvum\n20\nCY\nte\nAmeican\naduiuisbation.\nnew\nName:"
+        }
+    ]
+}

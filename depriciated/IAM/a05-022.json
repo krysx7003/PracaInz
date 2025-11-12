@@ -1,0 +1,21 @@
+{
+    "file": "a05-022.png",
+    "results": [
+        {
+            "name": "easyocr",
+            "text": "A05-022 Sentence Database\nIt is thought this would be the minimum necessary for the extended training modern\nrequire and to enable each at least There is no to year overseas. man serve a arms\ntruth in suggestions that Mr. Watkinson is at odds with the Service chiefs over the\nover any other aspect of defence policy: decision to dispense with National Service, or\nLuia  ` Lua_ Fiausl Lllle 09_ caulal\nLey~?\nLAacaol MoclsuL L _ LrcrBao 58 fes\nucuiss _ Lo +o LcDL\nLo_ Lacy al0 Osm\nTLer_\nRc Do(5Arcla a Krc= al 3Q 0r _\n24890Re~^ WalkAo aat L wvulu\nA _ Lo\ncyef Sooics_ Ll _ odal > 00rs wia\nok\nwily cee s1 6o Nalcua | cs01~38 _ La _\naA0 &c4 olrs = 0 Sojoics_ ouQs ~\ncr Cr\ncqCeecs _ 4oa\nPO\nName:\n0 . Mau"
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA05-022\nIt is thought this would be the minimum necessary for the extended training modern\narms require and to enable each man to serve at least a year overseas. There is no\ntruth in suggestions that Mr. Watkinson is at odds with the Service chiefs over the\ndecision to dispense with National Service, or over any other aspect of defence policy.\nt 5\nhhausut Luis 5 cuaalal Qa Lue\neceoers fer Lane\neshancieor\nvoin nis 5 ocessn\ncsus secuina asn 8 ho enable Raou\nC\nto\n3002 al last a beas oosseas. Thee is\nuo\nhubu i auggerhen huat\nMr. walliu.on\n\nat odde wihus hue\nSooico cuet OURS\n-\ncecisie ho cuspunse wihu\nNalicual\nSosoics, C 0005 caus olues aspect ot\nclefanca policy.\nName:\nu.Maui"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database 7 A05-022\nIt is thought this would be the minimum necessary for the extended training modern\narms require and to enable each man to serve at least a year overseas. There is no\ntruth in suggestions that Mr. Watkinson is at odds with the Service chiefs over the\ndecision to dispense with National Service, or over any other aspect of defence policy.\nHb uw trowglah tMAe wouwled Ga bea wane\nwreremery fer Mu_ cexbhs.ctior Leta mricnn Wecis my\nCAT BROAN Lo ewxnablts tachi wine to\neeavra_ al eae QA BWA  PULT are. These me\nmo WR Bou gqadkeorn Mra ne.  \u2018WidE inne\n<_< oAdkea wri br | SOC Smolen. crianhr ovord-\nWA Rewer bo Osean s2_ wry Narteuar\nGasorvcn. cer) \u2014 CO ORD} * Oman olwss\u2014 orp ach of\n}\noats ca po Wow.\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA05-022\nIt is thought this would be the minimum necessary for the extended training modern\narms require and to enable each man to serve at least a year overseas. There is no\ntruthin suggestions that Mr.Watkinson is at odds with the Service chiefs over the\ndecision to dispense with National Service,or over any otheraspect of defence policy.\n4\u7684\nkis woaular e\nhne uii\nthansht\nbainny moday\nfar\nm\nerhandead\nneceosary\nneqins and\nto enabw eaan mato.\nam\nThee i\ne0e\nat leaot\nyea\nou5sas.\na\ntuhn in ouggestions hnat\nwalinoan\nMr.\nuo\nhue\nSooice ciiets ooet\nat\noddo\nwihn\nu\nme\n1o\ndisan\u2202e\nwihn\nNalianal\ndecisia\nSevice,\nohner aspect ot\nar\n0005\nauy\ndefence\npolicy.\nName:\nU.Mani"
+        }
+    ]
+}

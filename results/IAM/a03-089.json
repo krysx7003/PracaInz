@@ -1,0 +1,26 @@
+{
+    "file": "a03-089.png",
+    "reference_text": "Sentence Database A03-089\nThis is expected eventually to replace the Fiat G-91, and the F 104 Starfighter, the\nbackbone of the German Air Force.\nThis is expected eventually to replace the Fiat G-91, and the F 104 Starfighter, the\nbackbone of the German Air Force.\nName:\nA . Mab\n",
+    "results": [
+        {
+            "name": "paddle",
+            "text": "Name:\nU.Manhi",
+            "time": 18.778644800186157
+        },
+        {
+            "name": "easyocr",
+            "text": "Sentence Database A03-089\nThis is expected eventually to replace the Fiat G-91, and the F 104 Starfighter, the\nbackbone of the German Air Force.\nexpaclao Ta ailas\nFs aplacs Lo @JLLk\n4\nGlcr F' bk5 ,; Faoy G -S^ , Fok U&\ncuG\n04 VS_ Kc Qacx Molk Gesucy 1\nTees\nName:\nU .MaL'",
+            "time": 1.006213903427124
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A03-089\nThis is expected eventually to replace the Fiat G-91, and the F 104 Starfighter, the\nbackbone of the German Air Force.\n\u201cPisce ges ar ps_chA.cr COMA AMy Lo w2placa Mas\n\u201cRode G- QA, HHrAr AX. ~F AOu Woe & wer\nma, QBacrhourk of Kus Gesmon Me\nName:\nA . Mab\n",
+            "time": 1.2873420715332031
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA03-089\nThis is expected eventually to replace the Fiat G-91, and the F 104 Starfighter, the\nbackbone of the German Air Force.\nTu io expecheor esauhuallus ko aeplaca Mo\nhar\nG-SA, cud\nue\nFAO4 Sloetiver\nmo Bacubone\nos he\nGesmer Mr\nTerco.\nName:\nU.Mah",
+            "time": 1.3481168746948242
+        }
+    ]
+}

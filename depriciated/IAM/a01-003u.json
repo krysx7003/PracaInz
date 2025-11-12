@@ -1,0 +1,21 @@
+{
+    "file": "a01-003u.png",
+    "results": [
+        {
+            "name": "easyocr",
+            "text": "A01-003 Sentence Database\nThough they may gather some Left-wing support, a large majority of Labour M Ps\nlikely to turn down the Foot-Griffiths resolution: Foot's line will be that as Mr . are\nLabour M Ps opposed the Government Bill which brought life peers into existence,\nHouse of Lords they should not forward nominees. He believes that the put now\ntake any steps which would appear should be abolished and that Labour should not\nout-dated institution. to 95 55 prop up an\nWi9 LeH\nQaluq) Touq MaA Ly\nSolllr_\nuajonly a} Labeus Duppo ~$\nlaar_ 0\nLleLa Took MP , Ae_ dowy A4\naq 4o\nFok Ls _ wt m\nG7'AC'L, MQsolow W .\noppcara MT , As _ LaQouss 4la4\n6_ O>\n4fe bvouri Wlicls 8;4\nGo0r54*eL nro 3\nLes oalaulcl 40l 2X`8eACS_\nAlo Au HC\nbeLQjqa Alal Fls _ wosuitaQD Ae_\nforuua\nbe_aloled Houas oC slou_la^\naLd Loras\ndes (als _ 4ot aa sloulal\nLaQrss  has\n4\n uie aprras (o ou Ljalula up pvoc\na 4\nName:"
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-003\nThough they may gather some Left-wing support, a large majority of Labour M Ps\nare likely to turn down the Foot-Griffiths resolution. Mr. Foot's line will be that as\nLabour M Ps opposed the Government Bill which brought life peers into existence,\nthey should not now put forward nominees. He believes that the House of Lords\nshould be abolished and that Labour should not take any steps which would appear\nto \"prop up\" an out-dated institution.\nThough dey mayg gatue soue Lelt -wing -\na\nsupport,\nlarge majonty af Labour\nMPS aue lineugto tusu dowy ma Toot -\nGrifeius neoolwion. Mwr. toots uie will\nle that as Labous MPo oppored to\nGooesument Biu wuiaun bvoughet ufe peors\nnto erisanca, uey ochoulat not uow put\nforweud uominsos. Me believes Lhat tha\nHousaof Lorars ohoulor be abolioned aa\nHuat Labou shoula uot tahe au depo\n4\nwuieu waulor appeas to l pvop up au out.\nName:"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-003\nThough they may gather some Left-wing support, a large majority of Labour M Ps\nare likely to turn down the Foot-Griffiths resolution. Mr. Foot\u2019s line will be that as\nLabour M Ps opposed the Government Bill which brought life peers into existence,\nthey should not now put forward nominees. He believes that the House of Lords\nshould be abolished and that Labour should not take any steps which would appear\nto \u2019prop up\u201d an out-dated institution.\nTHOU Huey org Qabised some Le Yr - wore\naapport, a lorac wajontby al La\u00aeaer\nMP5 o& Lusty to bry downy itnm \u201chale =\nGAM. weoltwon. be. Fools Loa will\nQe Wokoar Lators MPs cppoeachk Ma\nGoves kuewt \u201cBil OW bvorgr Ufe. pears\nwho axigbencs bas odkoulch nok now pe\nCored uoMminads, He pelevas Mak bha\nHowsn. 0 Lovats slhouto\u2019 be adsistad acd\nprak Latics should uch bala. auy shepo\nu\nWK Ward aPeeasr to \u00ab. PYF uP an ow ~\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA01-003\nThough they may gather some Left-wing support,a large majority of Labour MPs\narelikely to turndowntheFoot-Griffithsresolution.Mr. Foot'slinewillbethat as\nLabourMPs opposedthe GovernmentBillwhichbrought lifepeersinto existence,\nthey shouldnot now put forward nominees. He believes that the House of Lords\nshouldbeabolishedandthatLabourshouldnottakeany steps which wouldappear\nto\"prop up\u201d an out-datedinstitution.\nLett-wing\nThough\nthey may\ngatue\nscue\noupport, a large majority af\nLabau\nlinelyto\nme\nFoot-\nMPo ae\ntuu\ndown\nlie\n\u03c9il\nGriffi'lus\nneolwion. \u03bcr. toots\nMPO\nLabaun\nme\nbe that\nas\nopposed\nlife peoro\nGoverument Biu whien bvought\nmey sdauldt not now at\nmto exitence,\nbe lieves tat\nthe\nforwud\nucmineeo. te\nshoutor be abolisohed and\nHause of\nLoras\nnot tale any teso\nshould\ntat\nLaw\n4\nto npvop up an ont.\n\u03c9hicn\nwaulor appear\nName:"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "file": "a05-125.png",
+    "results": [
+        {
+            "name": "easyocr",
+            "text": "A05-125 Sentence Database\nBan-the-bomb demonstrators thronged POLITICAL CORRESPONDENT writes: A\nthe Central Lobby of the House of Commons last night and formed a queue stretching\nAbout 2,000 lobbied M.P.s and for more than 200 yards outside in Old Palace Yard:\nharangued them on disarmament.\nBc  ~Il Folical W~lea Cer MRPC~ @LlA\n@~wa | Mrl calalec L bc~~Rs Ltom &&0\nLolba ot laa^ oq L Calc \nA cllar_\nqens _ Le lcxe4 fevieoi ~s4 cc\nC\neuk ler Fe ~ Le _ 200 0cvol_\nLOAA_\nGilacs Aesauct 1 @0o Yae^\nOlol\n4ccn Gea lalQad 4. ? $ A o1 0^\nc\n0Fl CLLALM cl\nName:"
+        },
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA05-125\nA POLITICAL CORRESPONDENT writes: Ban-the-bomb demonstrators thronged\nthe Central Lobby of the House of Commons last night and formed a queue stretching\nfor more than 200 yards outside in Old Palace Yard. About 2,000 lobbied M.P.s and\nharangued them on disarmament.\nA Polihcal Correpenaent wnles : Bou-the.\nbends\naem cusbaten Lurongear han Quwal\nLolly of a uu mcurse of Coumers lash\nnigut ascr\nfovuea  quena .helcuins\nfor ucno\nwao\n200\nyevas\ncuplae\ni\nOlor Rilaca Yara. Aesauut 2000\nlalbed\nM.?S\nonal Larangued\n1 C\nciis oru cers sewh.\nName:"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A05-125\nA POLITICAL CORRESPONDENT writes: Ban-the-bomb demonstrators thronged\nthe Central Lobby of the House of Commons last night and formed a queue stretching\nfor more than 200 yards outside in Old Palace Yard. About 2,000 lobbied M.P.s and\nharangued them on disarmament.\nS PeiNcak Corstreenaanh woles: Be -iee,\neer  ARerrarisbahen rong Mer Gruwa\nLohan a Be Home wt Conccenn St\nwe ge aor Levumork a Queens. wha herr. 4\nRow wena, bo WO yevans ae Net AR\nwee, OL Adlaea Yarcr. AQsawr 1 200\n\\atS aad ba. 3s on cK KOTOR Gor bo\nfee Chero OT KN corr nak,\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA05-125\nAPOLITICALCORRESPONDENT writes: Ban-the-bombdemonstrators thronged\nthe CentralLobbyof the House of Commons lastnightandformed a queue stretching\nformorethan200yardsoutsideinOldPalace Yard.About 2,000lobbiedM.P.sand\nharanguedthemondisarmament.\nwiles: Ba -the.\nA Polilcal\nCarnlspncent\nalnnansaten throngea\nmu\nCutal\nbul\nLabby\naf tme mcse\naf\nCanas\nlast\nnigut\nad\nshelcins\nfarmeat\nquene\na\nFer\nhua\ncntsiae\nmcne\n200\nyavas\nRalace\nAeant 2000\ni\nOLoN\nYard.\nM.P.s\nlalbied\nanad\nhatangued\n\u03bcuen\ndisarmanmnenh.\nam\nName:"
+        }
+    ]
+}

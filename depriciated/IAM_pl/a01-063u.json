@@ -1,0 +1,21 @@
+{
+    "file": "a01-063u.png",
+    "results": [
+        {
+            "name": "doctr",
+            "text": "Sentence Database\nA01-063\nBut he said discussions \" on a higher level than in the past\" might be useful. The\nPresident will probably discuss the problem with Dr. Brentano, the West German\nForeign Minister, who is due in Washington next week. A big slice of Germany's\n\"aid\" is the early payment of a 210million debt to America. United States officials\nquickly point out that this is money due to America anyway.\nBut ho said discussicns a Cu a uighes\nta\nleuel Luau u Lue past uiight be ushul,\nThe_ Prasiaient wil prababuys olis auss Mo\npuablem wihh Dr. Breulaus, tue west Gesmer\nTereigu Miunisles, who 'o clue m washinptn\nuert ueeeh. A big slica of Germang's.aid\nio hue easl payueut of a 210 milion\ndept to huesica. luitel Shates officials\nquictly point ouut thak tuis io money olue\nto\nhuesica ausway.\nName:"
+        },
+        {
+            "name": "easyocr",
+            "text": "A01-063 Sentence Database\nmight be useful. The higher level than in the past But he said discussions 99 9) on a\nPresident will probably discuss the problem with Dr. West German Brentano, the\nForeign Minister, who is due in Washington next big slice of Germany's week. A\nUnited States officials America. \"aid\" is the early payment of a 21Omillion debt to\nquickly point out that this is money due to America anyway.\naiscua ; Cuo uis4q3 Bud sacd Lo\na Cu\nnsqlul Luaa ~glu Lle Leuol\nL B0  paa <\nTle _ ~ueoceuy s{h pvaBa I bus\nUo  dio cuao\npvoBleu Mila Baecuouo ~r. Lue _ ucof Gejwacu^\nFcrei 84 Juuiaes uialcu wlo\nUco Oue 1\nL\n1\n8i9 4 slics 04 Maqqu aia\nGeucun ~ K Le4 2\nu\n9& 9 ~lc Le pa{ueuk i Qoj Ls 2A0\nlucka ol icials huesica aept Skate,\n+o\nquicL4 Pcuul\n@u Has MouQys #ui, 1o dLo\nkes;cc ausluas ~ 1o\nName:"
+        },
+        {
+            "name": "pytesseract",
+            "text": "Sentence Database A01-063\nBut he said discussions \u201don a higher level than in the past\u201d might be useful. The\nPresident will probably discuss the problem with Dr. Brentano, the West German\nForeign Minister, who is due in Washington next week. A big slice of Germany's\n\u00bbaid\u201d is the early payment of a 210million debt to America. United States officials\nquickly point out that this is money due to America anyway.\n(Buk La sa\u0144  diacUuzMamo , CU A MigLOS\nluwnh ua Lu buq pak mi\u0119 be molul,\nPle_ Puasiatwie wi prabacbug ola aaa Muq_\nppbwm WM D,. Bazmkano , bug, West Gym\nFerugu Mumie, WWO 6 JML m Wualugtaa,\nsuk \u201edgo\u0142h. A m\u0105 2UCAL of Gemcun'a \u201eada \"\no Mqa_ cQarlg paguedh ot a 240 muliau\nALpet to hueyca. Luujeh  Sko\u017ct\u0119a olcia\nopac ky poutb ou rhak \u0142uis we mom CM UML\nto hu aca AM\u0104YWWOA -\nName:\n"
+        },
+        {
+            "name": "paddle",
+            "text": "Sentence Database\nA01-063\nBut he said discussions \"on a higher level than in the past\" might be useful. The\nPresident will probably discuss the problem with Dr. Brentano, the West German\nForeign Minister, who is due in Washington next week. A big slice of Germany's\n\"aid\" is the early payment of a 210million debt to America. United States officials\nquickly point out that this is money due to America anyway.\nBut\nhe saud\ni\nL\ntham\ntue\nnirght be neetul.\nleuel\npast\nThe\nPueoicento\nwiu\nprceba buy dis auss\nMe\npvoblem\nwilh Dr. Buentano, te\nwt\nGermce\nFereigu\nWaslingten\ntinistes, who\no due m\nnett meeeh.\nAlig\nsica of Germauy'naic\"\nhhe\near ly pagunent\na 2to milia\nLo\naf\ntesica. huited\nShates officiabs\ndept\nto\nauut\nthat\nthis\nio money de\nto\nAuesica\nansway.\nName:"
+        }
+    ]
+}
