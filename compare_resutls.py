@@ -90,6 +90,7 @@ def compile_data(end_str):
         )
         rows.append(row)
 
+    rows.sort()
     final_results = pd.concat(rows, ignore_index=True)
     print(final_results)
 

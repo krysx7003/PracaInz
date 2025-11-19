@@ -26,8 +26,6 @@ def process(base_path, ref_dir, res_dir, file_type):
         exit()
 
     files = os.listdir(base_path)
-    if len(files) > 50:
-        files = files[:50]
 
     for file in tqdm(files, desc=f"Files in {res_dir}", total=len(files)):
         if not file.endswith(file_type):
@@ -60,6 +58,6 @@ def process(base_path, ref_dir, res_dir, file_type):
             json.dump(data, out, indent=4)
 
 
-process(OBD_PATH, OBD_REF, "obd", ".tiff")
-process(IAM_PATH, IAM_REF, "IAM", ".png")
+# process(OBD_PATH, OBD_REF, "obd", ".tiff")
+# process(IAM_PATH, IAM_REF, "IAM", ".png")
 process(POBD_PATH, POBD_REF, "pobd", ".png")
