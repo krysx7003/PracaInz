@@ -95,12 +95,6 @@ def compile_data(end_str):
     print(final_results)
 
 
-# compare_results("./results/IAM/", "IAM")
-# compare_results("./results/IAM_pl/", "IAM_pl")
-# compare_results("./results/obd/", "obd")
-# compare_results("./results/obd_pl/", "obd_pl")
-# compare_results("./results/pobd/", "pobd")
-
 compile_data("_IAM.csv")
 compile_data("_IAM_pl.csv")
 compile_data("_obd.csv")

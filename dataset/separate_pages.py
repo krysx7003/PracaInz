@@ -13,7 +13,7 @@ from utils.path import is_valid
 RAW_DIR = "./dataset/raw"
 CLEAN_DIR = "./dataset/clean"
 RES_DIR = "./dataset/ground_truth"
-FONTS_DIR = "/usr/share/fonts/truetype/"
+FONTS_DIR = "./fonts"
 
 # A4 w 300dpi
 A4_WIDTH = 2480
@@ -61,7 +61,7 @@ class TextExtractor:
 
         return text
 
-    def set_font(self, font_name="ubuntu/Ubuntu-B.ttf", font_size=60):
+    def set_font(self, font_name="Ubuntu-B.ttf", font_size=60):
         font_path = os.path.join(FONTS_DIR, font_name)
 
         try:

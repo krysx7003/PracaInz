@@ -6,11 +6,14 @@ from dataset.separate_pages import TextExtractor
 # load_data()
 extractor = TextExtractor()
 files = os.listdir("./dataset/raw")
+fonts = os.listdir("./fonts")
 
 i = 0
 for file in files:
     if not file.endswith(".epub"):
         continue
 
-    extractor.extract(file, i)
+    for font in fonts:
+        extractor.set_font(font)
+        extractor.extract(file, i)
     i += 1
